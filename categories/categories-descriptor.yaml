@@ -1,0 +1,6820 @@
+- code: CAT00
+  parentCode: home
+  titles:
+    en: CAT00 in English
+    it: CAT00 in Italiano
+- code: CAT00A
+  parentCode: home
+  titles:
+    en: CAT00A in English
+    it: CAT00A in Italiano
+- code: CAT00AA
+  parentCode: CAT00A
+  titles:
+    en: CAT00AA in English
+    it: CAT00AA in Italiano
+- code: CAT00AAA
+  parentCode: CAT00AA
+  titles:
+    en: CAT00AAA in English
+    it: CAT00AAA in Italiano
+- code: CAT00AAAA
+  parentCode: CAT00AAA
+  titles:
+    en: CAT00AAAA in English
+    it: CAT00AAAA in Italiano
+- code: CAT00AAAB
+  parentCode: CAT00AAA
+  titles:
+    en: CAT00AAAB in English
+    it: CAT00AAAB in Italiano
+- code: CAT00AAAC
+  parentCode: CAT00AAA
+  titles:
+    en: CAT00AAAC in English
+    it: CAT00AAAC in Italiano
+- code: CAT00AAAD
+  parentCode: CAT00AAA
+  titles:
+    en: CAT00AAAD in English
+    it: CAT00AAAD in Italiano
+- code: CAT00AAB
+  parentCode: CAT00AA
+  titles:
+    en: CAT00AAB in English
+    it: CAT00AAB in Italiano
+- code: CAT00AABA
+  parentCode: CAT00AAB
+  titles:
+    en: CAT00AABA in English
+    it: CAT00AABA in Italiano
+- code: CAT00AABB
+  parentCode: CAT00AAB
+  titles:
+    en: CAT00AABB in English
+    it: CAT00AABB in Italiano
+- code: CAT00AABC
+  parentCode: CAT00AAB
+  titles:
+    en: CAT00AABC in English
+    it: CAT00AABC in Italiano
+- code: CAT00AABD
+  parentCode: CAT00AAB
+  titles:
+    en: CAT00AABD in English
+    it: CAT00AABD in Italiano
+- code: CAT00AAC
+  parentCode: CAT00AA
+  titles:
+    en: CAT00AAC in English
+    it: CAT00AAC in Italiano
+- code: CAT00AACA
+  parentCode: CAT00AAC
+  titles:
+    en: CAT00AACA in English
+    it: CAT00AACA in Italiano
+- code: CAT00AACB
+  parentCode: CAT00AAC
+  titles:
+    en: CAT00AACB in English
+    it: CAT00AACB in Italiano
+- code: CAT00AACC
+  parentCode: CAT00AAC
+  titles:
+    en: CAT00AACC in English
+    it: CAT00AACC in Italiano
+- code: CAT00AACD
+  parentCode: CAT00AAC
+  titles:
+    en: CAT00AACD in English
+    it: CAT00AACD in Italiano
+- code: CAT00AAD
+  parentCode: CAT00AA
+  titles:
+    en: CAT00AAD in English
+    it: CAT00AAD in Italiano
+- code: CAT00AADA
+  parentCode: CAT00AAD
+  titles:
+    en: CAT00AADA in English
+    it: CAT00AADA in Italiano
+- code: CAT00AADB
+  parentCode: CAT00AAD
+  titles:
+    en: CAT00AADB in English
+    it: CAT00AADB in Italiano
+- code: CAT00AADC
+  parentCode: CAT00AAD
+  titles:
+    en: CAT00AADC in English
+    it: CAT00AADC in Italiano
+- code: CAT00AADD
+  parentCode: CAT00AAD
+  titles:
+    en: CAT00AADD in English
+    it: CAT00AADD in Italiano
+- code: CAT00AB
+  parentCode: CAT00A
+  titles:
+    en: CAT00AB in English
+    it: CAT00AB in Italiano
+- code: CAT00ABA
+  parentCode: CAT00AB
+  titles:
+    en: CAT00ABA in English
+    it: CAT00ABA in Italiano
+- code: CAT00ABAA
+  parentCode: CAT00ABA
+  titles:
+    en: CAT00ABAA in English
+    it: CAT00ABAA in Italiano
+- code: CAT00ABAB
+  parentCode: CAT00ABA
+  titles:
+    en: CAT00ABAB in English
+    it: CAT00ABAB in Italiano
+- code: CAT00ABAC
+  parentCode: CAT00ABA
+  titles:
+    en: CAT00ABAC in English
+    it: CAT00ABAC in Italiano
+- code: CAT00ABAD
+  parentCode: CAT00ABA
+  titles:
+    en: CAT00ABAD in English
+    it: CAT00ABAD in Italiano
+- code: CAT00ABB
+  parentCode: CAT00AB
+  titles:
+    en: CAT00ABB in English
+    it: CAT00ABB in Italiano
+- code: CAT00ABBA
+  parentCode: CAT00ABB
+  titles:
+    en: CAT00ABBA in English
+    it: CAT00ABBA in Italiano
+- code: CAT00ABBB
+  parentCode: CAT00ABB
+  titles:
+    en: CAT00ABBB in English
+    it: CAT00ABBB in Italiano
+- code: CAT00ABBC
+  parentCode: CAT00ABB
+  titles:
+    en: CAT00ABBC in English
+    it: CAT00ABBC in Italiano
+- code: CAT00ABBD
+  parentCode: CAT00ABB
+  titles:
+    en: CAT00ABBD in English
+    it: CAT00ABBD in Italiano
+- code: CAT00ABC
+  parentCode: CAT00AB
+  titles:
+    en: CAT00ABC in English
+    it: CAT00ABC in Italiano
+- code: CAT00ABCA
+  parentCode: CAT00ABC
+  titles:
+    en: CAT00ABCA in English
+    it: CAT00ABCA in Italiano
+- code: CAT00ABCB
+  parentCode: CAT00ABC
+  titles:
+    en: CAT00ABCB in English
+    it: CAT00ABCB in Italiano
+- code: CAT00ABCC
+  parentCode: CAT00ABC
+  titles:
+    en: CAT00ABCC in English
+    it: CAT00ABCC in Italiano
+- code: CAT00ABCD
+  parentCode: CAT00ABC
+  titles:
+    en: CAT00ABCD in English
+    it: CAT00ABCD in Italiano
+- code: CAT00ABD
+  parentCode: CAT00AB
+  titles:
+    en: CAT00ABD in English
+    it: CAT00ABD in Italiano
+- code: CAT00ABDA
+  parentCode: CAT00ABD
+  titles:
+    en: CAT00ABDA in English
+    it: CAT00ABDA in Italiano
+- code: CAT00ABDB
+  parentCode: CAT00ABD
+  titles:
+    en: CAT00ABDB in English
+    it: CAT00ABDB in Italiano
+- code: CAT00ABDC
+  parentCode: CAT00ABD
+  titles:
+    en: CAT00ABDC in English
+    it: CAT00ABDC in Italiano
+- code: CAT00ABDD
+  parentCode: CAT00ABD
+  titles:
+    en: CAT00ABDD in English
+    it: CAT00ABDD in Italiano
+- code: CAT00AC
+  parentCode: CAT00A
+  titles:
+    en: CAT00AC in English
+    it: CAT00AC in Italiano
+- code: CAT00ACA
+  parentCode: CAT00AC
+  titles:
+    en: CAT00ACA in English
+    it: CAT00ACA in Italiano
+- code: CAT00ACAA
+  parentCode: CAT00ACA
+  titles:
+    en: CAT00ACAA in English
+    it: CAT00ACAA in Italiano
+- code: CAT00ACAB
+  parentCode: CAT00ACA
+  titles:
+    en: CAT00ACAB in English
+    it: CAT00ACAB in Italiano
+- code: CAT00ACAC
+  parentCode: CAT00ACA
+  titles:
+    en: CAT00ACAC in English
+    it: CAT00ACAC in Italiano
+- code: CAT00ACAD
+  parentCode: CAT00ACA
+  titles:
+    en: CAT00ACAD in English
+    it: CAT00ACAD in Italiano
+- code: CAT00ACB
+  parentCode: CAT00AC
+  titles:
+    en: CAT00ACB in English
+    it: CAT00ACB in Italiano
+- code: CAT00ACBA
+  parentCode: CAT00ACB
+  titles:
+    en: CAT00ACBA in English
+    it: CAT00ACBA in Italiano
+- code: CAT00ACBB
+  parentCode: CAT00ACB
+  titles:
+    en: CAT00ACBB in English
+    it: CAT00ACBB in Italiano
+- code: CAT00ACBC
+  parentCode: CAT00ACB
+  titles:
+    en: CAT00ACBC in English
+    it: CAT00ACBC in Italiano
+- code: CAT00ACBD
+  parentCode: CAT00ACB
+  titles:
+    en: CAT00ACBD in English
+    it: CAT00ACBD in Italiano
+- code: CAT00ACC
+  parentCode: CAT00AC
+  titles:
+    en: CAT00ACC in English
+    it: CAT00ACC in Italiano
+- code: CAT00ACCA
+  parentCode: CAT00ACC
+  titles:
+    en: CAT00ACCA in English
+    it: CAT00ACCA in Italiano
+- code: CAT00ACCB
+  parentCode: CAT00ACC
+  titles:
+    en: CAT00ACCB in English
+    it: CAT00ACCB in Italiano
+- code: CAT00ACCC
+  parentCode: CAT00ACC
+  titles:
+    en: CAT00ACCC in English
+    it: CAT00ACCC in Italiano
+- code: CAT00ACCD
+  parentCode: CAT00ACC
+  titles:
+    en: CAT00ACCD in English
+    it: CAT00ACCD in Italiano
+- code: CAT00ACD
+  parentCode: CAT00AC
+  titles:
+    en: CAT00ACD in English
+    it: CAT00ACD in Italiano
+- code: CAT00ACDA
+  parentCode: CAT00ACD
+  titles:
+    en: CAT00ACDA in English
+    it: CAT00ACDA in Italiano
+- code: CAT00ACDB
+  parentCode: CAT00ACD
+  titles:
+    en: CAT00ACDB in English
+    it: CAT00ACDB in Italiano
+- code: CAT00ACDC
+  parentCode: CAT00ACD
+  titles:
+    en: CAT00ACDC in English
+    it: CAT00ACDC in Italiano
+- code: CAT00ACDD
+  parentCode: CAT00ACD
+  titles:
+    en: CAT00ACDD in English
+    it: CAT00ACDD in Italiano
+- code: CAT00AD
+  parentCode: CAT00A
+  titles:
+    en: CAT00AD in English
+    it: CAT00AD in Italiano
+- code: CAT00ADA
+  parentCode: CAT00AD
+  titles:
+    en: CAT00ADA in English
+    it: CAT00ADA in Italiano
+- code: CAT00ADAA
+  parentCode: CAT00ADA
+  titles:
+    en: CAT00ADAA in English
+    it: CAT00ADAA in Italiano
+- code: CAT00ADAB
+  parentCode: CAT00ADA
+  titles:
+    en: CAT00ADAB in English
+    it: CAT00ADAB in Italiano
+- code: CAT00ADAC
+  parentCode: CAT00ADA
+  titles:
+    en: CAT00ADAC in English
+    it: CAT00ADAC in Italiano
+- code: CAT00ADAD
+  parentCode: CAT00ADA
+  titles:
+    en: CAT00ADAD in English
+    it: CAT00ADAD in Italiano
+- code: CAT00ADB
+  parentCode: CAT00AD
+  titles:
+    en: CAT00ADB in English
+    it: CAT00ADB in Italiano
+- code: CAT00ADBA
+  parentCode: CAT00ADB
+  titles:
+    en: CAT00ADBA in English
+    it: CAT00ADBA in Italiano
+- code: CAT00ADBB
+  parentCode: CAT00ADB
+  titles:
+    en: CAT00ADBB in English
+    it: CAT00ADBB in Italiano
+- code: CAT00ADBC
+  parentCode: CAT00ADB
+  titles:
+    en: CAT00ADBC in English
+    it: CAT00ADBC in Italiano
+- code: CAT00ADBD
+  parentCode: CAT00ADB
+  titles:
+    en: CAT00ADBD in English
+    it: CAT00ADBD in Italiano
+- code: CAT00ADC
+  parentCode: CAT00AD
+  titles:
+    en: CAT00ADC in English
+    it: CAT00ADC in Italiano
+- code: CAT00ADCA
+  parentCode: CAT00ADC
+  titles:
+    en: CAT00ADCA in English
+    it: CAT00ADCA in Italiano
+- code: CAT00ADCB
+  parentCode: CAT00ADC
+  titles:
+    en: CAT00ADCB in English
+    it: CAT00ADCB in Italiano
+- code: CAT00ADCC
+  parentCode: CAT00ADC
+  titles:
+    en: CAT00ADCC in English
+    it: CAT00ADCC in Italiano
+- code: CAT00ADCD
+  parentCode: CAT00ADC
+  titles:
+    en: CAT00ADCD in English
+    it: CAT00ADCD in Italiano
+- code: CAT00ADD
+  parentCode: CAT00AD
+  titles:
+    en: CAT00ADD in English
+    it: CAT00ADD in Italiano
+- code: CAT00ADDA
+  parentCode: CAT00ADD
+  titles:
+    en: CAT00ADDA in English
+    it: CAT00ADDA in Italiano
+- code: CAT00ADDB
+  parentCode: CAT00ADD
+  titles:
+    en: CAT00ADDB in English
+    it: CAT00ADDB in Italiano
+- code: CAT00ADDC
+  parentCode: CAT00ADD
+  titles:
+    en: CAT00ADDC in English
+    it: CAT00ADDC in Italiano
+- code: CAT00ADDD
+  parentCode: CAT00ADD
+  titles:
+    en: CAT00ADDD in English
+    it: CAT00ADDD in Italiano
+- code: CAT00B
+  parentCode: home
+  titles:
+    en: CAT00B in English
+    it: CAT00B in Italiano
+- code: CAT00BA
+  parentCode: CAT00B
+  titles:
+    en: CAT00BA in English
+    it: CAT00BA in Italiano
+- code: CAT00BAA
+  parentCode: CAT00BA
+  titles:
+    en: CAT00BAA in English
+    it: CAT00BAA in Italiano
+- code: CAT00BAAA
+  parentCode: CAT00BAA
+  titles:
+    en: CAT00BAAA in English
+    it: CAT00BAAA in Italiano
+- code: CAT00BAAB
+  parentCode: CAT00BAA
+  titles:
+    en: CAT00BAAB in English
+    it: CAT00BAAB in Italiano
+- code: CAT00BAAC
+  parentCode: CAT00BAA
+  titles:
+    en: CAT00BAAC in English
+    it: CAT00BAAC in Italiano
+- code: CAT00BAAD
+  parentCode: CAT00BAA
+  titles:
+    en: CAT00BAAD in English
+    it: CAT00BAAD in Italiano
+- code: CAT00BAB
+  parentCode: CAT00BA
+  titles:
+    en: CAT00BAB in English
+    it: CAT00BAB in Italiano
+- code: CAT00BABA
+  parentCode: CAT00BAB
+  titles:
+    en: CAT00BABA in English
+    it: CAT00BABA in Italiano
+- code: CAT00BABB
+  parentCode: CAT00BAB
+  titles:
+    en: CAT00BABB in English
+    it: CAT00BABB in Italiano
+- code: CAT00BABC
+  parentCode: CAT00BAB
+  titles:
+    en: CAT00BABC in English
+    it: CAT00BABC in Italiano
+- code: CAT00BABD
+  parentCode: CAT00BAB
+  titles:
+    en: CAT00BABD in English
+    it: CAT00BABD in Italiano
+- code: CAT00BAC
+  parentCode: CAT00BA
+  titles:
+    en: CAT00BAC in English
+    it: CAT00BAC in Italiano
+- code: CAT00BACA
+  parentCode: CAT00BAC
+  titles:
+    en: CAT00BACA in English
+    it: CAT00BACA in Italiano
+- code: CAT00BACB
+  parentCode: CAT00BAC
+  titles:
+    en: CAT00BACB in English
+    it: CAT00BACB in Italiano
+- code: CAT00BACC
+  parentCode: CAT00BAC
+  titles:
+    en: CAT00BACC in English
+    it: CAT00BACC in Italiano
+- code: CAT00BACD
+  parentCode: CAT00BAC
+  titles:
+    en: CAT00BACD in English
+    it: CAT00BACD in Italiano
+- code: CAT00BAD
+  parentCode: CAT00BA
+  titles:
+    en: CAT00BAD in English
+    it: CAT00BAD in Italiano
+- code: CAT00BADA
+  parentCode: CAT00BAD
+  titles:
+    en: CAT00BADA in English
+    it: CAT00BADA in Italiano
+- code: CAT00BADB
+  parentCode: CAT00BAD
+  titles:
+    en: CAT00BADB in English
+    it: CAT00BADB in Italiano
+- code: CAT00BADC
+  parentCode: CAT00BAD
+  titles:
+    en: CAT00BADC in English
+    it: CAT00BADC in Italiano
+- code: CAT00BADD
+  parentCode: CAT00BAD
+  titles:
+    en: CAT00BADD in English
+    it: CAT00BADD in Italiano
+- code: CAT00BB
+  parentCode: CAT00B
+  titles:
+    en: CAT00BB in English
+    it: CAT00BB in Italiano
+- code: CAT00BBA
+  parentCode: CAT00BB
+  titles:
+    en: CAT00BBA in English
+    it: CAT00BBA in Italiano
+- code: CAT00BBAA
+  parentCode: CAT00BBA
+  titles:
+    en: CAT00BBAA in English
+    it: CAT00BBAA in Italiano
+- code: CAT00BBAB
+  parentCode: CAT00BBA
+  titles:
+    en: CAT00BBAB in English
+    it: CAT00BBAB in Italiano
+- code: CAT00BBAC
+  parentCode: CAT00BBA
+  titles:
+    en: CAT00BBAC in English
+    it: CAT00BBAC in Italiano
+- code: CAT00BBAD
+  parentCode: CAT00BBA
+  titles:
+    en: CAT00BBAD in English
+    it: CAT00BBAD in Italiano
+- code: CAT00BBB
+  parentCode: CAT00BB
+  titles:
+    en: CAT00BBB in English
+    it: CAT00BBB in Italiano
+- code: CAT00BBBA
+  parentCode: CAT00BBB
+  titles:
+    en: CAT00BBBA in English
+    it: CAT00BBBA in Italiano
+- code: CAT00BBBB
+  parentCode: CAT00BBB
+  titles:
+    en: CAT00BBBB in English
+    it: CAT00BBBB in Italiano
+- code: CAT00BBBC
+  parentCode: CAT00BBB
+  titles:
+    en: CAT00BBBC in English
+    it: CAT00BBBC in Italiano
+- code: CAT00BBBD
+  parentCode: CAT00BBB
+  titles:
+    en: CAT00BBBD in English
+    it: CAT00BBBD in Italiano
+- code: CAT00BBC
+  parentCode: CAT00BB
+  titles:
+    en: CAT00BBC in English
+    it: CAT00BBC in Italiano
+- code: CAT00BBCA
+  parentCode: CAT00BBC
+  titles:
+    en: CAT00BBCA in English
+    it: CAT00BBCA in Italiano
+- code: CAT00BBCB
+  parentCode: CAT00BBC
+  titles:
+    en: CAT00BBCB in English
+    it: CAT00BBCB in Italiano
+- code: CAT00BBCC
+  parentCode: CAT00BBC
+  titles:
+    en: CAT00BBCC in English
+    it: CAT00BBCC in Italiano
+- code: CAT00BBCD
+  parentCode: CAT00BBC
+  titles:
+    en: CAT00BBCD in English
+    it: CAT00BBCD in Italiano
+- code: CAT00BBD
+  parentCode: CAT00BB
+  titles:
+    en: CAT00BBD in English
+    it: CAT00BBD in Italiano
+- code: CAT00BBDA
+  parentCode: CAT00BBD
+  titles:
+    en: CAT00BBDA in English
+    it: CAT00BBDA in Italiano
+- code: CAT00BBDB
+  parentCode: CAT00BBD
+  titles:
+    en: CAT00BBDB in English
+    it: CAT00BBDB in Italiano
+- code: CAT00BBDC
+  parentCode: CAT00BBD
+  titles:
+    en: CAT00BBDC in English
+    it: CAT00BBDC in Italiano
+- code: CAT00BBDD
+  parentCode: CAT00BBD
+  titles:
+    en: CAT00BBDD in English
+    it: CAT00BBDD in Italiano
+- code: CAT00BC
+  parentCode: CAT00B
+  titles:
+    en: CAT00BC in English
+    it: CAT00BC in Italiano
+- code: CAT00BCA
+  parentCode: CAT00BC
+  titles:
+    en: CAT00BCA in English
+    it: CAT00BCA in Italiano
+- code: CAT00BCAA
+  parentCode: CAT00BCA
+  titles:
+    en: CAT00BCAA in English
+    it: CAT00BCAA in Italiano
+- code: CAT00BCAB
+  parentCode: CAT00BCA
+  titles:
+    en: CAT00BCAB in English
+    it: CAT00BCAB in Italiano
+- code: CAT00BCAC
+  parentCode: CAT00BCA
+  titles:
+    en: CAT00BCAC in English
+    it: CAT00BCAC in Italiano
+- code: CAT00BCAD
+  parentCode: CAT00BCA
+  titles:
+    en: CAT00BCAD in English
+    it: CAT00BCAD in Italiano
+- code: CAT00BCB
+  parentCode: CAT00BC
+  titles:
+    en: CAT00BCB in English
+    it: CAT00BCB in Italiano
+- code: CAT00BCBA
+  parentCode: CAT00BCB
+  titles:
+    en: CAT00BCBA in English
+    it: CAT00BCBA in Italiano
+- code: CAT00BCBB
+  parentCode: CAT00BCB
+  titles:
+    en: CAT00BCBB in English
+    it: CAT00BCBB in Italiano
+- code: CAT00BCBC
+  parentCode: CAT00BCB
+  titles:
+    en: CAT00BCBC in English
+    it: CAT00BCBC in Italiano
+- code: CAT00BCBD
+  parentCode: CAT00BCB
+  titles:
+    en: CAT00BCBD in English
+    it: CAT00BCBD in Italiano
+- code: CAT00BCC
+  parentCode: CAT00BC
+  titles:
+    en: CAT00BCC in English
+    it: CAT00BCC in Italiano
+- code: CAT00BCCA
+  parentCode: CAT00BCC
+  titles:
+    en: CAT00BCCA in English
+    it: CAT00BCCA in Italiano
+- code: CAT00BCCB
+  parentCode: CAT00BCC
+  titles:
+    en: CAT00BCCB in English
+    it: CAT00BCCB in Italiano
+- code: CAT00BCCC
+  parentCode: CAT00BCC
+  titles:
+    en: CAT00BCCC in English
+    it: CAT00BCCC in Italiano
+- code: CAT00BCCD
+  parentCode: CAT00BCC
+  titles:
+    en: CAT00BCCD in English
+    it: CAT00BCCD in Italiano
+- code: CAT00BCD
+  parentCode: CAT00BC
+  titles:
+    en: CAT00BCD in English
+    it: CAT00BCD in Italiano
+- code: CAT00BCDA
+  parentCode: CAT00BCD
+  titles:
+    en: CAT00BCDA in English
+    it: CAT00BCDA in Italiano
+- code: CAT00BCDB
+  parentCode: CAT00BCD
+  titles:
+    en: CAT00BCDB in English
+    it: CAT00BCDB in Italiano
+- code: CAT00BCDC
+  parentCode: CAT00BCD
+  titles:
+    en: CAT00BCDC in English
+    it: CAT00BCDC in Italiano
+- code: CAT00BCDD
+  parentCode: CAT00BCD
+  titles:
+    en: CAT00BCDD in English
+    it: CAT00BCDD in Italiano
+- code: CAT00BD
+  parentCode: CAT00B
+  titles:
+    en: CAT00BD in English
+    it: CAT00BD in Italiano
+- code: CAT00BDA
+  parentCode: CAT00BD
+  titles:
+    en: CAT00BDA in English
+    it: CAT00BDA in Italiano
+- code: CAT00BDAA
+  parentCode: CAT00BDA
+  titles:
+    en: CAT00BDAA in English
+    it: CAT00BDAA in Italiano
+- code: CAT00BDAB
+  parentCode: CAT00BDA
+  titles:
+    en: CAT00BDAB in English
+    it: CAT00BDAB in Italiano
+- code: CAT00BDAC
+  parentCode: CAT00BDA
+  titles:
+    en: CAT00BDAC in English
+    it: CAT00BDAC in Italiano
+- code: CAT00BDAD
+  parentCode: CAT00BDA
+  titles:
+    en: CAT00BDAD in English
+    it: CAT00BDAD in Italiano
+- code: CAT00BDB
+  parentCode: CAT00BD
+  titles:
+    en: CAT00BDB in English
+    it: CAT00BDB in Italiano
+- code: CAT00BDBA
+  parentCode: CAT00BDB
+  titles:
+    en: CAT00BDBA in English
+    it: CAT00BDBA in Italiano
+- code: CAT00BDBB
+  parentCode: CAT00BDB
+  titles:
+    en: CAT00BDBB in English
+    it: CAT00BDBB in Italiano
+- code: CAT00BDBC
+  parentCode: CAT00BDB
+  titles:
+    en: CAT00BDBC in English
+    it: CAT00BDBC in Italiano
+- code: CAT00BDBD
+  parentCode: CAT00BDB
+  titles:
+    en: CAT00BDBD in English
+    it: CAT00BDBD in Italiano
+- code: CAT00BDC
+  parentCode: CAT00BD
+  titles:
+    en: CAT00BDC in English
+    it: CAT00BDC in Italiano
+- code: CAT00BDCA
+  parentCode: CAT00BDC
+  titles:
+    en: CAT00BDCA in English
+    it: CAT00BDCA in Italiano
+- code: CAT00BDCB
+  parentCode: CAT00BDC
+  titles:
+    en: CAT00BDCB in English
+    it: CAT00BDCB in Italiano
+- code: CAT00BDCC
+  parentCode: CAT00BDC
+  titles:
+    en: CAT00BDCC in English
+    it: CAT00BDCC in Italiano
+- code: CAT00BDCD
+  parentCode: CAT00BDC
+  titles:
+    en: CAT00BDCD in English
+    it: CAT00BDCD in Italiano
+- code: CAT00BDD
+  parentCode: CAT00BD
+  titles:
+    en: CAT00BDD in English
+    it: CAT00BDD in Italiano
+- code: CAT00BDDA
+  parentCode: CAT00BDD
+  titles:
+    en: CAT00BDDA in English
+    it: CAT00BDDA in Italiano
+- code: CAT00BDDB
+  parentCode: CAT00BDD
+  titles:
+    en: CAT00BDDB in English
+    it: CAT00BDDB in Italiano
+- code: CAT00BDDC
+  parentCode: CAT00BDD
+  titles:
+    en: CAT00BDDC in English
+    it: CAT00BDDC in Italiano
+- code: CAT00BDDD
+  parentCode: CAT00BDD
+  titles:
+    en: CAT00BDDD in English
+    it: CAT00BDDD in Italiano
+- code: CAT00C
+  parentCode: home
+  titles:
+    en: CAT00C in English
+    it: CAT00C in Italiano
+- code: CAT00CA
+  parentCode: CAT00C
+  titles:
+    en: CAT00CA in English
+    it: CAT00CA in Italiano
+- code: CAT00CAA
+  parentCode: CAT00CA
+  titles:
+    en: CAT00CAA in English
+    it: CAT00CAA in Italiano
+- code: CAT00CAAA
+  parentCode: CAT00CAA
+  titles:
+    en: CAT00CAAA in English
+    it: CAT00CAAA in Italiano
+- code: CAT00CAAB
+  parentCode: CAT00CAA
+  titles:
+    en: CAT00CAAB in English
+    it: CAT00CAAB in Italiano
+- code: CAT00CAAC
+  parentCode: CAT00CAA
+  titles:
+    en: CAT00CAAC in English
+    it: CAT00CAAC in Italiano
+- code: CAT00CAAD
+  parentCode: CAT00CAA
+  titles:
+    en: CAT00CAAD in English
+    it: CAT00CAAD in Italiano
+- code: CAT00CAB
+  parentCode: CAT00CA
+  titles:
+    en: CAT00CAB in English
+    it: CAT00CAB in Italiano
+- code: CAT00CABA
+  parentCode: CAT00CAB
+  titles:
+    en: CAT00CABA in English
+    it: CAT00CABA in Italiano
+- code: CAT00CABB
+  parentCode: CAT00CAB
+  titles:
+    en: CAT00CABB in English
+    it: CAT00CABB in Italiano
+- code: CAT00CABC
+  parentCode: CAT00CAB
+  titles:
+    en: CAT00CABC in English
+    it: CAT00CABC in Italiano
+- code: CAT00CABD
+  parentCode: CAT00CAB
+  titles:
+    en: CAT00CABD in English
+    it: CAT00CABD in Italiano
+- code: CAT00CAC
+  parentCode: CAT00CA
+  titles:
+    en: CAT00CAC in English
+    it: CAT00CAC in Italiano
+- code: CAT00CACA
+  parentCode: CAT00CAC
+  titles:
+    en: CAT00CACA in English
+    it: CAT00CACA in Italiano
+- code: CAT00CACB
+  parentCode: CAT00CAC
+  titles:
+    en: CAT00CACB in English
+    it: CAT00CACB in Italiano
+- code: CAT00CACC
+  parentCode: CAT00CAC
+  titles:
+    en: CAT00CACC in English
+    it: CAT00CACC in Italiano
+- code: CAT00CACD
+  parentCode: CAT00CAC
+  titles:
+    en: CAT00CACD in English
+    it: CAT00CACD in Italiano
+- code: CAT00CAD
+  parentCode: CAT00CA
+  titles:
+    en: CAT00CAD in English
+    it: CAT00CAD in Italiano
+- code: CAT00CADA
+  parentCode: CAT00CAD
+  titles:
+    en: CAT00CADA in English
+    it: CAT00CADA in Italiano
+- code: CAT00CADB
+  parentCode: CAT00CAD
+  titles:
+    en: CAT00CADB in English
+    it: CAT00CADB in Italiano
+- code: CAT00CADC
+  parentCode: CAT00CAD
+  titles:
+    en: CAT00CADC in English
+    it: CAT00CADC in Italiano
+- code: CAT00CADD
+  parentCode: CAT00CAD
+  titles:
+    en: CAT00CADD in English
+    it: CAT00CADD in Italiano
+- code: CAT00CB
+  parentCode: CAT00C
+  titles:
+    en: CAT00CB in English
+    it: CAT00CB in Italiano
+- code: CAT00CBA
+  parentCode: CAT00CB
+  titles:
+    en: CAT00CBA in English
+    it: CAT00CBA in Italiano
+- code: CAT00CBAA
+  parentCode: CAT00CBA
+  titles:
+    en: CAT00CBAA in English
+    it: CAT00CBAA in Italiano
+- code: CAT00CBAB
+  parentCode: CAT00CBA
+  titles:
+    en: CAT00CBAB in English
+    it: CAT00CBAB in Italiano
+- code: CAT00CBAC
+  parentCode: CAT00CBA
+  titles:
+    en: CAT00CBAC in English
+    it: CAT00CBAC in Italiano
+- code: CAT00CBAD
+  parentCode: CAT00CBA
+  titles:
+    en: CAT00CBAD in English
+    it: CAT00CBAD in Italiano
+- code: CAT00CBB
+  parentCode: CAT00CB
+  titles:
+    en: CAT00CBB in English
+    it: CAT00CBB in Italiano
+- code: CAT00CBBA
+  parentCode: CAT00CBB
+  titles:
+    en: CAT00CBBA in English
+    it: CAT00CBBA in Italiano
+- code: CAT00CBBB
+  parentCode: CAT00CBB
+  titles:
+    en: CAT00CBBB in English
+    it: CAT00CBBB in Italiano
+- code: CAT00CBBC
+  parentCode: CAT00CBB
+  titles:
+    en: CAT00CBBC in English
+    it: CAT00CBBC in Italiano
+- code: CAT00CBBD
+  parentCode: CAT00CBB
+  titles:
+    en: CAT00CBBD in English
+    it: CAT00CBBD in Italiano
+- code: CAT00CBC
+  parentCode: CAT00CB
+  titles:
+    en: CAT00CBC in English
+    it: CAT00CBC in Italiano
+- code: CAT00CBCA
+  parentCode: CAT00CBC
+  titles:
+    en: CAT00CBCA in English
+    it: CAT00CBCA in Italiano
+- code: CAT00CBCB
+  parentCode: CAT00CBC
+  titles:
+    en: CAT00CBCB in English
+    it: CAT00CBCB in Italiano
+- code: CAT00CBCC
+  parentCode: CAT00CBC
+  titles:
+    en: CAT00CBCC in English
+    it: CAT00CBCC in Italiano
+- code: CAT00CBCD
+  parentCode: CAT00CBC
+  titles:
+    en: CAT00CBCD in English
+    it: CAT00CBCD in Italiano
+- code: CAT00CBD
+  parentCode: CAT00CB
+  titles:
+    en: CAT00CBD in English
+    it: CAT00CBD in Italiano
+- code: CAT00CBDA
+  parentCode: CAT00CBD
+  titles:
+    en: CAT00CBDA in English
+    it: CAT00CBDA in Italiano
+- code: CAT00CBDB
+  parentCode: CAT00CBD
+  titles:
+    en: CAT00CBDB in English
+    it: CAT00CBDB in Italiano
+- code: CAT00CBDC
+  parentCode: CAT00CBD
+  titles:
+    en: CAT00CBDC in English
+    it: CAT00CBDC in Italiano
+- code: CAT00CBDD
+  parentCode: CAT00CBD
+  titles:
+    en: CAT00CBDD in English
+    it: CAT00CBDD in Italiano
+- code: CAT00CC
+  parentCode: CAT00C
+  titles:
+    en: CAT00CC in English
+    it: CAT00CC in Italiano
+- code: CAT00CCA
+  parentCode: CAT00CC
+  titles:
+    en: CAT00CCA in English
+    it: CAT00CCA in Italiano
+- code: CAT00CCAA
+  parentCode: CAT00CCA
+  titles:
+    en: CAT00CCAA in English
+    it: CAT00CCAA in Italiano
+- code: CAT00CCAB
+  parentCode: CAT00CCA
+  titles:
+    en: CAT00CCAB in English
+    it: CAT00CCAB in Italiano
+- code: CAT00CCAC
+  parentCode: CAT00CCA
+  titles:
+    en: CAT00CCAC in English
+    it: CAT00CCAC in Italiano
+- code: CAT00CCAD
+  parentCode: CAT00CCA
+  titles:
+    en: CAT00CCAD in English
+    it: CAT00CCAD in Italiano
+- code: CAT00CCB
+  parentCode: CAT00CC
+  titles:
+    en: CAT00CCB in English
+    it: CAT00CCB in Italiano
+- code: CAT00CCBA
+  parentCode: CAT00CCB
+  titles:
+    en: CAT00CCBA in English
+    it: CAT00CCBA in Italiano
+- code: CAT00CCBB
+  parentCode: CAT00CCB
+  titles:
+    en: CAT00CCBB in English
+    it: CAT00CCBB in Italiano
+- code: CAT00CCBC
+  parentCode: CAT00CCB
+  titles:
+    en: CAT00CCBC in English
+    it: CAT00CCBC in Italiano
+- code: CAT00CCBD
+  parentCode: CAT00CCB
+  titles:
+    en: CAT00CCBD in English
+    it: CAT00CCBD in Italiano
+- code: CAT00CCC
+  parentCode: CAT00CC
+  titles:
+    en: CAT00CCC in English
+    it: CAT00CCC in Italiano
+- code: CAT00CCCA
+  parentCode: CAT00CCC
+  titles:
+    en: CAT00CCCA in English
+    it: CAT00CCCA in Italiano
+- code: CAT00CCCB
+  parentCode: CAT00CCC
+  titles:
+    en: CAT00CCCB in English
+    it: CAT00CCCB in Italiano
+- code: CAT00CCCC
+  parentCode: CAT00CCC
+  titles:
+    en: CAT00CCCC in English
+    it: CAT00CCCC in Italiano
+- code: CAT00CCCD
+  parentCode: CAT00CCC
+  titles:
+    en: CAT00CCCD in English
+    it: CAT00CCCD in Italiano
+- code: CAT00CCD
+  parentCode: CAT00CC
+  titles:
+    en: CAT00CCD in English
+    it: CAT00CCD in Italiano
+- code: CAT00CCDA
+  parentCode: CAT00CCD
+  titles:
+    en: CAT00CCDA in English
+    it: CAT00CCDA in Italiano
+- code: CAT00CCDB
+  parentCode: CAT00CCD
+  titles:
+    en: CAT00CCDB in English
+    it: CAT00CCDB in Italiano
+- code: CAT00CCDC
+  parentCode: CAT00CCD
+  titles:
+    en: CAT00CCDC in English
+    it: CAT00CCDC in Italiano
+- code: CAT00CCDD
+  parentCode: CAT00CCD
+  titles:
+    en: CAT00CCDD in English
+    it: CAT00CCDD in Italiano
+- code: CAT00CD
+  parentCode: CAT00C
+  titles:
+    en: CAT00CD in English
+    it: CAT00CD in Italiano
+- code: CAT00CDA
+  parentCode: CAT00CD
+  titles:
+    en: CAT00CDA in English
+    it: CAT00CDA in Italiano
+- code: CAT00CDAA
+  parentCode: CAT00CDA
+  titles:
+    en: CAT00CDAA in English
+    it: CAT00CDAA in Italiano
+- code: CAT00CDAB
+  parentCode: CAT00CDA
+  titles:
+    en: CAT00CDAB in English
+    it: CAT00CDAB in Italiano
+- code: CAT00CDAC
+  parentCode: CAT00CDA
+  titles:
+    en: CAT00CDAC in English
+    it: CAT00CDAC in Italiano
+- code: CAT00CDAD
+  parentCode: CAT00CDA
+  titles:
+    en: CAT00CDAD in English
+    it: CAT00CDAD in Italiano
+- code: CAT00CDB
+  parentCode: CAT00CD
+  titles:
+    en: CAT00CDB in English
+    it: CAT00CDB in Italiano
+- code: CAT00CDBA
+  parentCode: CAT00CDB
+  titles:
+    en: CAT00CDBA in English
+    it: CAT00CDBA in Italiano
+- code: CAT00CDBB
+  parentCode: CAT00CDB
+  titles:
+    en: CAT00CDBB in English
+    it: CAT00CDBB in Italiano
+- code: CAT00CDBC
+  parentCode: CAT00CDB
+  titles:
+    en: CAT00CDBC in English
+    it: CAT00CDBC in Italiano
+- code: CAT00CDBD
+  parentCode: CAT00CDB
+  titles:
+    en: CAT00CDBD in English
+    it: CAT00CDBD in Italiano
+- code: CAT00CDC
+  parentCode: CAT00CD
+  titles:
+    en: CAT00CDC in English
+    it: CAT00CDC in Italiano
+- code: CAT00CDCA
+  parentCode: CAT00CDC
+  titles:
+    en: CAT00CDCA in English
+    it: CAT00CDCA in Italiano
+- code: CAT00CDCB
+  parentCode: CAT00CDC
+  titles:
+    en: CAT00CDCB in English
+    it: CAT00CDCB in Italiano
+- code: CAT00CDCC
+  parentCode: CAT00CDC
+  titles:
+    en: CAT00CDCC in English
+    it: CAT00CDCC in Italiano
+- code: CAT00CDCD
+  parentCode: CAT00CDC
+  titles:
+    en: CAT00CDCD in English
+    it: CAT00CDCD in Italiano
+- code: CAT00CDD
+  parentCode: CAT00CD
+  titles:
+    en: CAT00CDD in English
+    it: CAT00CDD in Italiano
+- code: CAT00CDDA
+  parentCode: CAT00CDD
+  titles:
+    en: CAT00CDDA in English
+    it: CAT00CDDA in Italiano
+- code: CAT00CDDB
+  parentCode: CAT00CDD
+  titles:
+    en: CAT00CDDB in English
+    it: CAT00CDDB in Italiano
+- code: CAT00CDDC
+  parentCode: CAT00CDD
+  titles:
+    en: CAT00CDDC in English
+    it: CAT00CDDC in Italiano
+- code: CAT00CDDD
+  parentCode: CAT00CDD
+  titles:
+    en: CAT00CDDD in English
+    it: CAT00CDDD in Italiano
+- code: CAT00D
+  parentCode: home
+  titles:
+    en: CAT00D in English
+    it: CAT00D in Italiano
+- code: CAT00DA
+  parentCode: CAT00D
+  titles:
+    en: CAT00DA in English
+    it: CAT00DA in Italiano
+- code: CAT00DAA
+  parentCode: CAT00DA
+  titles:
+    en: CAT00DAA in English
+    it: CAT00DAA in Italiano
+- code: CAT00DAAA
+  parentCode: CAT00DAA
+  titles:
+    en: CAT00DAAA in English
+    it: CAT00DAAA in Italiano
+- code: CAT00DAAB
+  parentCode: CAT00DAA
+  titles:
+    en: CAT00DAAB in English
+    it: CAT00DAAB in Italiano
+- code: CAT00DAAC
+  parentCode: CAT00DAA
+  titles:
+    en: CAT00DAAC in English
+    it: CAT00DAAC in Italiano
+- code: CAT00DAAD
+  parentCode: CAT00DAA
+  titles:
+    en: CAT00DAAD in English
+    it: CAT00DAAD in Italiano
+- code: CAT00DAB
+  parentCode: CAT00DA
+  titles:
+    en: CAT00DAB in English
+    it: CAT00DAB in Italiano
+- code: CAT00DABA
+  parentCode: CAT00DAB
+  titles:
+    en: CAT00DABA in English
+    it: CAT00DABA in Italiano
+- code: CAT00DABB
+  parentCode: CAT00DAB
+  titles:
+    en: CAT00DABB in English
+    it: CAT00DABB in Italiano
+- code: CAT00DABC
+  parentCode: CAT00DAB
+  titles:
+    en: CAT00DABC in English
+    it: CAT00DABC in Italiano
+- code: CAT00DABD
+  parentCode: CAT00DAB
+  titles:
+    en: CAT00DABD in English
+    it: CAT00DABD in Italiano
+- code: CAT00DAC
+  parentCode: CAT00DA
+  titles:
+    en: CAT00DAC in English
+    it: CAT00DAC in Italiano
+- code: CAT00DACA
+  parentCode: CAT00DAC
+  titles:
+    en: CAT00DACA in English
+    it: CAT00DACA in Italiano
+- code: CAT00DACB
+  parentCode: CAT00DAC
+  titles:
+    en: CAT00DACB in English
+    it: CAT00DACB in Italiano
+- code: CAT00DACC
+  parentCode: CAT00DAC
+  titles:
+    en: CAT00DACC in English
+    it: CAT00DACC in Italiano
+- code: CAT00DACD
+  parentCode: CAT00DAC
+  titles:
+    en: CAT00DACD in English
+    it: CAT00DACD in Italiano
+- code: CAT00DAD
+  parentCode: CAT00DA
+  titles:
+    en: CAT00DAD in English
+    it: CAT00DAD in Italiano
+- code: CAT00DADA
+  parentCode: CAT00DAD
+  titles:
+    en: CAT00DADA in English
+    it: CAT00DADA in Italiano
+- code: CAT00DADB
+  parentCode: CAT00DAD
+  titles:
+    en: CAT00DADB in English
+    it: CAT00DADB in Italiano
+- code: CAT00DADC
+  parentCode: CAT00DAD
+  titles:
+    en: CAT00DADC in English
+    it: CAT00DADC in Italiano
+- code: CAT00DADD
+  parentCode: CAT00DAD
+  titles:
+    en: CAT00DADD in English
+    it: CAT00DADD in Italiano
+- code: CAT00DB
+  parentCode: CAT00D
+  titles:
+    en: CAT00DB in English
+    it: CAT00DB in Italiano
+- code: CAT00DBA
+  parentCode: CAT00DB
+  titles:
+    en: CAT00DBA in English
+    it: CAT00DBA in Italiano
+- code: CAT00DBAA
+  parentCode: CAT00DBA
+  titles:
+    en: CAT00DBAA in English
+    it: CAT00DBAA in Italiano
+- code: CAT00DBAB
+  parentCode: CAT00DBA
+  titles:
+    en: CAT00DBAB in English
+    it: CAT00DBAB in Italiano
+- code: CAT00DBAC
+  parentCode: CAT00DBA
+  titles:
+    en: CAT00DBAC in English
+    it: CAT00DBAC in Italiano
+- code: CAT00DBAD
+  parentCode: CAT00DBA
+  titles:
+    en: CAT00DBAD in English
+    it: CAT00DBAD in Italiano
+- code: CAT00DBB
+  parentCode: CAT00DB
+  titles:
+    en: CAT00DBB in English
+    it: CAT00DBB in Italiano
+- code: CAT00DBBA
+  parentCode: CAT00DBB
+  titles:
+    en: CAT00DBBA in English
+    it: CAT00DBBA in Italiano
+- code: CAT00DBBB
+  parentCode: CAT00DBB
+  titles:
+    en: CAT00DBBB in English
+    it: CAT00DBBB in Italiano
+- code: CAT00DBBC
+  parentCode: CAT00DBB
+  titles:
+    en: CAT00DBBC in English
+    it: CAT00DBBC in Italiano
+- code: CAT00DBBD
+  parentCode: CAT00DBB
+  titles:
+    en: CAT00DBBD in English
+    it: CAT00DBBD in Italiano
+- code: CAT00DBC
+  parentCode: CAT00DB
+  titles:
+    en: CAT00DBC in English
+    it: CAT00DBC in Italiano
+- code: CAT00DBCA
+  parentCode: CAT00DBC
+  titles:
+    en: CAT00DBCA in English
+    it: CAT00DBCA in Italiano
+- code: CAT00DBCB
+  parentCode: CAT00DBC
+  titles:
+    en: CAT00DBCB in English
+    it: CAT00DBCB in Italiano
+- code: CAT00DBCC
+  parentCode: CAT00DBC
+  titles:
+    en: CAT00DBCC in English
+    it: CAT00DBCC in Italiano
+- code: CAT00DBCD
+  parentCode: CAT00DBC
+  titles:
+    en: CAT00DBCD in English
+    it: CAT00DBCD in Italiano
+- code: CAT00DBD
+  parentCode: CAT00DB
+  titles:
+    en: CAT00DBD in English
+    it: CAT00DBD in Italiano
+- code: CAT00DBDA
+  parentCode: CAT00DBD
+  titles:
+    en: CAT00DBDA in English
+    it: CAT00DBDA in Italiano
+- code: CAT00DBDB
+  parentCode: CAT00DBD
+  titles:
+    en: CAT00DBDB in English
+    it: CAT00DBDB in Italiano
+- code: CAT00DBDC
+  parentCode: CAT00DBD
+  titles:
+    en: CAT00DBDC in English
+    it: CAT00DBDC in Italiano
+- code: CAT00DBDD
+  parentCode: CAT00DBD
+  titles:
+    en: CAT00DBDD in English
+    it: CAT00DBDD in Italiano
+- code: CAT00DC
+  parentCode: CAT00D
+  titles:
+    en: CAT00DC in English
+    it: CAT00DC in Italiano
+- code: CAT00DCA
+  parentCode: CAT00DC
+  titles:
+    en: CAT00DCA in English
+    it: CAT00DCA in Italiano
+- code: CAT00DCAA
+  parentCode: CAT00DCA
+  titles:
+    en: CAT00DCAA in English
+    it: CAT00DCAA in Italiano
+- code: CAT00DCAB
+  parentCode: CAT00DCA
+  titles:
+    en: CAT00DCAB in English
+    it: CAT00DCAB in Italiano
+- code: CAT00DCAC
+  parentCode: CAT00DCA
+  titles:
+    en: CAT00DCAC in English
+    it: CAT00DCAC in Italiano
+- code: CAT00DCAD
+  parentCode: CAT00DCA
+  titles:
+    en: CAT00DCAD in English
+    it: CAT00DCAD in Italiano
+- code: CAT00DCB
+  parentCode: CAT00DC
+  titles:
+    en: CAT00DCB in English
+    it: CAT00DCB in Italiano
+- code: CAT00DCBA
+  parentCode: CAT00DCB
+  titles:
+    en: CAT00DCBA in English
+    it: CAT00DCBA in Italiano
+- code: CAT00DCBB
+  parentCode: CAT00DCB
+  titles:
+    en: CAT00DCBB in English
+    it: CAT00DCBB in Italiano
+- code: CAT00DCBC
+  parentCode: CAT00DCB
+  titles:
+    en: CAT00DCBC in English
+    it: CAT00DCBC in Italiano
+- code: CAT00DCBD
+  parentCode: CAT00DCB
+  titles:
+    en: CAT00DCBD in English
+    it: CAT00DCBD in Italiano
+- code: CAT00DCC
+  parentCode: CAT00DC
+  titles:
+    en: CAT00DCC in English
+    it: CAT00DCC in Italiano
+- code: CAT00DCCA
+  parentCode: CAT00DCC
+  titles:
+    en: CAT00DCCA in English
+    it: CAT00DCCA in Italiano
+- code: CAT00DCCB
+  parentCode: CAT00DCC
+  titles:
+    en: CAT00DCCB in English
+    it: CAT00DCCB in Italiano
+- code: CAT00DCCC
+  parentCode: CAT00DCC
+  titles:
+    en: CAT00DCCC in English
+    it: CAT00DCCC in Italiano
+- code: CAT00DCCD
+  parentCode: CAT00DCC
+  titles:
+    en: CAT00DCCD in English
+    it: CAT00DCCD in Italiano
+- code: CAT00DCD
+  parentCode: CAT00DC
+  titles:
+    en: CAT00DCD in English
+    it: CAT00DCD in Italiano
+- code: CAT00DCDA
+  parentCode: CAT00DCD
+  titles:
+    en: CAT00DCDA in English
+    it: CAT00DCDA in Italiano
+- code: CAT00DCDB
+  parentCode: CAT00DCD
+  titles:
+    en: CAT00DCDB in English
+    it: CAT00DCDB in Italiano
+- code: CAT00DCDC
+  parentCode: CAT00DCD
+  titles:
+    en: CAT00DCDC in English
+    it: CAT00DCDC in Italiano
+- code: CAT00DCDD
+  parentCode: CAT00DCD
+  titles:
+    en: CAT00DCDD in English
+    it: CAT00DCDD in Italiano
+- code: CAT00DD
+  parentCode: CAT00D
+  titles:
+    en: CAT00DD in English
+    it: CAT00DD in Italiano
+- code: CAT00DDA
+  parentCode: CAT00DD
+  titles:
+    en: CAT00DDA in English
+    it: CAT00DDA in Italiano
+- code: CAT00DDAA
+  parentCode: CAT00DDA
+  titles:
+    en: CAT00DDAA in English
+    it: CAT00DDAA in Italiano
+- code: CAT00DDAB
+  parentCode: CAT00DDA
+  titles:
+    en: CAT00DDAB in English
+    it: CAT00DDAB in Italiano
+- code: CAT00DDAC
+  parentCode: CAT00DDA
+  titles:
+    en: CAT00DDAC in English
+    it: CAT00DDAC in Italiano
+- code: CAT00DDAD
+  parentCode: CAT00DDA
+  titles:
+    en: CAT00DDAD in English
+    it: CAT00DDAD in Italiano
+- code: CAT00DDB
+  parentCode: CAT00DD
+  titles:
+    en: CAT00DDB in English
+    it: CAT00DDB in Italiano
+- code: CAT00DDBA
+  parentCode: CAT00DDB
+  titles:
+    en: CAT00DDBA in English
+    it: CAT00DDBA in Italiano
+- code: CAT00DDBB
+  parentCode: CAT00DDB
+  titles:
+    en: CAT00DDBB in English
+    it: CAT00DDBB in Italiano
+- code: CAT00DDBC
+  parentCode: CAT00DDB
+  titles:
+    en: CAT00DDBC in English
+    it: CAT00DDBC in Italiano
+- code: CAT00DDBD
+  parentCode: CAT00DDB
+  titles:
+    en: CAT00DDBD in English
+    it: CAT00DDBD in Italiano
+- code: CAT00DDC
+  parentCode: CAT00DD
+  titles:
+    en: CAT00DDC in English
+    it: CAT00DDC in Italiano
+- code: CAT00DDCA
+  parentCode: CAT00DDC
+  titles:
+    en: CAT00DDCA in English
+    it: CAT00DDCA in Italiano
+- code: CAT00DDCB
+  parentCode: CAT00DDC
+  titles:
+    en: CAT00DDCB in English
+    it: CAT00DDCB in Italiano
+- code: CAT00DDCC
+  parentCode: CAT00DDC
+  titles:
+    en: CAT00DDCC in English
+    it: CAT00DDCC in Italiano
+- code: CAT00DDCD
+  parentCode: CAT00DDC
+  titles:
+    en: CAT00DDCD in English
+    it: CAT00DDCD in Italiano
+- code: CAT00DDD
+  parentCode: CAT00DD
+  titles:
+    en: CAT00DDD in English
+    it: CAT00DDD in Italiano
+- code: CAT00DDDA
+  parentCode: CAT00DDD
+  titles:
+    en: CAT00DDDA in English
+    it: CAT00DDDA in Italiano
+- code: CAT00DDDB
+  parentCode: CAT00DDD
+  titles:
+    en: CAT00DDDB in English
+    it: CAT00DDDB in Italiano
+- code: CAT00DDDC
+  parentCode: CAT00DDD
+  titles:
+    en: CAT00DDDC in English
+    it: CAT00DDDC in Italiano
+- code: CAT00DDDD
+  parentCode: CAT00DDD
+  titles:
+    en: CAT00DDDD in English
+    it: CAT00DDDD in Italiano
+- code: CAT01
+  parentCode: home
+  titles:
+    en: CAT01 in English
+    it: CAT01 in Italiano
+- code: CAT01A
+  parentCode: home
+  titles:
+    en: CAT01A in English
+    it: CAT01A in Italiano
+- code: CAT01AA
+  parentCode: CAT01A
+  titles:
+    en: CAT01AA in English
+    it: CAT01AA in Italiano
+- code: CAT01AAA
+  parentCode: CAT01AA
+  titles:
+    en: CAT01AAA in English
+    it: CAT01AAA in Italiano
+- code: CAT01AAAA
+  parentCode: CAT01AAA
+  titles:
+    en: CAT01AAAA in English
+    it: CAT01AAAA in Italiano
+- code: CAT01AAAB
+  parentCode: CAT01AAA
+  titles:
+    en: CAT01AAAB in English
+    it: CAT01AAAB in Italiano
+- code: CAT01AAAC
+  parentCode: CAT01AAA
+  titles:
+    en: CAT01AAAC in English
+    it: CAT01AAAC in Italiano
+- code: CAT01AAAD
+  parentCode: CAT01AAA
+  titles:
+    en: CAT01AAAD in English
+    it: CAT01AAAD in Italiano
+- code: CAT01AAB
+  parentCode: CAT01AA
+  titles:
+    en: CAT01AAB in English
+    it: CAT01AAB in Italiano
+- code: CAT01AABA
+  parentCode: CAT01AAB
+  titles:
+    en: CAT01AABA in English
+    it: CAT01AABA in Italiano
+- code: CAT01AABB
+  parentCode: CAT01AAB
+  titles:
+    en: CAT01AABB in English
+    it: CAT01AABB in Italiano
+- code: CAT01AABC
+  parentCode: CAT01AAB
+  titles:
+    en: CAT01AABC in English
+    it: CAT01AABC in Italiano
+- code: CAT01AABD
+  parentCode: CAT01AAB
+  titles:
+    en: CAT01AABD in English
+    it: CAT01AABD in Italiano
+- code: CAT01AAC
+  parentCode: CAT01AA
+  titles:
+    en: CAT01AAC in English
+    it: CAT01AAC in Italiano
+- code: CAT01AACA
+  parentCode: CAT01AAC
+  titles:
+    en: CAT01AACA in English
+    it: CAT01AACA in Italiano
+- code: CAT01AACB
+  parentCode: CAT01AAC
+  titles:
+    en: CAT01AACB in English
+    it: CAT01AACB in Italiano
+- code: CAT01AACC
+  parentCode: CAT01AAC
+  titles:
+    en: CAT01AACC in English
+    it: CAT01AACC in Italiano
+- code: CAT01AACD
+  parentCode: CAT01AAC
+  titles:
+    en: CAT01AACD in English
+    it: CAT01AACD in Italiano
+- code: CAT01AAD
+  parentCode: CAT01AA
+  titles:
+    en: CAT01AAD in English
+    it: CAT01AAD in Italiano
+- code: CAT01AADA
+  parentCode: CAT01AAD
+  titles:
+    en: CAT01AADA in English
+    it: CAT01AADA in Italiano
+- code: CAT01AADB
+  parentCode: CAT01AAD
+  titles:
+    en: CAT01AADB in English
+    it: CAT01AADB in Italiano
+- code: CAT01AADC
+  parentCode: CAT01AAD
+  titles:
+    en: CAT01AADC in English
+    it: CAT01AADC in Italiano
+- code: CAT01AADD
+  parentCode: CAT01AAD
+  titles:
+    en: CAT01AADD in English
+    it: CAT01AADD in Italiano
+- code: CAT01AB
+  parentCode: CAT01A
+  titles:
+    en: CAT01AB in English
+    it: CAT01AB in Italiano
+- code: CAT01ABA
+  parentCode: CAT01AB
+  titles:
+    en: CAT01ABA in English
+    it: CAT01ABA in Italiano
+- code: CAT01ABAA
+  parentCode: CAT01ABA
+  titles:
+    en: CAT01ABAA in English
+    it: CAT01ABAA in Italiano
+- code: CAT01ABAB
+  parentCode: CAT01ABA
+  titles:
+    en: CAT01ABAB in English
+    it: CAT01ABAB in Italiano
+- code: CAT01ABAC
+  parentCode: CAT01ABA
+  titles:
+    en: CAT01ABAC in English
+    it: CAT01ABAC in Italiano
+- code: CAT01ABAD
+  parentCode: CAT01ABA
+  titles:
+    en: CAT01ABAD in English
+    it: CAT01ABAD in Italiano
+- code: CAT01ABB
+  parentCode: CAT01AB
+  titles:
+    en: CAT01ABB in English
+    it: CAT01ABB in Italiano
+- code: CAT01ABBA
+  parentCode: CAT01ABB
+  titles:
+    en: CAT01ABBA in English
+    it: CAT01ABBA in Italiano
+- code: CAT01ABBB
+  parentCode: CAT01ABB
+  titles:
+    en: CAT01ABBB in English
+    it: CAT01ABBB in Italiano
+- code: CAT01ABBC
+  parentCode: CAT01ABB
+  titles:
+    en: CAT01ABBC in English
+    it: CAT01ABBC in Italiano
+- code: CAT01ABBD
+  parentCode: CAT01ABB
+  titles:
+    en: CAT01ABBD in English
+    it: CAT01ABBD in Italiano
+- code: CAT01ABC
+  parentCode: CAT01AB
+  titles:
+    en: CAT01ABC in English
+    it: CAT01ABC in Italiano
+- code: CAT01ABCA
+  parentCode: CAT01ABC
+  titles:
+    en: CAT01ABCA in English
+    it: CAT01ABCA in Italiano
+- code: CAT01ABCB
+  parentCode: CAT01ABC
+  titles:
+    en: CAT01ABCB in English
+    it: CAT01ABCB in Italiano
+- code: CAT01ABCC
+  parentCode: CAT01ABC
+  titles:
+    en: CAT01ABCC in English
+    it: CAT01ABCC in Italiano
+- code: CAT01ABCD
+  parentCode: CAT01ABC
+  titles:
+    en: CAT01ABCD in English
+    it: CAT01ABCD in Italiano
+- code: CAT01ABD
+  parentCode: CAT01AB
+  titles:
+    en: CAT01ABD in English
+    it: CAT01ABD in Italiano
+- code: CAT01ABDA
+  parentCode: CAT01ABD
+  titles:
+    en: CAT01ABDA in English
+    it: CAT01ABDA in Italiano
+- code: CAT01ABDB
+  parentCode: CAT01ABD
+  titles:
+    en: CAT01ABDB in English
+    it: CAT01ABDB in Italiano
+- code: CAT01ABDC
+  parentCode: CAT01ABD
+  titles:
+    en: CAT01ABDC in English
+    it: CAT01ABDC in Italiano
+- code: CAT01ABDD
+  parentCode: CAT01ABD
+  titles:
+    en: CAT01ABDD in English
+    it: CAT01ABDD in Italiano
+- code: CAT01AC
+  parentCode: CAT01A
+  titles:
+    en: CAT01AC in English
+    it: CAT01AC in Italiano
+- code: CAT01ACA
+  parentCode: CAT01AC
+  titles:
+    en: CAT01ACA in English
+    it: CAT01ACA in Italiano
+- code: CAT01ACAA
+  parentCode: CAT01ACA
+  titles:
+    en: CAT01ACAA in English
+    it: CAT01ACAA in Italiano
+- code: CAT01ACAB
+  parentCode: CAT01ACA
+  titles:
+    en: CAT01ACAB in English
+    it: CAT01ACAB in Italiano
+- code: CAT01ACAC
+  parentCode: CAT01ACA
+  titles:
+    en: CAT01ACAC in English
+    it: CAT01ACAC in Italiano
+- code: CAT01ACAD
+  parentCode: CAT01ACA
+  titles:
+    en: CAT01ACAD in English
+    it: CAT01ACAD in Italiano
+- code: CAT01ACB
+  parentCode: CAT01AC
+  titles:
+    en: CAT01ACB in English
+    it: CAT01ACB in Italiano
+- code: CAT01ACBA
+  parentCode: CAT01ACB
+  titles:
+    en: CAT01ACBA in English
+    it: CAT01ACBA in Italiano
+- code: CAT01ACBB
+  parentCode: CAT01ACB
+  titles:
+    en: CAT01ACBB in English
+    it: CAT01ACBB in Italiano
+- code: CAT01ACBC
+  parentCode: CAT01ACB
+  titles:
+    en: CAT01ACBC in English
+    it: CAT01ACBC in Italiano
+- code: CAT01ACBD
+  parentCode: CAT01ACB
+  titles:
+    en: CAT01ACBD in English
+    it: CAT01ACBD in Italiano
+- code: CAT01ACC
+  parentCode: CAT01AC
+  titles:
+    en: CAT01ACC in English
+    it: CAT01ACC in Italiano
+- code: CAT01ACCA
+  parentCode: CAT01ACC
+  titles:
+    en: CAT01ACCA in English
+    it: CAT01ACCA in Italiano
+- code: CAT01ACCB
+  parentCode: CAT01ACC
+  titles:
+    en: CAT01ACCB in English
+    it: CAT01ACCB in Italiano
+- code: CAT01ACCC
+  parentCode: CAT01ACC
+  titles:
+    en: CAT01ACCC in English
+    it: CAT01ACCC in Italiano
+- code: CAT01ACCD
+  parentCode: CAT01ACC
+  titles:
+    en: CAT01ACCD in English
+    it: CAT01ACCD in Italiano
+- code: CAT01ACD
+  parentCode: CAT01AC
+  titles:
+    en: CAT01ACD in English
+    it: CAT01ACD in Italiano
+- code: CAT01ACDA
+  parentCode: CAT01ACD
+  titles:
+    en: CAT01ACDA in English
+    it: CAT01ACDA in Italiano
+- code: CAT01ACDB
+  parentCode: CAT01ACD
+  titles:
+    en: CAT01ACDB in English
+    it: CAT01ACDB in Italiano
+- code: CAT01ACDC
+  parentCode: CAT01ACD
+  titles:
+    en: CAT01ACDC in English
+    it: CAT01ACDC in Italiano
+- code: CAT01ACDD
+  parentCode: CAT01ACD
+  titles:
+    en: CAT01ACDD in English
+    it: CAT01ACDD in Italiano
+- code: CAT01AD
+  parentCode: CAT01A
+  titles:
+    en: CAT01AD in English
+    it: CAT01AD in Italiano
+- code: CAT01ADA
+  parentCode: CAT01AD
+  titles:
+    en: CAT01ADA in English
+    it: CAT01ADA in Italiano
+- code: CAT01ADAA
+  parentCode: CAT01ADA
+  titles:
+    en: CAT01ADAA in English
+    it: CAT01ADAA in Italiano
+- code: CAT01ADAB
+  parentCode: CAT01ADA
+  titles:
+    en: CAT01ADAB in English
+    it: CAT01ADAB in Italiano
+- code: CAT01ADAC
+  parentCode: CAT01ADA
+  titles:
+    en: CAT01ADAC in English
+    it: CAT01ADAC in Italiano
+- code: CAT01ADAD
+  parentCode: CAT01ADA
+  titles:
+    en: CAT01ADAD in English
+    it: CAT01ADAD in Italiano
+- code: CAT01ADB
+  parentCode: CAT01AD
+  titles:
+    en: CAT01ADB in English
+    it: CAT01ADB in Italiano
+- code: CAT01ADBA
+  parentCode: CAT01ADB
+  titles:
+    en: CAT01ADBA in English
+    it: CAT01ADBA in Italiano
+- code: CAT01ADBB
+  parentCode: CAT01ADB
+  titles:
+    en: CAT01ADBB in English
+    it: CAT01ADBB in Italiano
+- code: CAT01ADBC
+  parentCode: CAT01ADB
+  titles:
+    en: CAT01ADBC in English
+    it: CAT01ADBC in Italiano
+- code: CAT01ADBD
+  parentCode: CAT01ADB
+  titles:
+    en: CAT01ADBD in English
+    it: CAT01ADBD in Italiano
+- code: CAT01ADC
+  parentCode: CAT01AD
+  titles:
+    en: CAT01ADC in English
+    it: CAT01ADC in Italiano
+- code: CAT01ADCA
+  parentCode: CAT01ADC
+  titles:
+    en: CAT01ADCA in English
+    it: CAT01ADCA in Italiano
+- code: CAT01ADCB
+  parentCode: CAT01ADC
+  titles:
+    en: CAT01ADCB in English
+    it: CAT01ADCB in Italiano
+- code: CAT01ADCC
+  parentCode: CAT01ADC
+  titles:
+    en: CAT01ADCC in English
+    it: CAT01ADCC in Italiano
+- code: CAT01ADCD
+  parentCode: CAT01ADC
+  titles:
+    en: CAT01ADCD in English
+    it: CAT01ADCD in Italiano
+- code: CAT01ADD
+  parentCode: CAT01AD
+  titles:
+    en: CAT01ADD in English
+    it: CAT01ADD in Italiano
+- code: CAT01ADDA
+  parentCode: CAT01ADD
+  titles:
+    en: CAT01ADDA in English
+    it: CAT01ADDA in Italiano
+- code: CAT01ADDB
+  parentCode: CAT01ADD
+  titles:
+    en: CAT01ADDB in English
+    it: CAT01ADDB in Italiano
+- code: CAT01ADDC
+  parentCode: CAT01ADD
+  titles:
+    en: CAT01ADDC in English
+    it: CAT01ADDC in Italiano
+- code: CAT01ADDD
+  parentCode: CAT01ADD
+  titles:
+    en: CAT01ADDD in English
+    it: CAT01ADDD in Italiano
+- code: CAT01B
+  parentCode: home
+  titles:
+    en: CAT01B in English
+    it: CAT01B in Italiano
+- code: CAT01BA
+  parentCode: CAT01B
+  titles:
+    en: CAT01BA in English
+    it: CAT01BA in Italiano
+- code: CAT01BAA
+  parentCode: CAT01BA
+  titles:
+    en: CAT01BAA in English
+    it: CAT01BAA in Italiano
+- code: CAT01BAAA
+  parentCode: CAT01BAA
+  titles:
+    en: CAT01BAAA in English
+    it: CAT01BAAA in Italiano
+- code: CAT01BAAB
+  parentCode: CAT01BAA
+  titles:
+    en: CAT01BAAB in English
+    it: CAT01BAAB in Italiano
+- code: CAT01BAAC
+  parentCode: CAT01BAA
+  titles:
+    en: CAT01BAAC in English
+    it: CAT01BAAC in Italiano
+- code: CAT01BAAD
+  parentCode: CAT01BAA
+  titles:
+    en: CAT01BAAD in English
+    it: CAT01BAAD in Italiano
+- code: CAT01BAB
+  parentCode: CAT01BA
+  titles:
+    en: CAT01BAB in English
+    it: CAT01BAB in Italiano
+- code: CAT01BABA
+  parentCode: CAT01BAB
+  titles:
+    en: CAT01BABA in English
+    it: CAT01BABA in Italiano
+- code: CAT01BABB
+  parentCode: CAT01BAB
+  titles:
+    en: CAT01BABB in English
+    it: CAT01BABB in Italiano
+- code: CAT01BABC
+  parentCode: CAT01BAB
+  titles:
+    en: CAT01BABC in English
+    it: CAT01BABC in Italiano
+- code: CAT01BABD
+  parentCode: CAT01BAB
+  titles:
+    en: CAT01BABD in English
+    it: CAT01BABD in Italiano
+- code: CAT01BAC
+  parentCode: CAT01BA
+  titles:
+    en: CAT01BAC in English
+    it: CAT01BAC in Italiano
+- code: CAT01BACA
+  parentCode: CAT01BAC
+  titles:
+    en: CAT01BACA in English
+    it: CAT01BACA in Italiano
+- code: CAT01BACB
+  parentCode: CAT01BAC
+  titles:
+    en: CAT01BACB in English
+    it: CAT01BACB in Italiano
+- code: CAT01BACC
+  parentCode: CAT01BAC
+  titles:
+    en: CAT01BACC in English
+    it: CAT01BACC in Italiano
+- code: CAT01BACD
+  parentCode: CAT01BAC
+  titles:
+    en: CAT01BACD in English
+    it: CAT01BACD in Italiano
+- code: CAT01BAD
+  parentCode: CAT01BA
+  titles:
+    en: CAT01BAD in English
+    it: CAT01BAD in Italiano
+- code: CAT01BADA
+  parentCode: CAT01BAD
+  titles:
+    en: CAT01BADA in English
+    it: CAT01BADA in Italiano
+- code: CAT01BADB
+  parentCode: CAT01BAD
+  titles:
+    en: CAT01BADB in English
+    it: CAT01BADB in Italiano
+- code: CAT01BADC
+  parentCode: CAT01BAD
+  titles:
+    en: CAT01BADC in English
+    it: CAT01BADC in Italiano
+- code: CAT01BADD
+  parentCode: CAT01BAD
+  titles:
+    en: CAT01BADD in English
+    it: CAT01BADD in Italiano
+- code: CAT01BB
+  parentCode: CAT01B
+  titles:
+    en: CAT01BB in English
+    it: CAT01BB in Italiano
+- code: CAT01BBA
+  parentCode: CAT01BB
+  titles:
+    en: CAT01BBA in English
+    it: CAT01BBA in Italiano
+- code: CAT01BBAA
+  parentCode: CAT01BBA
+  titles:
+    en: CAT01BBAA in English
+    it: CAT01BBAA in Italiano
+- code: CAT01BBAB
+  parentCode: CAT01BBA
+  titles:
+    en: CAT01BBAB in English
+    it: CAT01BBAB in Italiano
+- code: CAT01BBAC
+  parentCode: CAT01BBA
+  titles:
+    en: CAT01BBAC in English
+    it: CAT01BBAC in Italiano
+- code: CAT01BBAD
+  parentCode: CAT01BBA
+  titles:
+    en: CAT01BBAD in English
+    it: CAT01BBAD in Italiano
+- code: CAT01BBB
+  parentCode: CAT01BB
+  titles:
+    en: CAT01BBB in English
+    it: CAT01BBB in Italiano
+- code: CAT01BBBA
+  parentCode: CAT01BBB
+  titles:
+    en: CAT01BBBA in English
+    it: CAT01BBBA in Italiano
+- code: CAT01BBBB
+  parentCode: CAT01BBB
+  titles:
+    en: CAT01BBBB in English
+    it: CAT01BBBB in Italiano
+- code: CAT01BBBC
+  parentCode: CAT01BBB
+  titles:
+    en: CAT01BBBC in English
+    it: CAT01BBBC in Italiano
+- code: CAT01BBBD
+  parentCode: CAT01BBB
+  titles:
+    en: CAT01BBBD in English
+    it: CAT01BBBD in Italiano
+- code: CAT01BBC
+  parentCode: CAT01BB
+  titles:
+    en: CAT01BBC in English
+    it: CAT01BBC in Italiano
+- code: CAT01BBCA
+  parentCode: CAT01BBC
+  titles:
+    en: CAT01BBCA in English
+    it: CAT01BBCA in Italiano
+- code: CAT01BBCB
+  parentCode: CAT01BBC
+  titles:
+    en: CAT01BBCB in English
+    it: CAT01BBCB in Italiano
+- code: CAT01BBCC
+  parentCode: CAT01BBC
+  titles:
+    en: CAT01BBCC in English
+    it: CAT01BBCC in Italiano
+- code: CAT01BBCD
+  parentCode: CAT01BBC
+  titles:
+    en: CAT01BBCD in English
+    it: CAT01BBCD in Italiano
+- code: CAT01BBD
+  parentCode: CAT01BB
+  titles:
+    en: CAT01BBD in English
+    it: CAT01BBD in Italiano
+- code: CAT01BBDA
+  parentCode: CAT01BBD
+  titles:
+    en: CAT01BBDA in English
+    it: CAT01BBDA in Italiano
+- code: CAT01BBDB
+  parentCode: CAT01BBD
+  titles:
+    en: CAT01BBDB in English
+    it: CAT01BBDB in Italiano
+- code: CAT01BBDC
+  parentCode: CAT01BBD
+  titles:
+    en: CAT01BBDC in English
+    it: CAT01BBDC in Italiano
+- code: CAT01BBDD
+  parentCode: CAT01BBD
+  titles:
+    en: CAT01BBDD in English
+    it: CAT01BBDD in Italiano
+- code: CAT01BC
+  parentCode: CAT01B
+  titles:
+    en: CAT01BC in English
+    it: CAT01BC in Italiano
+- code: CAT01BCA
+  parentCode: CAT01BC
+  titles:
+    en: CAT01BCA in English
+    it: CAT01BCA in Italiano
+- code: CAT01BCAA
+  parentCode: CAT01BCA
+  titles:
+    en: CAT01BCAA in English
+    it: CAT01BCAA in Italiano
+- code: CAT01BCAB
+  parentCode: CAT01BCA
+  titles:
+    en: CAT01BCAB in English
+    it: CAT01BCAB in Italiano
+- code: CAT01BCAC
+  parentCode: CAT01BCA
+  titles:
+    en: CAT01BCAC in English
+    it: CAT01BCAC in Italiano
+- code: CAT01BCAD
+  parentCode: CAT01BCA
+  titles:
+    en: CAT01BCAD in English
+    it: CAT01BCAD in Italiano
+- code: CAT01BCB
+  parentCode: CAT01BC
+  titles:
+    en: CAT01BCB in English
+    it: CAT01BCB in Italiano
+- code: CAT01BCBA
+  parentCode: CAT01BCB
+  titles:
+    en: CAT01BCBA in English
+    it: CAT01BCBA in Italiano
+- code: CAT01BCBB
+  parentCode: CAT01BCB
+  titles:
+    en: CAT01BCBB in English
+    it: CAT01BCBB in Italiano
+- code: CAT01BCBC
+  parentCode: CAT01BCB
+  titles:
+    en: CAT01BCBC in English
+    it: CAT01BCBC in Italiano
+- code: CAT01BCBD
+  parentCode: CAT01BCB
+  titles:
+    en: CAT01BCBD in English
+    it: CAT01BCBD in Italiano
+- code: CAT01BCC
+  parentCode: CAT01BC
+  titles:
+    en: CAT01BCC in English
+    it: CAT01BCC in Italiano
+- code: CAT01BCCA
+  parentCode: CAT01BCC
+  titles:
+    en: CAT01BCCA in English
+    it: CAT01BCCA in Italiano
+- code: CAT01BCCB
+  parentCode: CAT01BCC
+  titles:
+    en: CAT01BCCB in English
+    it: CAT01BCCB in Italiano
+- code: CAT01BCCC
+  parentCode: CAT01BCC
+  titles:
+    en: CAT01BCCC in English
+    it: CAT01BCCC in Italiano
+- code: CAT01BCCD
+  parentCode: CAT01BCC
+  titles:
+    en: CAT01BCCD in English
+    it: CAT01BCCD in Italiano
+- code: CAT01BCD
+  parentCode: CAT01BC
+  titles:
+    en: CAT01BCD in English
+    it: CAT01BCD in Italiano
+- code: CAT01BCDA
+  parentCode: CAT01BCD
+  titles:
+    en: CAT01BCDA in English
+    it: CAT01BCDA in Italiano
+- code: CAT01BCDB
+  parentCode: CAT01BCD
+  titles:
+    en: CAT01BCDB in English
+    it: CAT01BCDB in Italiano
+- code: CAT01BCDC
+  parentCode: CAT01BCD
+  titles:
+    en: CAT01BCDC in English
+    it: CAT01BCDC in Italiano
+- code: CAT01BCDD
+  parentCode: CAT01BCD
+  titles:
+    en: CAT01BCDD in English
+    it: CAT01BCDD in Italiano
+- code: CAT01BD
+  parentCode: CAT01B
+  titles:
+    en: CAT01BD in English
+    it: CAT01BD in Italiano
+- code: CAT01BDA
+  parentCode: CAT01BD
+  titles:
+    en: CAT01BDA in English
+    it: CAT01BDA in Italiano
+- code: CAT01BDAA
+  parentCode: CAT01BDA
+  titles:
+    en: CAT01BDAA in English
+    it: CAT01BDAA in Italiano
+- code: CAT01BDAB
+  parentCode: CAT01BDA
+  titles:
+    en: CAT01BDAB in English
+    it: CAT01BDAB in Italiano
+- code: CAT01BDAC
+  parentCode: CAT01BDA
+  titles:
+    en: CAT01BDAC in English
+    it: CAT01BDAC in Italiano
+- code: CAT01BDAD
+  parentCode: CAT01BDA
+  titles:
+    en: CAT01BDAD in English
+    it: CAT01BDAD in Italiano
+- code: CAT01BDB
+  parentCode: CAT01BD
+  titles:
+    en: CAT01BDB in English
+    it: CAT01BDB in Italiano
+- code: CAT01BDBA
+  parentCode: CAT01BDB
+  titles:
+    en: CAT01BDBA in English
+    it: CAT01BDBA in Italiano
+- code: CAT01BDBB
+  parentCode: CAT01BDB
+  titles:
+    en: CAT01BDBB in English
+    it: CAT01BDBB in Italiano
+- code: CAT01BDBC
+  parentCode: CAT01BDB
+  titles:
+    en: CAT01BDBC in English
+    it: CAT01BDBC in Italiano
+- code: CAT01BDBD
+  parentCode: CAT01BDB
+  titles:
+    en: CAT01BDBD in English
+    it: CAT01BDBD in Italiano
+- code: CAT01BDC
+  parentCode: CAT01BD
+  titles:
+    en: CAT01BDC in English
+    it: CAT01BDC in Italiano
+- code: CAT01BDCA
+  parentCode: CAT01BDC
+  titles:
+    en: CAT01BDCA in English
+    it: CAT01BDCA in Italiano
+- code: CAT01BDCB
+  parentCode: CAT01BDC
+  titles:
+    en: CAT01BDCB in English
+    it: CAT01BDCB in Italiano
+- code: CAT01BDCC
+  parentCode: CAT01BDC
+  titles:
+    en: CAT01BDCC in English
+    it: CAT01BDCC in Italiano
+- code: CAT01BDCD
+  parentCode: CAT01BDC
+  titles:
+    en: CAT01BDCD in English
+    it: CAT01BDCD in Italiano
+- code: CAT01BDD
+  parentCode: CAT01BD
+  titles:
+    en: CAT01BDD in English
+    it: CAT01BDD in Italiano
+- code: CAT01BDDA
+  parentCode: CAT01BDD
+  titles:
+    en: CAT01BDDA in English
+    it: CAT01BDDA in Italiano
+- code: CAT01BDDB
+  parentCode: CAT01BDD
+  titles:
+    en: CAT01BDDB in English
+    it: CAT01BDDB in Italiano
+- code: CAT01BDDC
+  parentCode: CAT01BDD
+  titles:
+    en: CAT01BDDC in English
+    it: CAT01BDDC in Italiano
+- code: CAT01BDDD
+  parentCode: CAT01BDD
+  titles:
+    en: CAT01BDDD in English
+    it: CAT01BDDD in Italiano
+- code: CAT01C
+  parentCode: home
+  titles:
+    en: CAT01C in English
+    it: CAT01C in Italiano
+- code: CAT01CA
+  parentCode: CAT01C
+  titles:
+    en: CAT01CA in English
+    it: CAT01CA in Italiano
+- code: CAT01CAA
+  parentCode: CAT01CA
+  titles:
+    en: CAT01CAA in English
+    it: CAT01CAA in Italiano
+- code: CAT01CAAA
+  parentCode: CAT01CAA
+  titles:
+    en: CAT01CAAA in English
+    it: CAT01CAAA in Italiano
+- code: CAT01CAAB
+  parentCode: CAT01CAA
+  titles:
+    en: CAT01CAAB in English
+    it: CAT01CAAB in Italiano
+- code: CAT01CAAC
+  parentCode: CAT01CAA
+  titles:
+    en: CAT01CAAC in English
+    it: CAT01CAAC in Italiano
+- code: CAT01CAAD
+  parentCode: CAT01CAA
+  titles:
+    en: CAT01CAAD in English
+    it: CAT01CAAD in Italiano
+- code: CAT01CAB
+  parentCode: CAT01CA
+  titles:
+    en: CAT01CAB in English
+    it: CAT01CAB in Italiano
+- code: CAT01CABA
+  parentCode: CAT01CAB
+  titles:
+    en: CAT01CABA in English
+    it: CAT01CABA in Italiano
+- code: CAT01CABB
+  parentCode: CAT01CAB
+  titles:
+    en: CAT01CABB in English
+    it: CAT01CABB in Italiano
+- code: CAT01CABC
+  parentCode: CAT01CAB
+  titles:
+    en: CAT01CABC in English
+    it: CAT01CABC in Italiano
+- code: CAT01CABD
+  parentCode: CAT01CAB
+  titles:
+    en: CAT01CABD in English
+    it: CAT01CABD in Italiano
+- code: CAT01CAC
+  parentCode: CAT01CA
+  titles:
+    en: CAT01CAC in English
+    it: CAT01CAC in Italiano
+- code: CAT01CACA
+  parentCode: CAT01CAC
+  titles:
+    en: CAT01CACA in English
+    it: CAT01CACA in Italiano
+- code: CAT01CACB
+  parentCode: CAT01CAC
+  titles:
+    en: CAT01CACB in English
+    it: CAT01CACB in Italiano
+- code: CAT01CACC
+  parentCode: CAT01CAC
+  titles:
+    en: CAT01CACC in English
+    it: CAT01CACC in Italiano
+- code: CAT01CACD
+  parentCode: CAT01CAC
+  titles:
+    en: CAT01CACD in English
+    it: CAT01CACD in Italiano
+- code: CAT01CAD
+  parentCode: CAT01CA
+  titles:
+    en: CAT01CAD in English
+    it: CAT01CAD in Italiano
+- code: CAT01CADA
+  parentCode: CAT01CAD
+  titles:
+    en: CAT01CADA in English
+    it: CAT01CADA in Italiano
+- code: CAT01CADB
+  parentCode: CAT01CAD
+  titles:
+    en: CAT01CADB in English
+    it: CAT01CADB in Italiano
+- code: CAT01CADC
+  parentCode: CAT01CAD
+  titles:
+    en: CAT01CADC in English
+    it: CAT01CADC in Italiano
+- code: CAT01CADD
+  parentCode: CAT01CAD
+  titles:
+    en: CAT01CADD in English
+    it: CAT01CADD in Italiano
+- code: CAT01CB
+  parentCode: CAT01C
+  titles:
+    en: CAT01CB in English
+    it: CAT01CB in Italiano
+- code: CAT01CBA
+  parentCode: CAT01CB
+  titles:
+    en: CAT01CBA in English
+    it: CAT01CBA in Italiano
+- code: CAT01CBAA
+  parentCode: CAT01CBA
+  titles:
+    en: CAT01CBAA in English
+    it: CAT01CBAA in Italiano
+- code: CAT01CBAB
+  parentCode: CAT01CBA
+  titles:
+    en: CAT01CBAB in English
+    it: CAT01CBAB in Italiano
+- code: CAT01CBAC
+  parentCode: CAT01CBA
+  titles:
+    en: CAT01CBAC in English
+    it: CAT01CBAC in Italiano
+- code: CAT01CBAD
+  parentCode: CAT01CBA
+  titles:
+    en: CAT01CBAD in English
+    it: CAT01CBAD in Italiano
+- code: CAT01CBB
+  parentCode: CAT01CB
+  titles:
+    en: CAT01CBB in English
+    it: CAT01CBB in Italiano
+- code: CAT01CBBA
+  parentCode: CAT01CBB
+  titles:
+    en: CAT01CBBA in English
+    it: CAT01CBBA in Italiano
+- code: CAT01CBBB
+  parentCode: CAT01CBB
+  titles:
+    en: CAT01CBBB in English
+    it: CAT01CBBB in Italiano
+- code: CAT01CBBC
+  parentCode: CAT01CBB
+  titles:
+    en: CAT01CBBC in English
+    it: CAT01CBBC in Italiano
+- code: CAT01CBBD
+  parentCode: CAT01CBB
+  titles:
+    en: CAT01CBBD in English
+    it: CAT01CBBD in Italiano
+- code: CAT01CBC
+  parentCode: CAT01CB
+  titles:
+    en: CAT01CBC in English
+    it: CAT01CBC in Italiano
+- code: CAT01CBCA
+  parentCode: CAT01CBC
+  titles:
+    en: CAT01CBCA in English
+    it: CAT01CBCA in Italiano
+- code: CAT01CBCB
+  parentCode: CAT01CBC
+  titles:
+    en: CAT01CBCB in English
+    it: CAT01CBCB in Italiano
+- code: CAT01CBCC
+  parentCode: CAT01CBC
+  titles:
+    en: CAT01CBCC in English
+    it: CAT01CBCC in Italiano
+- code: CAT01CBCD
+  parentCode: CAT01CBC
+  titles:
+    en: CAT01CBCD in English
+    it: CAT01CBCD in Italiano
+- code: CAT01CBD
+  parentCode: CAT01CB
+  titles:
+    en: CAT01CBD in English
+    it: CAT01CBD in Italiano
+- code: CAT01CBDA
+  parentCode: CAT01CBD
+  titles:
+    en: CAT01CBDA in English
+    it: CAT01CBDA in Italiano
+- code: CAT01CBDB
+  parentCode: CAT01CBD
+  titles:
+    en: CAT01CBDB in English
+    it: CAT01CBDB in Italiano
+- code: CAT01CBDC
+  parentCode: CAT01CBD
+  titles:
+    en: CAT01CBDC in English
+    it: CAT01CBDC in Italiano
+- code: CAT01CBDD
+  parentCode: CAT01CBD
+  titles:
+    en: CAT01CBDD in English
+    it: CAT01CBDD in Italiano
+- code: CAT01CC
+  parentCode: CAT01C
+  titles:
+    en: CAT01CC in English
+    it: CAT01CC in Italiano
+- code: CAT01CCA
+  parentCode: CAT01CC
+  titles:
+    en: CAT01CCA in English
+    it: CAT01CCA in Italiano
+- code: CAT01CCAA
+  parentCode: CAT01CCA
+  titles:
+    en: CAT01CCAA in English
+    it: CAT01CCAA in Italiano
+- code: CAT01CCAB
+  parentCode: CAT01CCA
+  titles:
+    en: CAT01CCAB in English
+    it: CAT01CCAB in Italiano
+- code: CAT01CCAC
+  parentCode: CAT01CCA
+  titles:
+    en: CAT01CCAC in English
+    it: CAT01CCAC in Italiano
+- code: CAT01CCAD
+  parentCode: CAT01CCA
+  titles:
+    en: CAT01CCAD in English
+    it: CAT01CCAD in Italiano
+- code: CAT01CCB
+  parentCode: CAT01CC
+  titles:
+    en: CAT01CCB in English
+    it: CAT01CCB in Italiano
+- code: CAT01CCBA
+  parentCode: CAT01CCB
+  titles:
+    en: CAT01CCBA in English
+    it: CAT01CCBA in Italiano
+- code: CAT01CCBB
+  parentCode: CAT01CCB
+  titles:
+    en: CAT01CCBB in English
+    it: CAT01CCBB in Italiano
+- code: CAT01CCBC
+  parentCode: CAT01CCB
+  titles:
+    en: CAT01CCBC in English
+    it: CAT01CCBC in Italiano
+- code: CAT01CCBD
+  parentCode: CAT01CCB
+  titles:
+    en: CAT01CCBD in English
+    it: CAT01CCBD in Italiano
+- code: CAT01CCC
+  parentCode: CAT01CC
+  titles:
+    en: CAT01CCC in English
+    it: CAT01CCC in Italiano
+- code: CAT01CCCA
+  parentCode: CAT01CCC
+  titles:
+    en: CAT01CCCA in English
+    it: CAT01CCCA in Italiano
+- code: CAT01CCCB
+  parentCode: CAT01CCC
+  titles:
+    en: CAT01CCCB in English
+    it: CAT01CCCB in Italiano
+- code: CAT01CCCC
+  parentCode: CAT01CCC
+  titles:
+    en: CAT01CCCC in English
+    it: CAT01CCCC in Italiano
+- code: CAT01CCCD
+  parentCode: CAT01CCC
+  titles:
+    en: CAT01CCCD in English
+    it: CAT01CCCD in Italiano
+- code: CAT01CCD
+  parentCode: CAT01CC
+  titles:
+    en: CAT01CCD in English
+    it: CAT01CCD in Italiano
+- code: CAT01CCDA
+  parentCode: CAT01CCD
+  titles:
+    en: CAT01CCDA in English
+    it: CAT01CCDA in Italiano
+- code: CAT01CCDB
+  parentCode: CAT01CCD
+  titles:
+    en: CAT01CCDB in English
+    it: CAT01CCDB in Italiano
+- code: CAT01CCDC
+  parentCode: CAT01CCD
+  titles:
+    en: CAT01CCDC in English
+    it: CAT01CCDC in Italiano
+- code: CAT01CCDD
+  parentCode: CAT01CCD
+  titles:
+    en: CAT01CCDD in English
+    it: CAT01CCDD in Italiano
+- code: CAT01CD
+  parentCode: CAT01C
+  titles:
+    en: CAT01CD in English
+    it: CAT01CD in Italiano
+- code: CAT01CDA
+  parentCode: CAT01CD
+  titles:
+    en: CAT01CDA in English
+    it: CAT01CDA in Italiano
+- code: CAT01CDAA
+  parentCode: CAT01CDA
+  titles:
+    en: CAT01CDAA in English
+    it: CAT01CDAA in Italiano
+- code: CAT01CDAB
+  parentCode: CAT01CDA
+  titles:
+    en: CAT01CDAB in English
+    it: CAT01CDAB in Italiano
+- code: CAT01CDAC
+  parentCode: CAT01CDA
+  titles:
+    en: CAT01CDAC in English
+    it: CAT01CDAC in Italiano
+- code: CAT01CDAD
+  parentCode: CAT01CDA
+  titles:
+    en: CAT01CDAD in English
+    it: CAT01CDAD in Italiano
+- code: CAT01CDB
+  parentCode: CAT01CD
+  titles:
+    en: CAT01CDB in English
+    it: CAT01CDB in Italiano
+- code: CAT01CDBA
+  parentCode: CAT01CDB
+  titles:
+    en: CAT01CDBA in English
+    it: CAT01CDBA in Italiano
+- code: CAT01CDBB
+  parentCode: CAT01CDB
+  titles:
+    en: CAT01CDBB in English
+    it: CAT01CDBB in Italiano
+- code: CAT01CDBC
+  parentCode: CAT01CDB
+  titles:
+    en: CAT01CDBC in English
+    it: CAT01CDBC in Italiano
+- code: CAT01CDBD
+  parentCode: CAT01CDB
+  titles:
+    en: CAT01CDBD in English
+    it: CAT01CDBD in Italiano
+- code: CAT01CDC
+  parentCode: CAT01CD
+  titles:
+    en: CAT01CDC in English
+    it: CAT01CDC in Italiano
+- code: CAT01CDCA
+  parentCode: CAT01CDC
+  titles:
+    en: CAT01CDCA in English
+    it: CAT01CDCA in Italiano
+- code: CAT01CDCB
+  parentCode: CAT01CDC
+  titles:
+    en: CAT01CDCB in English
+    it: CAT01CDCB in Italiano
+- code: CAT01CDCC
+  parentCode: CAT01CDC
+  titles:
+    en: CAT01CDCC in English
+    it: CAT01CDCC in Italiano
+- code: CAT01CDCD
+  parentCode: CAT01CDC
+  titles:
+    en: CAT01CDCD in English
+    it: CAT01CDCD in Italiano
+- code: CAT01CDD
+  parentCode: CAT01CD
+  titles:
+    en: CAT01CDD in English
+    it: CAT01CDD in Italiano
+- code: CAT01CDDA
+  parentCode: CAT01CDD
+  titles:
+    en: CAT01CDDA in English
+    it: CAT01CDDA in Italiano
+- code: CAT01CDDB
+  parentCode: CAT01CDD
+  titles:
+    en: CAT01CDDB in English
+    it: CAT01CDDB in Italiano
+- code: CAT01CDDC
+  parentCode: CAT01CDD
+  titles:
+    en: CAT01CDDC in English
+    it: CAT01CDDC in Italiano
+- code: CAT01CDDD
+  parentCode: CAT01CDD
+  titles:
+    en: CAT01CDDD in English
+    it: CAT01CDDD in Italiano
+- code: CAT01D
+  parentCode: home
+  titles:
+    en: CAT01D in English
+    it: CAT01D in Italiano
+- code: CAT01DA
+  parentCode: CAT01D
+  titles:
+    en: CAT01DA in English
+    it: CAT01DA in Italiano
+- code: CAT01DAA
+  parentCode: CAT01DA
+  titles:
+    en: CAT01DAA in English
+    it: CAT01DAA in Italiano
+- code: CAT01DAAA
+  parentCode: CAT01DAA
+  titles:
+    en: CAT01DAAA in English
+    it: CAT01DAAA in Italiano
+- code: CAT01DAAB
+  parentCode: CAT01DAA
+  titles:
+    en: CAT01DAAB in English
+    it: CAT01DAAB in Italiano
+- code: CAT01DAAC
+  parentCode: CAT01DAA
+  titles:
+    en: CAT01DAAC in English
+    it: CAT01DAAC in Italiano
+- code: CAT01DAAD
+  parentCode: CAT01DAA
+  titles:
+    en: CAT01DAAD in English
+    it: CAT01DAAD in Italiano
+- code: CAT01DAB
+  parentCode: CAT01DA
+  titles:
+    en: CAT01DAB in English
+    it: CAT01DAB in Italiano
+- code: CAT01DABA
+  parentCode: CAT01DAB
+  titles:
+    en: CAT01DABA in English
+    it: CAT01DABA in Italiano
+- code: CAT01DABB
+  parentCode: CAT01DAB
+  titles:
+    en: CAT01DABB in English
+    it: CAT01DABB in Italiano
+- code: CAT01DABC
+  parentCode: CAT01DAB
+  titles:
+    en: CAT01DABC in English
+    it: CAT01DABC in Italiano
+- code: CAT01DABD
+  parentCode: CAT01DAB
+  titles:
+    en: CAT01DABD in English
+    it: CAT01DABD in Italiano
+- code: CAT01DAC
+  parentCode: CAT01DA
+  titles:
+    en: CAT01DAC in English
+    it: CAT01DAC in Italiano
+- code: CAT01DACA
+  parentCode: CAT01DAC
+  titles:
+    en: CAT01DACA in English
+    it: CAT01DACA in Italiano
+- code: CAT01DACB
+  parentCode: CAT01DAC
+  titles:
+    en: CAT01DACB in English
+    it: CAT01DACB in Italiano
+- code: CAT01DACC
+  parentCode: CAT01DAC
+  titles:
+    en: CAT01DACC in English
+    it: CAT01DACC in Italiano
+- code: CAT01DACD
+  parentCode: CAT01DAC
+  titles:
+    en: CAT01DACD in English
+    it: CAT01DACD in Italiano
+- code: CAT01DAD
+  parentCode: CAT01DA
+  titles:
+    en: CAT01DAD in English
+    it: CAT01DAD in Italiano
+- code: CAT01DADA
+  parentCode: CAT01DAD
+  titles:
+    en: CAT01DADA in English
+    it: CAT01DADA in Italiano
+- code: CAT01DADB
+  parentCode: CAT01DAD
+  titles:
+    en: CAT01DADB in English
+    it: CAT01DADB in Italiano
+- code: CAT01DADC
+  parentCode: CAT01DAD
+  titles:
+    en: CAT01DADC in English
+    it: CAT01DADC in Italiano
+- code: CAT01DADD
+  parentCode: CAT01DAD
+  titles:
+    en: CAT01DADD in English
+    it: CAT01DADD in Italiano
+- code: CAT01DB
+  parentCode: CAT01D
+  titles:
+    en: CAT01DB in English
+    it: CAT01DB in Italiano
+- code: CAT01DBA
+  parentCode: CAT01DB
+  titles:
+    en: CAT01DBA in English
+    it: CAT01DBA in Italiano
+- code: CAT01DBAA
+  parentCode: CAT01DBA
+  titles:
+    en: CAT01DBAA in English
+    it: CAT01DBAA in Italiano
+- code: CAT01DBAB
+  parentCode: CAT01DBA
+  titles:
+    en: CAT01DBAB in English
+    it: CAT01DBAB in Italiano
+- code: CAT01DBAC
+  parentCode: CAT01DBA
+  titles:
+    en: CAT01DBAC in English
+    it: CAT01DBAC in Italiano
+- code: CAT01DBAD
+  parentCode: CAT01DBA
+  titles:
+    en: CAT01DBAD in English
+    it: CAT01DBAD in Italiano
+- code: CAT01DBB
+  parentCode: CAT01DB
+  titles:
+    en: CAT01DBB in English
+    it: CAT01DBB in Italiano
+- code: CAT01DBBA
+  parentCode: CAT01DBB
+  titles:
+    en: CAT01DBBA in English
+    it: CAT01DBBA in Italiano
+- code: CAT01DBBB
+  parentCode: CAT01DBB
+  titles:
+    en: CAT01DBBB in English
+    it: CAT01DBBB in Italiano
+- code: CAT01DBBC
+  parentCode: CAT01DBB
+  titles:
+    en: CAT01DBBC in English
+    it: CAT01DBBC in Italiano
+- code: CAT01DBBD
+  parentCode: CAT01DBB
+  titles:
+    en: CAT01DBBD in English
+    it: CAT01DBBD in Italiano
+- code: CAT01DBC
+  parentCode: CAT01DB
+  titles:
+    en: CAT01DBC in English
+    it: CAT01DBC in Italiano
+- code: CAT01DBCA
+  parentCode: CAT01DBC
+  titles:
+    en: CAT01DBCA in English
+    it: CAT01DBCA in Italiano
+- code: CAT01DBCB
+  parentCode: CAT01DBC
+  titles:
+    en: CAT01DBCB in English
+    it: CAT01DBCB in Italiano
+- code: CAT01DBCC
+  parentCode: CAT01DBC
+  titles:
+    en: CAT01DBCC in English
+    it: CAT01DBCC in Italiano
+- code: CAT01DBCD
+  parentCode: CAT01DBC
+  titles:
+    en: CAT01DBCD in English
+    it: CAT01DBCD in Italiano
+- code: CAT01DBD
+  parentCode: CAT01DB
+  titles:
+    en: CAT01DBD in English
+    it: CAT01DBD in Italiano
+- code: CAT01DBDA
+  parentCode: CAT01DBD
+  titles:
+    en: CAT01DBDA in English
+    it: CAT01DBDA in Italiano
+- code: CAT01DBDB
+  parentCode: CAT01DBD
+  titles:
+    en: CAT01DBDB in English
+    it: CAT01DBDB in Italiano
+- code: CAT01DBDC
+  parentCode: CAT01DBD
+  titles:
+    en: CAT01DBDC in English
+    it: CAT01DBDC in Italiano
+- code: CAT01DBDD
+  parentCode: CAT01DBD
+  titles:
+    en: CAT01DBDD in English
+    it: CAT01DBDD in Italiano
+- code: CAT01DC
+  parentCode: CAT01D
+  titles:
+    en: CAT01DC in English
+    it: CAT01DC in Italiano
+- code: CAT01DCA
+  parentCode: CAT01DC
+  titles:
+    en: CAT01DCA in English
+    it: CAT01DCA in Italiano
+- code: CAT01DCAA
+  parentCode: CAT01DCA
+  titles:
+    en: CAT01DCAA in English
+    it: CAT01DCAA in Italiano
+- code: CAT01DCAB
+  parentCode: CAT01DCA
+  titles:
+    en: CAT01DCAB in English
+    it: CAT01DCAB in Italiano
+- code: CAT01DCAC
+  parentCode: CAT01DCA
+  titles:
+    en: CAT01DCAC in English
+    it: CAT01DCAC in Italiano
+- code: CAT01DCAD
+  parentCode: CAT01DCA
+  titles:
+    en: CAT01DCAD in English
+    it: CAT01DCAD in Italiano
+- code: CAT01DCB
+  parentCode: CAT01DC
+  titles:
+    en: CAT01DCB in English
+    it: CAT01DCB in Italiano
+- code: CAT01DCBA
+  parentCode: CAT01DCB
+  titles:
+    en: CAT01DCBA in English
+    it: CAT01DCBA in Italiano
+- code: CAT01DCBB
+  parentCode: CAT01DCB
+  titles:
+    en: CAT01DCBB in English
+    it: CAT01DCBB in Italiano
+- code: CAT01DCBC
+  parentCode: CAT01DCB
+  titles:
+    en: CAT01DCBC in English
+    it: CAT01DCBC in Italiano
+- code: CAT01DCBD
+  parentCode: CAT01DCB
+  titles:
+    en: CAT01DCBD in English
+    it: CAT01DCBD in Italiano
+- code: CAT01DCC
+  parentCode: CAT01DC
+  titles:
+    en: CAT01DCC in English
+    it: CAT01DCC in Italiano
+- code: CAT01DCCA
+  parentCode: CAT01DCC
+  titles:
+    en: CAT01DCCA in English
+    it: CAT01DCCA in Italiano
+- code: CAT01DCCB
+  parentCode: CAT01DCC
+  titles:
+    en: CAT01DCCB in English
+    it: CAT01DCCB in Italiano
+- code: CAT01DCCC
+  parentCode: CAT01DCC
+  titles:
+    en: CAT01DCCC in English
+    it: CAT01DCCC in Italiano
+- code: CAT01DCCD
+  parentCode: CAT01DCC
+  titles:
+    en: CAT01DCCD in English
+    it: CAT01DCCD in Italiano
+- code: CAT01DCD
+  parentCode: CAT01DC
+  titles:
+    en: CAT01DCD in English
+    it: CAT01DCD in Italiano
+- code: CAT01DCDA
+  parentCode: CAT01DCD
+  titles:
+    en: CAT01DCDA in English
+    it: CAT01DCDA in Italiano
+- code: CAT01DCDB
+  parentCode: CAT01DCD
+  titles:
+    en: CAT01DCDB in English
+    it: CAT01DCDB in Italiano
+- code: CAT01DCDC
+  parentCode: CAT01DCD
+  titles:
+    en: CAT01DCDC in English
+    it: CAT01DCDC in Italiano
+- code: CAT01DCDD
+  parentCode: CAT01DCD
+  titles:
+    en: CAT01DCDD in English
+    it: CAT01DCDD in Italiano
+- code: CAT01DD
+  parentCode: CAT01D
+  titles:
+    en: CAT01DD in English
+    it: CAT01DD in Italiano
+- code: CAT01DDA
+  parentCode: CAT01DD
+  titles:
+    en: CAT01DDA in English
+    it: CAT01DDA in Italiano
+- code: CAT01DDAA
+  parentCode: CAT01DDA
+  titles:
+    en: CAT01DDAA in English
+    it: CAT01DDAA in Italiano
+- code: CAT01DDAB
+  parentCode: CAT01DDA
+  titles:
+    en: CAT01DDAB in English
+    it: CAT01DDAB in Italiano
+- code: CAT01DDAC
+  parentCode: CAT01DDA
+  titles:
+    en: CAT01DDAC in English
+    it: CAT01DDAC in Italiano
+- code: CAT01DDAD
+  parentCode: CAT01DDA
+  titles:
+    en: CAT01DDAD in English
+    it: CAT01DDAD in Italiano
+- code: CAT01DDB
+  parentCode: CAT01DD
+  titles:
+    en: CAT01DDB in English
+    it: CAT01DDB in Italiano
+- code: CAT01DDBA
+  parentCode: CAT01DDB
+  titles:
+    en: CAT01DDBA in English
+    it: CAT01DDBA in Italiano
+- code: CAT01DDBB
+  parentCode: CAT01DDB
+  titles:
+    en: CAT01DDBB in English
+    it: CAT01DDBB in Italiano
+- code: CAT01DDBC
+  parentCode: CAT01DDB
+  titles:
+    en: CAT01DDBC in English
+    it: CAT01DDBC in Italiano
+- code: CAT01DDBD
+  parentCode: CAT01DDB
+  titles:
+    en: CAT01DDBD in English
+    it: CAT01DDBD in Italiano
+- code: CAT01DDC
+  parentCode: CAT01DD
+  titles:
+    en: CAT01DDC in English
+    it: CAT01DDC in Italiano
+- code: CAT01DDCA
+  parentCode: CAT01DDC
+  titles:
+    en: CAT01DDCA in English
+    it: CAT01DDCA in Italiano
+- code: CAT01DDCB
+  parentCode: CAT01DDC
+  titles:
+    en: CAT01DDCB in English
+    it: CAT01DDCB in Italiano
+- code: CAT01DDCC
+  parentCode: CAT01DDC
+  titles:
+    en: CAT01DDCC in English
+    it: CAT01DDCC in Italiano
+- code: CAT01DDCD
+  parentCode: CAT01DDC
+  titles:
+    en: CAT01DDCD in English
+    it: CAT01DDCD in Italiano
+- code: CAT01DDD
+  parentCode: CAT01DD
+  titles:
+    en: CAT01DDD in English
+    it: CAT01DDD in Italiano
+- code: CAT01DDDA
+  parentCode: CAT01DDD
+  titles:
+    en: CAT01DDDA in English
+    it: CAT01DDDA in Italiano
+- code: CAT01DDDB
+  parentCode: CAT01DDD
+  titles:
+    en: CAT01DDDB in English
+    it: CAT01DDDB in Italiano
+- code: CAT01DDDC
+  parentCode: CAT01DDD
+  titles:
+    en: CAT01DDDC in English
+    it: CAT01DDDC in Italiano
+- code: CAT01DDDD
+  parentCode: CAT01DDD
+  titles:
+    en: CAT01DDDD in English
+    it: CAT01DDDD in Italiano
+- code: CAT02
+  parentCode: home
+  titles:
+    en: CAT02 in English
+    it: CAT02 in Italiano
+- code: CAT02A
+  parentCode: home
+  titles:
+    en: CAT02A in English
+    it: CAT02A in Italiano
+- code: CAT02AA
+  parentCode: CAT02A
+  titles:
+    en: CAT02AA in English
+    it: CAT02AA in Italiano
+- code: CAT02AAA
+  parentCode: CAT02AA
+  titles:
+    en: CAT02AAA in English
+    it: CAT02AAA in Italiano
+- code: CAT02AAAA
+  parentCode: CAT02AAA
+  titles:
+    en: CAT02AAAA in English
+    it: CAT02AAAA in Italiano
+- code: CAT02AAAB
+  parentCode: CAT02AAA
+  titles:
+    en: CAT02AAAB in English
+    it: CAT02AAAB in Italiano
+- code: CAT02AAAC
+  parentCode: CAT02AAA
+  titles:
+    en: CAT02AAAC in English
+    it: CAT02AAAC in Italiano
+- code: CAT02AAAD
+  parentCode: CAT02AAA
+  titles:
+    en: CAT02AAAD in English
+    it: CAT02AAAD in Italiano
+- code: CAT02AAB
+  parentCode: CAT02AA
+  titles:
+    en: CAT02AAB in English
+    it: CAT02AAB in Italiano
+- code: CAT02AABA
+  parentCode: CAT02AAB
+  titles:
+    en: CAT02AABA in English
+    it: CAT02AABA in Italiano
+- code: CAT02AABB
+  parentCode: CAT02AAB
+  titles:
+    en: CAT02AABB in English
+    it: CAT02AABB in Italiano
+- code: CAT02AABC
+  parentCode: CAT02AAB
+  titles:
+    en: CAT02AABC in English
+    it: CAT02AABC in Italiano
+- code: CAT02AABD
+  parentCode: CAT02AAB
+  titles:
+    en: CAT02AABD in English
+    it: CAT02AABD in Italiano
+- code: CAT02AAC
+  parentCode: CAT02AA
+  titles:
+    en: CAT02AAC in English
+    it: CAT02AAC in Italiano
+- code: CAT02AACA
+  parentCode: CAT02AAC
+  titles:
+    en: CAT02AACA in English
+    it: CAT02AACA in Italiano
+- code: CAT02AACB
+  parentCode: CAT02AAC
+  titles:
+    en: CAT02AACB in English
+    it: CAT02AACB in Italiano
+- code: CAT02AACC
+  parentCode: CAT02AAC
+  titles:
+    en: CAT02AACC in English
+    it: CAT02AACC in Italiano
+- code: CAT02AACD
+  parentCode: CAT02AAC
+  titles:
+    en: CAT02AACD in English
+    it: CAT02AACD in Italiano
+- code: CAT02AAD
+  parentCode: CAT02AA
+  titles:
+    en: CAT02AAD in English
+    it: CAT02AAD in Italiano
+- code: CAT02AADA
+  parentCode: CAT02AAD
+  titles:
+    en: CAT02AADA in English
+    it: CAT02AADA in Italiano
+- code: CAT02AADB
+  parentCode: CAT02AAD
+  titles:
+    en: CAT02AADB in English
+    it: CAT02AADB in Italiano
+- code: CAT02AADC
+  parentCode: CAT02AAD
+  titles:
+    en: CAT02AADC in English
+    it: CAT02AADC in Italiano
+- code: CAT02AADD
+  parentCode: CAT02AAD
+  titles:
+    en: CAT02AADD in English
+    it: CAT02AADD in Italiano
+- code: CAT02AB
+  parentCode: CAT02A
+  titles:
+    en: CAT02AB in English
+    it: CAT02AB in Italiano
+- code: CAT02ABA
+  parentCode: CAT02AB
+  titles:
+    en: CAT02ABA in English
+    it: CAT02ABA in Italiano
+- code: CAT02ABAA
+  parentCode: CAT02ABA
+  titles:
+    en: CAT02ABAA in English
+    it: CAT02ABAA in Italiano
+- code: CAT02ABAB
+  parentCode: CAT02ABA
+  titles:
+    en: CAT02ABAB in English
+    it: CAT02ABAB in Italiano
+- code: CAT02ABAC
+  parentCode: CAT02ABA
+  titles:
+    en: CAT02ABAC in English
+    it: CAT02ABAC in Italiano
+- code: CAT02ABAD
+  parentCode: CAT02ABA
+  titles:
+    en: CAT02ABAD in English
+    it: CAT02ABAD in Italiano
+- code: CAT02ABB
+  parentCode: CAT02AB
+  titles:
+    en: CAT02ABB in English
+    it: CAT02ABB in Italiano
+- code: CAT02ABBA
+  parentCode: CAT02ABB
+  titles:
+    en: CAT02ABBA in English
+    it: CAT02ABBA in Italiano
+- code: CAT02ABBB
+  parentCode: CAT02ABB
+  titles:
+    en: CAT02ABBB in English
+    it: CAT02ABBB in Italiano
+- code: CAT02ABBC
+  parentCode: CAT02ABB
+  titles:
+    en: CAT02ABBC in English
+    it: CAT02ABBC in Italiano
+- code: CAT02ABBD
+  parentCode: CAT02ABB
+  titles:
+    en: CAT02ABBD in English
+    it: CAT02ABBD in Italiano
+- code: CAT02ABC
+  parentCode: CAT02AB
+  titles:
+    en: CAT02ABC in English
+    it: CAT02ABC in Italiano
+- code: CAT02ABCA
+  parentCode: CAT02ABC
+  titles:
+    en: CAT02ABCA in English
+    it: CAT02ABCA in Italiano
+- code: CAT02ABCB
+  parentCode: CAT02ABC
+  titles:
+    en: CAT02ABCB in English
+    it: CAT02ABCB in Italiano
+- code: CAT02ABCC
+  parentCode: CAT02ABC
+  titles:
+    en: CAT02ABCC in English
+    it: CAT02ABCC in Italiano
+- code: CAT02ABCD
+  parentCode: CAT02ABC
+  titles:
+    en: CAT02ABCD in English
+    it: CAT02ABCD in Italiano
+- code: CAT02ABD
+  parentCode: CAT02AB
+  titles:
+    en: CAT02ABD in English
+    it: CAT02ABD in Italiano
+- code: CAT02ABDA
+  parentCode: CAT02ABD
+  titles:
+    en: CAT02ABDA in English
+    it: CAT02ABDA in Italiano
+- code: CAT02ABDB
+  parentCode: CAT02ABD
+  titles:
+    en: CAT02ABDB in English
+    it: CAT02ABDB in Italiano
+- code: CAT02ABDC
+  parentCode: CAT02ABD
+  titles:
+    en: CAT02ABDC in English
+    it: CAT02ABDC in Italiano
+- code: CAT02ABDD
+  parentCode: CAT02ABD
+  titles:
+    en: CAT02ABDD in English
+    it: CAT02ABDD in Italiano
+- code: CAT02AC
+  parentCode: CAT02A
+  titles:
+    en: CAT02AC in English
+    it: CAT02AC in Italiano
+- code: CAT02ACA
+  parentCode: CAT02AC
+  titles:
+    en: CAT02ACA in English
+    it: CAT02ACA in Italiano
+- code: CAT02ACAA
+  parentCode: CAT02ACA
+  titles:
+    en: CAT02ACAA in English
+    it: CAT02ACAA in Italiano
+- code: CAT02ACAB
+  parentCode: CAT02ACA
+  titles:
+    en: CAT02ACAB in English
+    it: CAT02ACAB in Italiano
+- code: CAT02ACAC
+  parentCode: CAT02ACA
+  titles:
+    en: CAT02ACAC in English
+    it: CAT02ACAC in Italiano
+- code: CAT02ACAD
+  parentCode: CAT02ACA
+  titles:
+    en: CAT02ACAD in English
+    it: CAT02ACAD in Italiano
+- code: CAT02ACB
+  parentCode: CAT02AC
+  titles:
+    en: CAT02ACB in English
+    it: CAT02ACB in Italiano
+- code: CAT02ACBA
+  parentCode: CAT02ACB
+  titles:
+    en: CAT02ACBA in English
+    it: CAT02ACBA in Italiano
+- code: CAT02ACBB
+  parentCode: CAT02ACB
+  titles:
+    en: CAT02ACBB in English
+    it: CAT02ACBB in Italiano
+- code: CAT02ACBC
+  parentCode: CAT02ACB
+  titles:
+    en: CAT02ACBC in English
+    it: CAT02ACBC in Italiano
+- code: CAT02ACBD
+  parentCode: CAT02ACB
+  titles:
+    en: CAT02ACBD in English
+    it: CAT02ACBD in Italiano
+- code: CAT02ACC
+  parentCode: CAT02AC
+  titles:
+    en: CAT02ACC in English
+    it: CAT02ACC in Italiano
+- code: CAT02ACCA
+  parentCode: CAT02ACC
+  titles:
+    en: CAT02ACCA in English
+    it: CAT02ACCA in Italiano
+- code: CAT02ACCB
+  parentCode: CAT02ACC
+  titles:
+    en: CAT02ACCB in English
+    it: CAT02ACCB in Italiano
+- code: CAT02ACCC
+  parentCode: CAT02ACC
+  titles:
+    en: CAT02ACCC in English
+    it: CAT02ACCC in Italiano
+- code: CAT02ACCD
+  parentCode: CAT02ACC
+  titles:
+    en: CAT02ACCD in English
+    it: CAT02ACCD in Italiano
+- code: CAT02ACD
+  parentCode: CAT02AC
+  titles:
+    en: CAT02ACD in English
+    it: CAT02ACD in Italiano
+- code: CAT02ACDA
+  parentCode: CAT02ACD
+  titles:
+    en: CAT02ACDA in English
+    it: CAT02ACDA in Italiano
+- code: CAT02ACDB
+  parentCode: CAT02ACD
+  titles:
+    en: CAT02ACDB in English
+    it: CAT02ACDB in Italiano
+- code: CAT02ACDC
+  parentCode: CAT02ACD
+  titles:
+    en: CAT02ACDC in English
+    it: CAT02ACDC in Italiano
+- code: CAT02ACDD
+  parentCode: CAT02ACD
+  titles:
+    en: CAT02ACDD in English
+    it: CAT02ACDD in Italiano
+- code: CAT02AD
+  parentCode: CAT02A
+  titles:
+    en: CAT02AD in English
+    it: CAT02AD in Italiano
+- code: CAT02ADA
+  parentCode: CAT02AD
+  titles:
+    en: CAT02ADA in English
+    it: CAT02ADA in Italiano
+- code: CAT02ADAA
+  parentCode: CAT02ADA
+  titles:
+    en: CAT02ADAA in English
+    it: CAT02ADAA in Italiano
+- code: CAT02ADAB
+  parentCode: CAT02ADA
+  titles:
+    en: CAT02ADAB in English
+    it: CAT02ADAB in Italiano
+- code: CAT02ADAC
+  parentCode: CAT02ADA
+  titles:
+    en: CAT02ADAC in English
+    it: CAT02ADAC in Italiano
+- code: CAT02ADAD
+  parentCode: CAT02ADA
+  titles:
+    en: CAT02ADAD in English
+    it: CAT02ADAD in Italiano
+- code: CAT02ADB
+  parentCode: CAT02AD
+  titles:
+    en: CAT02ADB in English
+    it: CAT02ADB in Italiano
+- code: CAT02ADBA
+  parentCode: CAT02ADB
+  titles:
+    en: CAT02ADBA in English
+    it: CAT02ADBA in Italiano
+- code: CAT02ADBB
+  parentCode: CAT02ADB
+  titles:
+    en: CAT02ADBB in English
+    it: CAT02ADBB in Italiano
+- code: CAT02ADBC
+  parentCode: CAT02ADB
+  titles:
+    en: CAT02ADBC in English
+    it: CAT02ADBC in Italiano
+- code: CAT02ADBD
+  parentCode: CAT02ADB
+  titles:
+    en: CAT02ADBD in English
+    it: CAT02ADBD in Italiano
+- code: CAT02ADC
+  parentCode: CAT02AD
+  titles:
+    en: CAT02ADC in English
+    it: CAT02ADC in Italiano
+- code: CAT02ADCA
+  parentCode: CAT02ADC
+  titles:
+    en: CAT02ADCA in English
+    it: CAT02ADCA in Italiano
+- code: CAT02ADCB
+  parentCode: CAT02ADC
+  titles:
+    en: CAT02ADCB in English
+    it: CAT02ADCB in Italiano
+- code: CAT02ADCC
+  parentCode: CAT02ADC
+  titles:
+    en: CAT02ADCC in English
+    it: CAT02ADCC in Italiano
+- code: CAT02ADCD
+  parentCode: CAT02ADC
+  titles:
+    en: CAT02ADCD in English
+    it: CAT02ADCD in Italiano
+- code: CAT02ADD
+  parentCode: CAT02AD
+  titles:
+    en: CAT02ADD in English
+    it: CAT02ADD in Italiano
+- code: CAT02ADDA
+  parentCode: CAT02ADD
+  titles:
+    en: CAT02ADDA in English
+    it: CAT02ADDA in Italiano
+- code: CAT02ADDB
+  parentCode: CAT02ADD
+  titles:
+    en: CAT02ADDB in English
+    it: CAT02ADDB in Italiano
+- code: CAT02ADDC
+  parentCode: CAT02ADD
+  titles:
+    en: CAT02ADDC in English
+    it: CAT02ADDC in Italiano
+- code: CAT02ADDD
+  parentCode: CAT02ADD
+  titles:
+    en: CAT02ADDD in English
+    it: CAT02ADDD in Italiano
+- code: CAT02B
+  parentCode: home
+  titles:
+    en: CAT02B in English
+    it: CAT02B in Italiano
+- code: CAT02BA
+  parentCode: CAT02B
+  titles:
+    en: CAT02BA in English
+    it: CAT02BA in Italiano
+- code: CAT02BAA
+  parentCode: CAT02BA
+  titles:
+    en: CAT02BAA in English
+    it: CAT02BAA in Italiano
+- code: CAT02BAAA
+  parentCode: CAT02BAA
+  titles:
+    en: CAT02BAAA in English
+    it: CAT02BAAA in Italiano
+- code: CAT02BAAB
+  parentCode: CAT02BAA
+  titles:
+    en: CAT02BAAB in English
+    it: CAT02BAAB in Italiano
+- code: CAT02BAAC
+  parentCode: CAT02BAA
+  titles:
+    en: CAT02BAAC in English
+    it: CAT02BAAC in Italiano
+- code: CAT02BAAD
+  parentCode: CAT02BAA
+  titles:
+    en: CAT02BAAD in English
+    it: CAT02BAAD in Italiano
+- code: CAT02BAB
+  parentCode: CAT02BA
+  titles:
+    en: CAT02BAB in English
+    it: CAT02BAB in Italiano
+- code: CAT02BABA
+  parentCode: CAT02BAB
+  titles:
+    en: CAT02BABA in English
+    it: CAT02BABA in Italiano
+- code: CAT02BABB
+  parentCode: CAT02BAB
+  titles:
+    en: CAT02BABB in English
+    it: CAT02BABB in Italiano
+- code: CAT02BABC
+  parentCode: CAT02BAB
+  titles:
+    en: CAT02BABC in English
+    it: CAT02BABC in Italiano
+- code: CAT02BABD
+  parentCode: CAT02BAB
+  titles:
+    en: CAT02BABD in English
+    it: CAT02BABD in Italiano
+- code: CAT02BAC
+  parentCode: CAT02BA
+  titles:
+    en: CAT02BAC in English
+    it: CAT02BAC in Italiano
+- code: CAT02BACA
+  parentCode: CAT02BAC
+  titles:
+    en: CAT02BACA in English
+    it: CAT02BACA in Italiano
+- code: CAT02BACB
+  parentCode: CAT02BAC
+  titles:
+    en: CAT02BACB in English
+    it: CAT02BACB in Italiano
+- code: CAT02BACC
+  parentCode: CAT02BAC
+  titles:
+    en: CAT02BACC in English
+    it: CAT02BACC in Italiano
+- code: CAT02BACD
+  parentCode: CAT02BAC
+  titles:
+    en: CAT02BACD in English
+    it: CAT02BACD in Italiano
+- code: CAT02BAD
+  parentCode: CAT02BA
+  titles:
+    en: CAT02BAD in English
+    it: CAT02BAD in Italiano
+- code: CAT02BADA
+  parentCode: CAT02BAD
+  titles:
+    en: CAT02BADA in English
+    it: CAT02BADA in Italiano
+- code: CAT02BADB
+  parentCode: CAT02BAD
+  titles:
+    en: CAT02BADB in English
+    it: CAT02BADB in Italiano
+- code: CAT02BADC
+  parentCode: CAT02BAD
+  titles:
+    en: CAT02BADC in English
+    it: CAT02BADC in Italiano
+- code: CAT02BADD
+  parentCode: CAT02BAD
+  titles:
+    en: CAT02BADD in English
+    it: CAT02BADD in Italiano
+- code: CAT02BB
+  parentCode: CAT02B
+  titles:
+    en: CAT02BB in English
+    it: CAT02BB in Italiano
+- code: CAT02BBA
+  parentCode: CAT02BB
+  titles:
+    en: CAT02BBA in English
+    it: CAT02BBA in Italiano
+- code: CAT02BBAA
+  parentCode: CAT02BBA
+  titles:
+    en: CAT02BBAA in English
+    it: CAT02BBAA in Italiano
+- code: CAT02BBAB
+  parentCode: CAT02BBA
+  titles:
+    en: CAT02BBAB in English
+    it: CAT02BBAB in Italiano
+- code: CAT02BBAC
+  parentCode: CAT02BBA
+  titles:
+    en: CAT02BBAC in English
+    it: CAT02BBAC in Italiano
+- code: CAT02BBAD
+  parentCode: CAT02BBA
+  titles:
+    en: CAT02BBAD in English
+    it: CAT02BBAD in Italiano
+- code: CAT02BBB
+  parentCode: CAT02BB
+  titles:
+    en: CAT02BBB in English
+    it: CAT02BBB in Italiano
+- code: CAT02BBBA
+  parentCode: CAT02BBB
+  titles:
+    en: CAT02BBBA in English
+    it: CAT02BBBA in Italiano
+- code: CAT02BBBB
+  parentCode: CAT02BBB
+  titles:
+    en: CAT02BBBB in English
+    it: CAT02BBBB in Italiano
+- code: CAT02BBBC
+  parentCode: CAT02BBB
+  titles:
+    en: CAT02BBBC in English
+    it: CAT02BBBC in Italiano
+- code: CAT02BBBD
+  parentCode: CAT02BBB
+  titles:
+    en: CAT02BBBD in English
+    it: CAT02BBBD in Italiano
+- code: CAT02BBC
+  parentCode: CAT02BB
+  titles:
+    en: CAT02BBC in English
+    it: CAT02BBC in Italiano
+- code: CAT02BBCA
+  parentCode: CAT02BBC
+  titles:
+    en: CAT02BBCA in English
+    it: CAT02BBCA in Italiano
+- code: CAT02BBCB
+  parentCode: CAT02BBC
+  titles:
+    en: CAT02BBCB in English
+    it: CAT02BBCB in Italiano
+- code: CAT02BBCC
+  parentCode: CAT02BBC
+  titles:
+    en: CAT02BBCC in English
+    it: CAT02BBCC in Italiano
+- code: CAT02BBCD
+  parentCode: CAT02BBC
+  titles:
+    en: CAT02BBCD in English
+    it: CAT02BBCD in Italiano
+- code: CAT02BBD
+  parentCode: CAT02BB
+  titles:
+    en: CAT02BBD in English
+    it: CAT02BBD in Italiano
+- code: CAT02BBDA
+  parentCode: CAT02BBD
+  titles:
+    en: CAT02BBDA in English
+    it: CAT02BBDA in Italiano
+- code: CAT02BBDB
+  parentCode: CAT02BBD
+  titles:
+    en: CAT02BBDB in English
+    it: CAT02BBDB in Italiano
+- code: CAT02BBDC
+  parentCode: CAT02BBD
+  titles:
+    en: CAT02BBDC in English
+    it: CAT02BBDC in Italiano
+- code: CAT02BBDD
+  parentCode: CAT02BBD
+  titles:
+    en: CAT02BBDD in English
+    it: CAT02BBDD in Italiano
+- code: CAT02BC
+  parentCode: CAT02B
+  titles:
+    en: CAT02BC in English
+    it: CAT02BC in Italiano
+- code: CAT02BCA
+  parentCode: CAT02BC
+  titles:
+    en: CAT02BCA in English
+    it: CAT02BCA in Italiano
+- code: CAT02BCAA
+  parentCode: CAT02BCA
+  titles:
+    en: CAT02BCAA in English
+    it: CAT02BCAA in Italiano
+- code: CAT02BCAB
+  parentCode: CAT02BCA
+  titles:
+    en: CAT02BCAB in English
+    it: CAT02BCAB in Italiano
+- code: CAT02BCAC
+  parentCode: CAT02BCA
+  titles:
+    en: CAT02BCAC in English
+    it: CAT02BCAC in Italiano
+- code: CAT02BCAD
+  parentCode: CAT02BCA
+  titles:
+    en: CAT02BCAD in English
+    it: CAT02BCAD in Italiano
+- code: CAT02BCB
+  parentCode: CAT02BC
+  titles:
+    en: CAT02BCB in English
+    it: CAT02BCB in Italiano
+- code: CAT02BCBA
+  parentCode: CAT02BCB
+  titles:
+    en: CAT02BCBA in English
+    it: CAT02BCBA in Italiano
+- code: CAT02BCBB
+  parentCode: CAT02BCB
+  titles:
+    en: CAT02BCBB in English
+    it: CAT02BCBB in Italiano
+- code: CAT02BCBC
+  parentCode: CAT02BCB
+  titles:
+    en: CAT02BCBC in English
+    it: CAT02BCBC in Italiano
+- code: CAT02BCBD
+  parentCode: CAT02BCB
+  titles:
+    en: CAT02BCBD in English
+    it: CAT02BCBD in Italiano
+- code: CAT02BCC
+  parentCode: CAT02BC
+  titles:
+    en: CAT02BCC in English
+    it: CAT02BCC in Italiano
+- code: CAT02BCCA
+  parentCode: CAT02BCC
+  titles:
+    en: CAT02BCCA in English
+    it: CAT02BCCA in Italiano
+- code: CAT02BCCB
+  parentCode: CAT02BCC
+  titles:
+    en: CAT02BCCB in English
+    it: CAT02BCCB in Italiano
+- code: CAT02BCCC
+  parentCode: CAT02BCC
+  titles:
+    en: CAT02BCCC in English
+    it: CAT02BCCC in Italiano
+- code: CAT02BCCD
+  parentCode: CAT02BCC
+  titles:
+    en: CAT02BCCD in English
+    it: CAT02BCCD in Italiano
+- code: CAT02BCD
+  parentCode: CAT02BC
+  titles:
+    en: CAT02BCD in English
+    it: CAT02BCD in Italiano
+- code: CAT02BCDA
+  parentCode: CAT02BCD
+  titles:
+    en: CAT02BCDA in English
+    it: CAT02BCDA in Italiano
+- code: CAT02BCDB
+  parentCode: CAT02BCD
+  titles:
+    en: CAT02BCDB in English
+    it: CAT02BCDB in Italiano
+- code: CAT02BCDC
+  parentCode: CAT02BCD
+  titles:
+    en: CAT02BCDC in English
+    it: CAT02BCDC in Italiano
+- code: CAT02BCDD
+  parentCode: CAT02BCD
+  titles:
+    en: CAT02BCDD in English
+    it: CAT02BCDD in Italiano
+- code: CAT02BD
+  parentCode: CAT02B
+  titles:
+    en: CAT02BD in English
+    it: CAT02BD in Italiano
+- code: CAT02BDA
+  parentCode: CAT02BD
+  titles:
+    en: CAT02BDA in English
+    it: CAT02BDA in Italiano
+- code: CAT02BDAA
+  parentCode: CAT02BDA
+  titles:
+    en: CAT02BDAA in English
+    it: CAT02BDAA in Italiano
+- code: CAT02BDAB
+  parentCode: CAT02BDA
+  titles:
+    en: CAT02BDAB in English
+    it: CAT02BDAB in Italiano
+- code: CAT02BDAC
+  parentCode: CAT02BDA
+  titles:
+    en: CAT02BDAC in English
+    it: CAT02BDAC in Italiano
+- code: CAT02BDAD
+  parentCode: CAT02BDA
+  titles:
+    en: CAT02BDAD in English
+    it: CAT02BDAD in Italiano
+- code: CAT02BDB
+  parentCode: CAT02BD
+  titles:
+    en: CAT02BDB in English
+    it: CAT02BDB in Italiano
+- code: CAT02BDBA
+  parentCode: CAT02BDB
+  titles:
+    en: CAT02BDBA in English
+    it: CAT02BDBA in Italiano
+- code: CAT02BDBB
+  parentCode: CAT02BDB
+  titles:
+    en: CAT02BDBB in English
+    it: CAT02BDBB in Italiano
+- code: CAT02BDBC
+  parentCode: CAT02BDB
+  titles:
+    en: CAT02BDBC in English
+    it: CAT02BDBC in Italiano
+- code: CAT02BDBD
+  parentCode: CAT02BDB
+  titles:
+    en: CAT02BDBD in English
+    it: CAT02BDBD in Italiano
+- code: CAT02BDC
+  parentCode: CAT02BD
+  titles:
+    en: CAT02BDC in English
+    it: CAT02BDC in Italiano
+- code: CAT02BDCA
+  parentCode: CAT02BDC
+  titles:
+    en: CAT02BDCA in English
+    it: CAT02BDCA in Italiano
+- code: CAT02BDCB
+  parentCode: CAT02BDC
+  titles:
+    en: CAT02BDCB in English
+    it: CAT02BDCB in Italiano
+- code: CAT02BDCC
+  parentCode: CAT02BDC
+  titles:
+    en: CAT02BDCC in English
+    it: CAT02BDCC in Italiano
+- code: CAT02BDCD
+  parentCode: CAT02BDC
+  titles:
+    en: CAT02BDCD in English
+    it: CAT02BDCD in Italiano
+- code: CAT02BDD
+  parentCode: CAT02BD
+  titles:
+    en: CAT02BDD in English
+    it: CAT02BDD in Italiano
+- code: CAT02BDDA
+  parentCode: CAT02BDD
+  titles:
+    en: CAT02BDDA in English
+    it: CAT02BDDA in Italiano
+- code: CAT02BDDB
+  parentCode: CAT02BDD
+  titles:
+    en: CAT02BDDB in English
+    it: CAT02BDDB in Italiano
+- code: CAT02BDDC
+  parentCode: CAT02BDD
+  titles:
+    en: CAT02BDDC in English
+    it: CAT02BDDC in Italiano
+- code: CAT02BDDD
+  parentCode: CAT02BDD
+  titles:
+    en: CAT02BDDD in English
+    it: CAT02BDDD in Italiano
+- code: CAT02C
+  parentCode: home
+  titles:
+    en: CAT02C in English
+    it: CAT02C in Italiano
+- code: CAT02CA
+  parentCode: CAT02C
+  titles:
+    en: CAT02CA in English
+    it: CAT02CA in Italiano
+- code: CAT02CAA
+  parentCode: CAT02CA
+  titles:
+    en: CAT02CAA in English
+    it: CAT02CAA in Italiano
+- code: CAT02CAAA
+  parentCode: CAT02CAA
+  titles:
+    en: CAT02CAAA in English
+    it: CAT02CAAA in Italiano
+- code: CAT02CAAB
+  parentCode: CAT02CAA
+  titles:
+    en: CAT02CAAB in English
+    it: CAT02CAAB in Italiano
+- code: CAT02CAAC
+  parentCode: CAT02CAA
+  titles:
+    en: CAT02CAAC in English
+    it: CAT02CAAC in Italiano
+- code: CAT02CAAD
+  parentCode: CAT02CAA
+  titles:
+    en: CAT02CAAD in English
+    it: CAT02CAAD in Italiano
+- code: CAT02CAB
+  parentCode: CAT02CA
+  titles:
+    en: CAT02CAB in English
+    it: CAT02CAB in Italiano
+- code: CAT02CABA
+  parentCode: CAT02CAB
+  titles:
+    en: CAT02CABA in English
+    it: CAT02CABA in Italiano
+- code: CAT02CABB
+  parentCode: CAT02CAB
+  titles:
+    en: CAT02CABB in English
+    it: CAT02CABB in Italiano
+- code: CAT02CABC
+  parentCode: CAT02CAB
+  titles:
+    en: CAT02CABC in English
+    it: CAT02CABC in Italiano
+- code: CAT02CABD
+  parentCode: CAT02CAB
+  titles:
+    en: CAT02CABD in English
+    it: CAT02CABD in Italiano
+- code: CAT02CAC
+  parentCode: CAT02CA
+  titles:
+    en: CAT02CAC in English
+    it: CAT02CAC in Italiano
+- code: CAT02CACA
+  parentCode: CAT02CAC
+  titles:
+    en: CAT02CACA in English
+    it: CAT02CACA in Italiano
+- code: CAT02CACB
+  parentCode: CAT02CAC
+  titles:
+    en: CAT02CACB in English
+    it: CAT02CACB in Italiano
+- code: CAT02CACC
+  parentCode: CAT02CAC
+  titles:
+    en: CAT02CACC in English
+    it: CAT02CACC in Italiano
+- code: CAT02CACD
+  parentCode: CAT02CAC
+  titles:
+    en: CAT02CACD in English
+    it: CAT02CACD in Italiano
+- code: CAT02CAD
+  parentCode: CAT02CA
+  titles:
+    en: CAT02CAD in English
+    it: CAT02CAD in Italiano
+- code: CAT02CADA
+  parentCode: CAT02CAD
+  titles:
+    en: CAT02CADA in English
+    it: CAT02CADA in Italiano
+- code: CAT02CADB
+  parentCode: CAT02CAD
+  titles:
+    en: CAT02CADB in English
+    it: CAT02CADB in Italiano
+- code: CAT02CADC
+  parentCode: CAT02CAD
+  titles:
+    en: CAT02CADC in English
+    it: CAT02CADC in Italiano
+- code: CAT02CADD
+  parentCode: CAT02CAD
+  titles:
+    en: CAT02CADD in English
+    it: CAT02CADD in Italiano
+- code: CAT02CB
+  parentCode: CAT02C
+  titles:
+    en: CAT02CB in English
+    it: CAT02CB in Italiano
+- code: CAT02CBA
+  parentCode: CAT02CB
+  titles:
+    en: CAT02CBA in English
+    it: CAT02CBA in Italiano
+- code: CAT02CBAA
+  parentCode: CAT02CBA
+  titles:
+    en: CAT02CBAA in English
+    it: CAT02CBAA in Italiano
+- code: CAT02CBAB
+  parentCode: CAT02CBA
+  titles:
+    en: CAT02CBAB in English
+    it: CAT02CBAB in Italiano
+- code: CAT02CBAC
+  parentCode: CAT02CBA
+  titles:
+    en: CAT02CBAC in English
+    it: CAT02CBAC in Italiano
+- code: CAT02CBAD
+  parentCode: CAT02CBA
+  titles:
+    en: CAT02CBAD in English
+    it: CAT02CBAD in Italiano
+- code: CAT02CBB
+  parentCode: CAT02CB
+  titles:
+    en: CAT02CBB in English
+    it: CAT02CBB in Italiano
+- code: CAT02CBBA
+  parentCode: CAT02CBB
+  titles:
+    en: CAT02CBBA in English
+    it: CAT02CBBA in Italiano
+- code: CAT02CBBB
+  parentCode: CAT02CBB
+  titles:
+    en: CAT02CBBB in English
+    it: CAT02CBBB in Italiano
+- code: CAT02CBBC
+  parentCode: CAT02CBB
+  titles:
+    en: CAT02CBBC in English
+    it: CAT02CBBC in Italiano
+- code: CAT02CBBD
+  parentCode: CAT02CBB
+  titles:
+    en: CAT02CBBD in English
+    it: CAT02CBBD in Italiano
+- code: CAT02CBC
+  parentCode: CAT02CB
+  titles:
+    en: CAT02CBC in English
+    it: CAT02CBC in Italiano
+- code: CAT02CBCA
+  parentCode: CAT02CBC
+  titles:
+    en: CAT02CBCA in English
+    it: CAT02CBCA in Italiano
+- code: CAT02CBCB
+  parentCode: CAT02CBC
+  titles:
+    en: CAT02CBCB in English
+    it: CAT02CBCB in Italiano
+- code: CAT02CBCC
+  parentCode: CAT02CBC
+  titles:
+    en: CAT02CBCC in English
+    it: CAT02CBCC in Italiano
+- code: CAT02CBCD
+  parentCode: CAT02CBC
+  titles:
+    en: CAT02CBCD in English
+    it: CAT02CBCD in Italiano
+- code: CAT02CBD
+  parentCode: CAT02CB
+  titles:
+    en: CAT02CBD in English
+    it: CAT02CBD in Italiano
+- code: CAT02CBDA
+  parentCode: CAT02CBD
+  titles:
+    en: CAT02CBDA in English
+    it: CAT02CBDA in Italiano
+- code: CAT02CBDB
+  parentCode: CAT02CBD
+  titles:
+    en: CAT02CBDB in English
+    it: CAT02CBDB in Italiano
+- code: CAT02CBDC
+  parentCode: CAT02CBD
+  titles:
+    en: CAT02CBDC in English
+    it: CAT02CBDC in Italiano
+- code: CAT02CBDD
+  parentCode: CAT02CBD
+  titles:
+    en: CAT02CBDD in English
+    it: CAT02CBDD in Italiano
+- code: CAT02CC
+  parentCode: CAT02C
+  titles:
+    en: CAT02CC in English
+    it: CAT02CC in Italiano
+- code: CAT02CCA
+  parentCode: CAT02CC
+  titles:
+    en: CAT02CCA in English
+    it: CAT02CCA in Italiano
+- code: CAT02CCAA
+  parentCode: CAT02CCA
+  titles:
+    en: CAT02CCAA in English
+    it: CAT02CCAA in Italiano
+- code: CAT02CCAB
+  parentCode: CAT02CCA
+  titles:
+    en: CAT02CCAB in English
+    it: CAT02CCAB in Italiano
+- code: CAT02CCAC
+  parentCode: CAT02CCA
+  titles:
+    en: CAT02CCAC in English
+    it: CAT02CCAC in Italiano
+- code: CAT02CCAD
+  parentCode: CAT02CCA
+  titles:
+    en: CAT02CCAD in English
+    it: CAT02CCAD in Italiano
+- code: CAT02CCB
+  parentCode: CAT02CC
+  titles:
+    en: CAT02CCB in English
+    it: CAT02CCB in Italiano
+- code: CAT02CCBA
+  parentCode: CAT02CCB
+  titles:
+    en: CAT02CCBA in English
+    it: CAT02CCBA in Italiano
+- code: CAT02CCBB
+  parentCode: CAT02CCB
+  titles:
+    en: CAT02CCBB in English
+    it: CAT02CCBB in Italiano
+- code: CAT02CCBC
+  parentCode: CAT02CCB
+  titles:
+    en: CAT02CCBC in English
+    it: CAT02CCBC in Italiano
+- code: CAT02CCBD
+  parentCode: CAT02CCB
+  titles:
+    en: CAT02CCBD in English
+    it: CAT02CCBD in Italiano
+- code: CAT02CCC
+  parentCode: CAT02CC
+  titles:
+    en: CAT02CCC in English
+    it: CAT02CCC in Italiano
+- code: CAT02CCCA
+  parentCode: CAT02CCC
+  titles:
+    en: CAT02CCCA in English
+    it: CAT02CCCA in Italiano
+- code: CAT02CCCB
+  parentCode: CAT02CCC
+  titles:
+    en: CAT02CCCB in English
+    it: CAT02CCCB in Italiano
+- code: CAT02CCCC
+  parentCode: CAT02CCC
+  titles:
+    en: CAT02CCCC in English
+    it: CAT02CCCC in Italiano
+- code: CAT02CCCD
+  parentCode: CAT02CCC
+  titles:
+    en: CAT02CCCD in English
+    it: CAT02CCCD in Italiano
+- code: CAT02CCD
+  parentCode: CAT02CC
+  titles:
+    en: CAT02CCD in English
+    it: CAT02CCD in Italiano
+- code: CAT02CCDA
+  parentCode: CAT02CCD
+  titles:
+    en: CAT02CCDA in English
+    it: CAT02CCDA in Italiano
+- code: CAT02CCDB
+  parentCode: CAT02CCD
+  titles:
+    en: CAT02CCDB in English
+    it: CAT02CCDB in Italiano
+- code: CAT02CCDC
+  parentCode: CAT02CCD
+  titles:
+    en: CAT02CCDC in English
+    it: CAT02CCDC in Italiano
+- code: CAT02CCDD
+  parentCode: CAT02CCD
+  titles:
+    en: CAT02CCDD in English
+    it: CAT02CCDD in Italiano
+- code: CAT02CD
+  parentCode: CAT02C
+  titles:
+    en: CAT02CD in English
+    it: CAT02CD in Italiano
+- code: CAT02CDA
+  parentCode: CAT02CD
+  titles:
+    en: CAT02CDA in English
+    it: CAT02CDA in Italiano
+- code: CAT02CDAA
+  parentCode: CAT02CDA
+  titles:
+    en: CAT02CDAA in English
+    it: CAT02CDAA in Italiano
+- code: CAT02CDAB
+  parentCode: CAT02CDA
+  titles:
+    en: CAT02CDAB in English
+    it: CAT02CDAB in Italiano
+- code: CAT02CDAC
+  parentCode: CAT02CDA
+  titles:
+    en: CAT02CDAC in English
+    it: CAT02CDAC in Italiano
+- code: CAT02CDAD
+  parentCode: CAT02CDA
+  titles:
+    en: CAT02CDAD in English
+    it: CAT02CDAD in Italiano
+- code: CAT02CDB
+  parentCode: CAT02CD
+  titles:
+    en: CAT02CDB in English
+    it: CAT02CDB in Italiano
+- code: CAT02CDBA
+  parentCode: CAT02CDB
+  titles:
+    en: CAT02CDBA in English
+    it: CAT02CDBA in Italiano
+- code: CAT02CDBB
+  parentCode: CAT02CDB
+  titles:
+    en: CAT02CDBB in English
+    it: CAT02CDBB in Italiano
+- code: CAT02CDBC
+  parentCode: CAT02CDB
+  titles:
+    en: CAT02CDBC in English
+    it: CAT02CDBC in Italiano
+- code: CAT02CDBD
+  parentCode: CAT02CDB
+  titles:
+    en: CAT02CDBD in English
+    it: CAT02CDBD in Italiano
+- code: CAT02CDC
+  parentCode: CAT02CD
+  titles:
+    en: CAT02CDC in English
+    it: CAT02CDC in Italiano
+- code: CAT02CDCA
+  parentCode: CAT02CDC
+  titles:
+    en: CAT02CDCA in English
+    it: CAT02CDCA in Italiano
+- code: CAT02CDCB
+  parentCode: CAT02CDC
+  titles:
+    en: CAT02CDCB in English
+    it: CAT02CDCB in Italiano
+- code: CAT02CDCC
+  parentCode: CAT02CDC
+  titles:
+    en: CAT02CDCC in English
+    it: CAT02CDCC in Italiano
+- code: CAT02CDCD
+  parentCode: CAT02CDC
+  titles:
+    en: CAT02CDCD in English
+    it: CAT02CDCD in Italiano
+- code: CAT02CDD
+  parentCode: CAT02CD
+  titles:
+    en: CAT02CDD in English
+    it: CAT02CDD in Italiano
+- code: CAT02CDDA
+  parentCode: CAT02CDD
+  titles:
+    en: CAT02CDDA in English
+    it: CAT02CDDA in Italiano
+- code: CAT02CDDB
+  parentCode: CAT02CDD
+  titles:
+    en: CAT02CDDB in English
+    it: CAT02CDDB in Italiano
+- code: CAT02CDDC
+  parentCode: CAT02CDD
+  titles:
+    en: CAT02CDDC in English
+    it: CAT02CDDC in Italiano
+- code: CAT02CDDD
+  parentCode: CAT02CDD
+  titles:
+    en: CAT02CDDD in English
+    it: CAT02CDDD in Italiano
+- code: CAT02D
+  parentCode: home
+  titles:
+    en: CAT02D in English
+    it: CAT02D in Italiano
+- code: CAT02DA
+  parentCode: CAT02D
+  titles:
+    en: CAT02DA in English
+    it: CAT02DA in Italiano
+- code: CAT02DAA
+  parentCode: CAT02DA
+  titles:
+    en: CAT02DAA in English
+    it: CAT02DAA in Italiano
+- code: CAT02DAAA
+  parentCode: CAT02DAA
+  titles:
+    en: CAT02DAAA in English
+    it: CAT02DAAA in Italiano
+- code: CAT02DAAB
+  parentCode: CAT02DAA
+  titles:
+    en: CAT02DAAB in English
+    it: CAT02DAAB in Italiano
+- code: CAT02DAAC
+  parentCode: CAT02DAA
+  titles:
+    en: CAT02DAAC in English
+    it: CAT02DAAC in Italiano
+- code: CAT02DAAD
+  parentCode: CAT02DAA
+  titles:
+    en: CAT02DAAD in English
+    it: CAT02DAAD in Italiano
+- code: CAT02DAB
+  parentCode: CAT02DA
+  titles:
+    en: CAT02DAB in English
+    it: CAT02DAB in Italiano
+- code: CAT02DABA
+  parentCode: CAT02DAB
+  titles:
+    en: CAT02DABA in English
+    it: CAT02DABA in Italiano
+- code: CAT02DABB
+  parentCode: CAT02DAB
+  titles:
+    en: CAT02DABB in English
+    it: CAT02DABB in Italiano
+- code: CAT02DABC
+  parentCode: CAT02DAB
+  titles:
+    en: CAT02DABC in English
+    it: CAT02DABC in Italiano
+- code: CAT02DABD
+  parentCode: CAT02DAB
+  titles:
+    en: CAT02DABD in English
+    it: CAT02DABD in Italiano
+- code: CAT02DAC
+  parentCode: CAT02DA
+  titles:
+    en: CAT02DAC in English
+    it: CAT02DAC in Italiano
+- code: CAT02DACA
+  parentCode: CAT02DAC
+  titles:
+    en: CAT02DACA in English
+    it: CAT02DACA in Italiano
+- code: CAT02DACB
+  parentCode: CAT02DAC
+  titles:
+    en: CAT02DACB in English
+    it: CAT02DACB in Italiano
+- code: CAT02DACC
+  parentCode: CAT02DAC
+  titles:
+    en: CAT02DACC in English
+    it: CAT02DACC in Italiano
+- code: CAT02DACD
+  parentCode: CAT02DAC
+  titles:
+    en: CAT02DACD in English
+    it: CAT02DACD in Italiano
+- code: CAT02DAD
+  parentCode: CAT02DA
+  titles:
+    en: CAT02DAD in English
+    it: CAT02DAD in Italiano
+- code: CAT02DADA
+  parentCode: CAT02DAD
+  titles:
+    en: CAT02DADA in English
+    it: CAT02DADA in Italiano
+- code: CAT02DADB
+  parentCode: CAT02DAD
+  titles:
+    en: CAT02DADB in English
+    it: CAT02DADB in Italiano
+- code: CAT02DADC
+  parentCode: CAT02DAD
+  titles:
+    en: CAT02DADC in English
+    it: CAT02DADC in Italiano
+- code: CAT02DADD
+  parentCode: CAT02DAD
+  titles:
+    en: CAT02DADD in English
+    it: CAT02DADD in Italiano
+- code: CAT02DB
+  parentCode: CAT02D
+  titles:
+    en: CAT02DB in English
+    it: CAT02DB in Italiano
+- code: CAT02DBA
+  parentCode: CAT02DB
+  titles:
+    en: CAT02DBA in English
+    it: CAT02DBA in Italiano
+- code: CAT02DBAA
+  parentCode: CAT02DBA
+  titles:
+    en: CAT02DBAA in English
+    it: CAT02DBAA in Italiano
+- code: CAT02DBAB
+  parentCode: CAT02DBA
+  titles:
+    en: CAT02DBAB in English
+    it: CAT02DBAB in Italiano
+- code: CAT02DBAC
+  parentCode: CAT02DBA
+  titles:
+    en: CAT02DBAC in English
+    it: CAT02DBAC in Italiano
+- code: CAT02DBAD
+  parentCode: CAT02DBA
+  titles:
+    en: CAT02DBAD in English
+    it: CAT02DBAD in Italiano
+- code: CAT02DBB
+  parentCode: CAT02DB
+  titles:
+    en: CAT02DBB in English
+    it: CAT02DBB in Italiano
+- code: CAT02DBBA
+  parentCode: CAT02DBB
+  titles:
+    en: CAT02DBBA in English
+    it: CAT02DBBA in Italiano
+- code: CAT02DBBB
+  parentCode: CAT02DBB
+  titles:
+    en: CAT02DBBB in English
+    it: CAT02DBBB in Italiano
+- code: CAT02DBBC
+  parentCode: CAT02DBB
+  titles:
+    en: CAT02DBBC in English
+    it: CAT02DBBC in Italiano
+- code: CAT02DBBD
+  parentCode: CAT02DBB
+  titles:
+    en: CAT02DBBD in English
+    it: CAT02DBBD in Italiano
+- code: CAT02DBC
+  parentCode: CAT02DB
+  titles:
+    en: CAT02DBC in English
+    it: CAT02DBC in Italiano
+- code: CAT02DBCA
+  parentCode: CAT02DBC
+  titles:
+    en: CAT02DBCA in English
+    it: CAT02DBCA in Italiano
+- code: CAT02DBCB
+  parentCode: CAT02DBC
+  titles:
+    en: CAT02DBCB in English
+    it: CAT02DBCB in Italiano
+- code: CAT02DBCC
+  parentCode: CAT02DBC
+  titles:
+    en: CAT02DBCC in English
+    it: CAT02DBCC in Italiano
+- code: CAT02DBCD
+  parentCode: CAT02DBC
+  titles:
+    en: CAT02DBCD in English
+    it: CAT02DBCD in Italiano
+- code: CAT02DBD
+  parentCode: CAT02DB
+  titles:
+    en: CAT02DBD in English
+    it: CAT02DBD in Italiano
+- code: CAT02DBDA
+  parentCode: CAT02DBD
+  titles:
+    en: CAT02DBDA in English
+    it: CAT02DBDA in Italiano
+- code: CAT02DBDB
+  parentCode: CAT02DBD
+  titles:
+    en: CAT02DBDB in English
+    it: CAT02DBDB in Italiano
+- code: CAT02DBDC
+  parentCode: CAT02DBD
+  titles:
+    en: CAT02DBDC in English
+    it: CAT02DBDC in Italiano
+- code: CAT02DBDD
+  parentCode: CAT02DBD
+  titles:
+    en: CAT02DBDD in English
+    it: CAT02DBDD in Italiano
+- code: CAT02DC
+  parentCode: CAT02D
+  titles:
+    en: CAT02DC in English
+    it: CAT02DC in Italiano
+- code: CAT02DCA
+  parentCode: CAT02DC
+  titles:
+    en: CAT02DCA in English
+    it: CAT02DCA in Italiano
+- code: CAT02DCAA
+  parentCode: CAT02DCA
+  titles:
+    en: CAT02DCAA in English
+    it: CAT02DCAA in Italiano
+- code: CAT02DCAB
+  parentCode: CAT02DCA
+  titles:
+    en: CAT02DCAB in English
+    it: CAT02DCAB in Italiano
+- code: CAT02DCAC
+  parentCode: CAT02DCA
+  titles:
+    en: CAT02DCAC in English
+    it: CAT02DCAC in Italiano
+- code: CAT02DCAD
+  parentCode: CAT02DCA
+  titles:
+    en: CAT02DCAD in English
+    it: CAT02DCAD in Italiano
+- code: CAT02DCB
+  parentCode: CAT02DC
+  titles:
+    en: CAT02DCB in English
+    it: CAT02DCB in Italiano
+- code: CAT02DCBA
+  parentCode: CAT02DCB
+  titles:
+    en: CAT02DCBA in English
+    it: CAT02DCBA in Italiano
+- code: CAT02DCBB
+  parentCode: CAT02DCB
+  titles:
+    en: CAT02DCBB in English
+    it: CAT02DCBB in Italiano
+- code: CAT02DCBC
+  parentCode: CAT02DCB
+  titles:
+    en: CAT02DCBC in English
+    it: CAT02DCBC in Italiano
+- code: CAT02DCBD
+  parentCode: CAT02DCB
+  titles:
+    en: CAT02DCBD in English
+    it: CAT02DCBD in Italiano
+- code: CAT02DCC
+  parentCode: CAT02DC
+  titles:
+    en: CAT02DCC in English
+    it: CAT02DCC in Italiano
+- code: CAT02DCCA
+  parentCode: CAT02DCC
+  titles:
+    en: CAT02DCCA in English
+    it: CAT02DCCA in Italiano
+- code: CAT02DCCB
+  parentCode: CAT02DCC
+  titles:
+    en: CAT02DCCB in English
+    it: CAT02DCCB in Italiano
+- code: CAT02DCCC
+  parentCode: CAT02DCC
+  titles:
+    en: CAT02DCCC in English
+    it: CAT02DCCC in Italiano
+- code: CAT02DCCD
+  parentCode: CAT02DCC
+  titles:
+    en: CAT02DCCD in English
+    it: CAT02DCCD in Italiano
+- code: CAT02DCD
+  parentCode: CAT02DC
+  titles:
+    en: CAT02DCD in English
+    it: CAT02DCD in Italiano
+- code: CAT02DCDA
+  parentCode: CAT02DCD
+  titles:
+    en: CAT02DCDA in English
+    it: CAT02DCDA in Italiano
+- code: CAT02DCDB
+  parentCode: CAT02DCD
+  titles:
+    en: CAT02DCDB in English
+    it: CAT02DCDB in Italiano
+- code: CAT02DCDC
+  parentCode: CAT02DCD
+  titles:
+    en: CAT02DCDC in English
+    it: CAT02DCDC in Italiano
+- code: CAT02DCDD
+  parentCode: CAT02DCD
+  titles:
+    en: CAT02DCDD in English
+    it: CAT02DCDD in Italiano
+- code: CAT02DD
+  parentCode: CAT02D
+  titles:
+    en: CAT02DD in English
+    it: CAT02DD in Italiano
+- code: CAT02DDA
+  parentCode: CAT02DD
+  titles:
+    en: CAT02DDA in English
+    it: CAT02DDA in Italiano
+- code: CAT02DDAA
+  parentCode: CAT02DDA
+  titles:
+    en: CAT02DDAA in English
+    it: CAT02DDAA in Italiano
+- code: CAT02DDAB
+  parentCode: CAT02DDA
+  titles:
+    en: CAT02DDAB in English
+    it: CAT02DDAB in Italiano
+- code: CAT02DDAC
+  parentCode: CAT02DDA
+  titles:
+    en: CAT02DDAC in English
+    it: CAT02DDAC in Italiano
+- code: CAT02DDAD
+  parentCode: CAT02DDA
+  titles:
+    en: CAT02DDAD in English
+    it: CAT02DDAD in Italiano
+- code: CAT02DDB
+  parentCode: CAT02DD
+  titles:
+    en: CAT02DDB in English
+    it: CAT02DDB in Italiano
+- code: CAT02DDBA
+  parentCode: CAT02DDB
+  titles:
+    en: CAT02DDBA in English
+    it: CAT02DDBA in Italiano
+- code: CAT02DDBB
+  parentCode: CAT02DDB
+  titles:
+    en: CAT02DDBB in English
+    it: CAT02DDBB in Italiano
+- code: CAT02DDBC
+  parentCode: CAT02DDB
+  titles:
+    en: CAT02DDBC in English
+    it: CAT02DDBC in Italiano
+- code: CAT02DDBD
+  parentCode: CAT02DDB
+  titles:
+    en: CAT02DDBD in English
+    it: CAT02DDBD in Italiano
+- code: CAT02DDC
+  parentCode: CAT02DD
+  titles:
+    en: CAT02DDC in English
+    it: CAT02DDC in Italiano
+- code: CAT02DDCA
+  parentCode: CAT02DDC
+  titles:
+    en: CAT02DDCA in English
+    it: CAT02DDCA in Italiano
+- code: CAT02DDCB
+  parentCode: CAT02DDC
+  titles:
+    en: CAT02DDCB in English
+    it: CAT02DDCB in Italiano
+- code: CAT02DDCC
+  parentCode: CAT02DDC
+  titles:
+    en: CAT02DDCC in English
+    it: CAT02DDCC in Italiano
+- code: CAT02DDCD
+  parentCode: CAT02DDC
+  titles:
+    en: CAT02DDCD in English
+    it: CAT02DDCD in Italiano
+- code: CAT02DDD
+  parentCode: CAT02DD
+  titles:
+    en: CAT02DDD in English
+    it: CAT02DDD in Italiano
+- code: CAT02DDDA
+  parentCode: CAT02DDD
+  titles:
+    en: CAT02DDDA in English
+    it: CAT02DDDA in Italiano
+- code: CAT02DDDB
+  parentCode: CAT02DDD
+  titles:
+    en: CAT02DDDB in English
+    it: CAT02DDDB in Italiano
+- code: CAT02DDDC
+  parentCode: CAT02DDD
+  titles:
+    en: CAT02DDDC in English
+    it: CAT02DDDC in Italiano
+- code: CAT02DDDD
+  parentCode: CAT02DDD
+  titles:
+    en: CAT02DDDD in English
+    it: CAT02DDDD in Italiano
+- code: CAT03
+  parentCode: home
+  titles:
+    en: CAT03 in English
+    it: CAT03 in Italiano
+- code: CAT03A
+  parentCode: home
+  titles:
+    en: CAT03A in English
+    it: CAT03A in Italiano
+- code: CAT03AA
+  parentCode: CAT03A
+  titles:
+    en: CAT03AA in English
+    it: CAT03AA in Italiano
+- code: CAT03AAA
+  parentCode: CAT03AA
+  titles:
+    en: CAT03AAA in English
+    it: CAT03AAA in Italiano
+- code: CAT03AAAA
+  parentCode: CAT03AAA
+  titles:
+    en: CAT03AAAA in English
+    it: CAT03AAAA in Italiano
+- code: CAT03AAAB
+  parentCode: CAT03AAA
+  titles:
+    en: CAT03AAAB in English
+    it: CAT03AAAB in Italiano
+- code: CAT03AAAC
+  parentCode: CAT03AAA
+  titles:
+    en: CAT03AAAC in English
+    it: CAT03AAAC in Italiano
+- code: CAT03AAAD
+  parentCode: CAT03AAA
+  titles:
+    en: CAT03AAAD in English
+    it: CAT03AAAD in Italiano
+- code: CAT03AAB
+  parentCode: CAT03AA
+  titles:
+    en: CAT03AAB in English
+    it: CAT03AAB in Italiano
+- code: CAT03AABA
+  parentCode: CAT03AAB
+  titles:
+    en: CAT03AABA in English
+    it: CAT03AABA in Italiano
+- code: CAT03AABB
+  parentCode: CAT03AAB
+  titles:
+    en: CAT03AABB in English
+    it: CAT03AABB in Italiano
+- code: CAT03AABC
+  parentCode: CAT03AAB
+  titles:
+    en: CAT03AABC in English
+    it: CAT03AABC in Italiano
+- code: CAT03AABD
+  parentCode: CAT03AAB
+  titles:
+    en: CAT03AABD in English
+    it: CAT03AABD in Italiano
+- code: CAT03AAC
+  parentCode: CAT03AA
+  titles:
+    en: CAT03AAC in English
+    it: CAT03AAC in Italiano
+- code: CAT03AACA
+  parentCode: CAT03AAC
+  titles:
+    en: CAT03AACA in English
+    it: CAT03AACA in Italiano
+- code: CAT03AACB
+  parentCode: CAT03AAC
+  titles:
+    en: CAT03AACB in English
+    it: CAT03AACB in Italiano
+- code: CAT03AACC
+  parentCode: CAT03AAC
+  titles:
+    en: CAT03AACC in English
+    it: CAT03AACC in Italiano
+- code: CAT03AACD
+  parentCode: CAT03AAC
+  titles:
+    en: CAT03AACD in English
+    it: CAT03AACD in Italiano
+- code: CAT03AAD
+  parentCode: CAT03AA
+  titles:
+    en: CAT03AAD in English
+    it: CAT03AAD in Italiano
+- code: CAT03AADA
+  parentCode: CAT03AAD
+  titles:
+    en: CAT03AADA in English
+    it: CAT03AADA in Italiano
+- code: CAT03AADB
+  parentCode: CAT03AAD
+  titles:
+    en: CAT03AADB in English
+    it: CAT03AADB in Italiano
+- code: CAT03AADC
+  parentCode: CAT03AAD
+  titles:
+    en: CAT03AADC in English
+    it: CAT03AADC in Italiano
+- code: CAT03AADD
+  parentCode: CAT03AAD
+  titles:
+    en: CAT03AADD in English
+    it: CAT03AADD in Italiano
+- code: CAT03AB
+  parentCode: CAT03A
+  titles:
+    en: CAT03AB in English
+    it: CAT03AB in Italiano
+- code: CAT03ABA
+  parentCode: CAT03AB
+  titles:
+    en: CAT03ABA in English
+    it: CAT03ABA in Italiano
+- code: CAT03ABAA
+  parentCode: CAT03ABA
+  titles:
+    en: CAT03ABAA in English
+    it: CAT03ABAA in Italiano
+- code: CAT03ABAB
+  parentCode: CAT03ABA
+  titles:
+    en: CAT03ABAB in English
+    it: CAT03ABAB in Italiano
+- code: CAT03ABAC
+  parentCode: CAT03ABA
+  titles:
+    en: CAT03ABAC in English
+    it: CAT03ABAC in Italiano
+- code: CAT03ABAD
+  parentCode: CAT03ABA
+  titles:
+    en: CAT03ABAD in English
+    it: CAT03ABAD in Italiano
+- code: CAT03ABB
+  parentCode: CAT03AB
+  titles:
+    en: CAT03ABB in English
+    it: CAT03ABB in Italiano
+- code: CAT03ABBA
+  parentCode: CAT03ABB
+  titles:
+    en: CAT03ABBA in English
+    it: CAT03ABBA in Italiano
+- code: CAT03ABBB
+  parentCode: CAT03ABB
+  titles:
+    en: CAT03ABBB in English
+    it: CAT03ABBB in Italiano
+- code: CAT03ABBC
+  parentCode: CAT03ABB
+  titles:
+    en: CAT03ABBC in English
+    it: CAT03ABBC in Italiano
+- code: CAT03ABBD
+  parentCode: CAT03ABB
+  titles:
+    en: CAT03ABBD in English
+    it: CAT03ABBD in Italiano
+- code: CAT03ABC
+  parentCode: CAT03AB
+  titles:
+    en: CAT03ABC in English
+    it: CAT03ABC in Italiano
+- code: CAT03ABCA
+  parentCode: CAT03ABC
+  titles:
+    en: CAT03ABCA in English
+    it: CAT03ABCA in Italiano
+- code: CAT03ABCB
+  parentCode: CAT03ABC
+  titles:
+    en: CAT03ABCB in English
+    it: CAT03ABCB in Italiano
+- code: CAT03ABCC
+  parentCode: CAT03ABC
+  titles:
+    en: CAT03ABCC in English
+    it: CAT03ABCC in Italiano
+- code: CAT03ABCD
+  parentCode: CAT03ABC
+  titles:
+    en: CAT03ABCD in English
+    it: CAT03ABCD in Italiano
+- code: CAT03ABD
+  parentCode: CAT03AB
+  titles:
+    en: CAT03ABD in English
+    it: CAT03ABD in Italiano
+- code: CAT03ABDA
+  parentCode: CAT03ABD
+  titles:
+    en: CAT03ABDA in English
+    it: CAT03ABDA in Italiano
+- code: CAT03ABDB
+  parentCode: CAT03ABD
+  titles:
+    en: CAT03ABDB in English
+    it: CAT03ABDB in Italiano
+- code: CAT03ABDC
+  parentCode: CAT03ABD
+  titles:
+    en: CAT03ABDC in English
+    it: CAT03ABDC in Italiano
+- code: CAT03ABDD
+  parentCode: CAT03ABD
+  titles:
+    en: CAT03ABDD in English
+    it: CAT03ABDD in Italiano
+- code: CAT03AC
+  parentCode: CAT03A
+  titles:
+    en: CAT03AC in English
+    it: CAT03AC in Italiano
+- code: CAT03ACA
+  parentCode: CAT03AC
+  titles:
+    en: CAT03ACA in English
+    it: CAT03ACA in Italiano
+- code: CAT03ACAA
+  parentCode: CAT03ACA
+  titles:
+    en: CAT03ACAA in English
+    it: CAT03ACAA in Italiano
+- code: CAT03ACAB
+  parentCode: CAT03ACA
+  titles:
+    en: CAT03ACAB in English
+    it: CAT03ACAB in Italiano
+- code: CAT03ACAC
+  parentCode: CAT03ACA
+  titles:
+    en: CAT03ACAC in English
+    it: CAT03ACAC in Italiano
+- code: CAT03ACAD
+  parentCode: CAT03ACA
+  titles:
+    en: CAT03ACAD in English
+    it: CAT03ACAD in Italiano
+- code: CAT03ACB
+  parentCode: CAT03AC
+  titles:
+    en: CAT03ACB in English
+    it: CAT03ACB in Italiano
+- code: CAT03ACBA
+  parentCode: CAT03ACB
+  titles:
+    en: CAT03ACBA in English
+    it: CAT03ACBA in Italiano
+- code: CAT03ACBB
+  parentCode: CAT03ACB
+  titles:
+    en: CAT03ACBB in English
+    it: CAT03ACBB in Italiano
+- code: CAT03ACBC
+  parentCode: CAT03ACB
+  titles:
+    en: CAT03ACBC in English
+    it: CAT03ACBC in Italiano
+- code: CAT03ACBD
+  parentCode: CAT03ACB
+  titles:
+    en: CAT03ACBD in English
+    it: CAT03ACBD in Italiano
+- code: CAT03ACC
+  parentCode: CAT03AC
+  titles:
+    en: CAT03ACC in English
+    it: CAT03ACC in Italiano
+- code: CAT03ACCA
+  parentCode: CAT03ACC
+  titles:
+    en: CAT03ACCA in English
+    it: CAT03ACCA in Italiano
+- code: CAT03ACCB
+  parentCode: CAT03ACC
+  titles:
+    en: CAT03ACCB in English
+    it: CAT03ACCB in Italiano
+- code: CAT03ACCC
+  parentCode: CAT03ACC
+  titles:
+    en: CAT03ACCC in English
+    it: CAT03ACCC in Italiano
+- code: CAT03ACCD
+  parentCode: CAT03ACC
+  titles:
+    en: CAT03ACCD in English
+    it: CAT03ACCD in Italiano
+- code: CAT03ACD
+  parentCode: CAT03AC
+  titles:
+    en: CAT03ACD in English
+    it: CAT03ACD in Italiano
+- code: CAT03ACDA
+  parentCode: CAT03ACD
+  titles:
+    en: CAT03ACDA in English
+    it: CAT03ACDA in Italiano
+- code: CAT03ACDB
+  parentCode: CAT03ACD
+  titles:
+    en: CAT03ACDB in English
+    it: CAT03ACDB in Italiano
+- code: CAT03ACDC
+  parentCode: CAT03ACD
+  titles:
+    en: CAT03ACDC in English
+    it: CAT03ACDC in Italiano
+- code: CAT03ACDD
+  parentCode: CAT03ACD
+  titles:
+    en: CAT03ACDD in English
+    it: CAT03ACDD in Italiano
+- code: CAT03AD
+  parentCode: CAT03A
+  titles:
+    en: CAT03AD in English
+    it: CAT03AD in Italiano
+- code: CAT03ADA
+  parentCode: CAT03AD
+  titles:
+    en: CAT03ADA in English
+    it: CAT03ADA in Italiano
+- code: CAT03ADAA
+  parentCode: CAT03ADA
+  titles:
+    en: CAT03ADAA in English
+    it: CAT03ADAA in Italiano
+- code: CAT03ADAB
+  parentCode: CAT03ADA
+  titles:
+    en: CAT03ADAB in English
+    it: CAT03ADAB in Italiano
+- code: CAT03ADAC
+  parentCode: CAT03ADA
+  titles:
+    en: CAT03ADAC in English
+    it: CAT03ADAC in Italiano
+- code: CAT03ADAD
+  parentCode: CAT03ADA
+  titles:
+    en: CAT03ADAD in English
+    it: CAT03ADAD in Italiano
+- code: CAT03ADB
+  parentCode: CAT03AD
+  titles:
+    en: CAT03ADB in English
+    it: CAT03ADB in Italiano
+- code: CAT03ADBA
+  parentCode: CAT03ADB
+  titles:
+    en: CAT03ADBA in English
+    it: CAT03ADBA in Italiano
+- code: CAT03ADBB
+  parentCode: CAT03ADB
+  titles:
+    en: CAT03ADBB in English
+    it: CAT03ADBB in Italiano
+- code: CAT03ADBC
+  parentCode: CAT03ADB
+  titles:
+    en: CAT03ADBC in English
+    it: CAT03ADBC in Italiano
+- code: CAT03ADBD
+  parentCode: CAT03ADB
+  titles:
+    en: CAT03ADBD in English
+    it: CAT03ADBD in Italiano
+- code: CAT03ADC
+  parentCode: CAT03AD
+  titles:
+    en: CAT03ADC in English
+    it: CAT03ADC in Italiano
+- code: CAT03ADCA
+  parentCode: CAT03ADC
+  titles:
+    en: CAT03ADCA in English
+    it: CAT03ADCA in Italiano
+- code: CAT03ADCB
+  parentCode: CAT03ADC
+  titles:
+    en: CAT03ADCB in English
+    it: CAT03ADCB in Italiano
+- code: CAT03ADCC
+  parentCode: CAT03ADC
+  titles:
+    en: CAT03ADCC in English
+    it: CAT03ADCC in Italiano
+- code: CAT03ADCD
+  parentCode: CAT03ADC
+  titles:
+    en: CAT03ADCD in English
+    it: CAT03ADCD in Italiano
+- code: CAT03ADD
+  parentCode: CAT03AD
+  titles:
+    en: CAT03ADD in English
+    it: CAT03ADD in Italiano
+- code: CAT03ADDA
+  parentCode: CAT03ADD
+  titles:
+    en: CAT03ADDA in English
+    it: CAT03ADDA in Italiano
+- code: CAT03ADDB
+  parentCode: CAT03ADD
+  titles:
+    en: CAT03ADDB in English
+    it: CAT03ADDB in Italiano
+- code: CAT03ADDC
+  parentCode: CAT03ADD
+  titles:
+    en: CAT03ADDC in English
+    it: CAT03ADDC in Italiano
+- code: CAT03ADDD
+  parentCode: CAT03ADD
+  titles:
+    en: CAT03ADDD in English
+    it: CAT03ADDD in Italiano
+- code: CAT03B
+  parentCode: home
+  titles:
+    en: CAT03B in English
+    it: CAT03B in Italiano
+- code: CAT03BA
+  parentCode: CAT03B
+  titles:
+    en: CAT03BA in English
+    it: CAT03BA in Italiano
+- code: CAT03BAA
+  parentCode: CAT03BA
+  titles:
+    en: CAT03BAA in English
+    it: CAT03BAA in Italiano
+- code: CAT03BAAA
+  parentCode: CAT03BAA
+  titles:
+    en: CAT03BAAA in English
+    it: CAT03BAAA in Italiano
+- code: CAT03BAAB
+  parentCode: CAT03BAA
+  titles:
+    en: CAT03BAAB in English
+    it: CAT03BAAB in Italiano
+- code: CAT03BAAC
+  parentCode: CAT03BAA
+  titles:
+    en: CAT03BAAC in English
+    it: CAT03BAAC in Italiano
+- code: CAT03BAAD
+  parentCode: CAT03BAA
+  titles:
+    en: CAT03BAAD in English
+    it: CAT03BAAD in Italiano
+- code: CAT03BAB
+  parentCode: CAT03BA
+  titles:
+    en: CAT03BAB in English
+    it: CAT03BAB in Italiano
+- code: CAT03BABA
+  parentCode: CAT03BAB
+  titles:
+    en: CAT03BABA in English
+    it: CAT03BABA in Italiano
+- code: CAT03BABB
+  parentCode: CAT03BAB
+  titles:
+    en: CAT03BABB in English
+    it: CAT03BABB in Italiano
+- code: CAT03BABC
+  parentCode: CAT03BAB
+  titles:
+    en: CAT03BABC in English
+    it: CAT03BABC in Italiano
+- code: CAT03BABD
+  parentCode: CAT03BAB
+  titles:
+    en: CAT03BABD in English
+    it: CAT03BABD in Italiano
+- code: CAT03BAC
+  parentCode: CAT03BA
+  titles:
+    en: CAT03BAC in English
+    it: CAT03BAC in Italiano
+- code: CAT03BACA
+  parentCode: CAT03BAC
+  titles:
+    en: CAT03BACA in English
+    it: CAT03BACA in Italiano
+- code: CAT03BACB
+  parentCode: CAT03BAC
+  titles:
+    en: CAT03BACB in English
+    it: CAT03BACB in Italiano
+- code: CAT03BACC
+  parentCode: CAT03BAC
+  titles:
+    en: CAT03BACC in English
+    it: CAT03BACC in Italiano
+- code: CAT03BACD
+  parentCode: CAT03BAC
+  titles:
+    en: CAT03BACD in English
+    it: CAT03BACD in Italiano
+- code: CAT03BAD
+  parentCode: CAT03BA
+  titles:
+    en: CAT03BAD in English
+    it: CAT03BAD in Italiano
+- code: CAT03BADA
+  parentCode: CAT03BAD
+  titles:
+    en: CAT03BADA in English
+    it: CAT03BADA in Italiano
+- code: CAT03BADB
+  parentCode: CAT03BAD
+  titles:
+    en: CAT03BADB in English
+    it: CAT03BADB in Italiano
+- code: CAT03BADC
+  parentCode: CAT03BAD
+  titles:
+    en: CAT03BADC in English
+    it: CAT03BADC in Italiano
+- code: CAT03BADD
+  parentCode: CAT03BAD
+  titles:
+    en: CAT03BADD in English
+    it: CAT03BADD in Italiano
+- code: CAT03BB
+  parentCode: CAT03B
+  titles:
+    en: CAT03BB in English
+    it: CAT03BB in Italiano
+- code: CAT03BBA
+  parentCode: CAT03BB
+  titles:
+    en: CAT03BBA in English
+    it: CAT03BBA in Italiano
+- code: CAT03BBAA
+  parentCode: CAT03BBA
+  titles:
+    en: CAT03BBAA in English
+    it: CAT03BBAA in Italiano
+- code: CAT03BBAB
+  parentCode: CAT03BBA
+  titles:
+    en: CAT03BBAB in English
+    it: CAT03BBAB in Italiano
+- code: CAT03BBAC
+  parentCode: CAT03BBA
+  titles:
+    en: CAT03BBAC in English
+    it: CAT03BBAC in Italiano
+- code: CAT03BBAD
+  parentCode: CAT03BBA
+  titles:
+    en: CAT03BBAD in English
+    it: CAT03BBAD in Italiano
+- code: CAT03BBB
+  parentCode: CAT03BB
+  titles:
+    en: CAT03BBB in English
+    it: CAT03BBB in Italiano
+- code: CAT03BBBA
+  parentCode: CAT03BBB
+  titles:
+    en: CAT03BBBA in English
+    it: CAT03BBBA in Italiano
+- code: CAT03BBBB
+  parentCode: CAT03BBB
+  titles:
+    en: CAT03BBBB in English
+    it: CAT03BBBB in Italiano
+- code: CAT03BBBC
+  parentCode: CAT03BBB
+  titles:
+    en: CAT03BBBC in English
+    it: CAT03BBBC in Italiano
+- code: CAT03BBBD
+  parentCode: CAT03BBB
+  titles:
+    en: CAT03BBBD in English
+    it: CAT03BBBD in Italiano
+- code: CAT03BBC
+  parentCode: CAT03BB
+  titles:
+    en: CAT03BBC in English
+    it: CAT03BBC in Italiano
+- code: CAT03BBCA
+  parentCode: CAT03BBC
+  titles:
+    en: CAT03BBCA in English
+    it: CAT03BBCA in Italiano
+- code: CAT03BBCB
+  parentCode: CAT03BBC
+  titles:
+    en: CAT03BBCB in English
+    it: CAT03BBCB in Italiano
+- code: CAT03BBCC
+  parentCode: CAT03BBC
+  titles:
+    en: CAT03BBCC in English
+    it: CAT03BBCC in Italiano
+- code: CAT03BBCD
+  parentCode: CAT03BBC
+  titles:
+    en: CAT03BBCD in English
+    it: CAT03BBCD in Italiano
+- code: CAT03BBD
+  parentCode: CAT03BB
+  titles:
+    en: CAT03BBD in English
+    it: CAT03BBD in Italiano
+- code: CAT03BBDA
+  parentCode: CAT03BBD
+  titles:
+    en: CAT03BBDA in English
+    it: CAT03BBDA in Italiano
+- code: CAT03BBDB
+  parentCode: CAT03BBD
+  titles:
+    en: CAT03BBDB in English
+    it: CAT03BBDB in Italiano
+- code: CAT03BBDC
+  parentCode: CAT03BBD
+  titles:
+    en: CAT03BBDC in English
+    it: CAT03BBDC in Italiano
+- code: CAT03BBDD
+  parentCode: CAT03BBD
+  titles:
+    en: CAT03BBDD in English
+    it: CAT03BBDD in Italiano
+- code: CAT03BC
+  parentCode: CAT03B
+  titles:
+    en: CAT03BC in English
+    it: CAT03BC in Italiano
+- code: CAT03BCA
+  parentCode: CAT03BC
+  titles:
+    en: CAT03BCA in English
+    it: CAT03BCA in Italiano
+- code: CAT03BCAA
+  parentCode: CAT03BCA
+  titles:
+    en: CAT03BCAA in English
+    it: CAT03BCAA in Italiano
+- code: CAT03BCAB
+  parentCode: CAT03BCA
+  titles:
+    en: CAT03BCAB in English
+    it: CAT03BCAB in Italiano
+- code: CAT03BCAC
+  parentCode: CAT03BCA
+  titles:
+    en: CAT03BCAC in English
+    it: CAT03BCAC in Italiano
+- code: CAT03BCAD
+  parentCode: CAT03BCA
+  titles:
+    en: CAT03BCAD in English
+    it: CAT03BCAD in Italiano
+- code: CAT03BCB
+  parentCode: CAT03BC
+  titles:
+    en: CAT03BCB in English
+    it: CAT03BCB in Italiano
+- code: CAT03BCBA
+  parentCode: CAT03BCB
+  titles:
+    en: CAT03BCBA in English
+    it: CAT03BCBA in Italiano
+- code: CAT03BCBB
+  parentCode: CAT03BCB
+  titles:
+    en: CAT03BCBB in English
+    it: CAT03BCBB in Italiano
+- code: CAT03BCBC
+  parentCode: CAT03BCB
+  titles:
+    en: CAT03BCBC in English
+    it: CAT03BCBC in Italiano
+- code: CAT03BCBD
+  parentCode: CAT03BCB
+  titles:
+    en: CAT03BCBD in English
+    it: CAT03BCBD in Italiano
+- code: CAT03BCC
+  parentCode: CAT03BC
+  titles:
+    en: CAT03BCC in English
+    it: CAT03BCC in Italiano
+- code: CAT03BCCA
+  parentCode: CAT03BCC
+  titles:
+    en: CAT03BCCA in English
+    it: CAT03BCCA in Italiano
+- code: CAT03BCCB
+  parentCode: CAT03BCC
+  titles:
+    en: CAT03BCCB in English
+    it: CAT03BCCB in Italiano
+- code: CAT03BCCC
+  parentCode: CAT03BCC
+  titles:
+    en: CAT03BCCC in English
+    it: CAT03BCCC in Italiano
+- code: CAT03BCCD
+  parentCode: CAT03BCC
+  titles:
+    en: CAT03BCCD in English
+    it: CAT03BCCD in Italiano
+- code: CAT03BCD
+  parentCode: CAT03BC
+  titles:
+    en: CAT03BCD in English
+    it: CAT03BCD in Italiano
+- code: CAT03BCDA
+  parentCode: CAT03BCD
+  titles:
+    en: CAT03BCDA in English
+    it: CAT03BCDA in Italiano
+- code: CAT03BCDB
+  parentCode: CAT03BCD
+  titles:
+    en: CAT03BCDB in English
+    it: CAT03BCDB in Italiano
+- code: CAT03BCDC
+  parentCode: CAT03BCD
+  titles:
+    en: CAT03BCDC in English
+    it: CAT03BCDC in Italiano
+- code: CAT03BCDD
+  parentCode: CAT03BCD
+  titles:
+    en: CAT03BCDD in English
+    it: CAT03BCDD in Italiano
+- code: CAT03BD
+  parentCode: CAT03B
+  titles:
+    en: CAT03BD in English
+    it: CAT03BD in Italiano
+- code: CAT03BDA
+  parentCode: CAT03BD
+  titles:
+    en: CAT03BDA in English
+    it: CAT03BDA in Italiano
+- code: CAT03BDAA
+  parentCode: CAT03BDA
+  titles:
+    en: CAT03BDAA in English
+    it: CAT03BDAA in Italiano
+- code: CAT03BDAB
+  parentCode: CAT03BDA
+  titles:
+    en: CAT03BDAB in English
+    it: CAT03BDAB in Italiano
+- code: CAT03BDAC
+  parentCode: CAT03BDA
+  titles:
+    en: CAT03BDAC in English
+    it: CAT03BDAC in Italiano
+- code: CAT03BDAD
+  parentCode: CAT03BDA
+  titles:
+    en: CAT03BDAD in English
+    it: CAT03BDAD in Italiano
+- code: CAT03BDB
+  parentCode: CAT03BD
+  titles:
+    en: CAT03BDB in English
+    it: CAT03BDB in Italiano
+- code: CAT03BDBA
+  parentCode: CAT03BDB
+  titles:
+    en: CAT03BDBA in English
+    it: CAT03BDBA in Italiano
+- code: CAT03BDBB
+  parentCode: CAT03BDB
+  titles:
+    en: CAT03BDBB in English
+    it: CAT03BDBB in Italiano
+- code: CAT03BDBC
+  parentCode: CAT03BDB
+  titles:
+    en: CAT03BDBC in English
+    it: CAT03BDBC in Italiano
+- code: CAT03BDBD
+  parentCode: CAT03BDB
+  titles:
+    en: CAT03BDBD in English
+    it: CAT03BDBD in Italiano
+- code: CAT03BDC
+  parentCode: CAT03BD
+  titles:
+    en: CAT03BDC in English
+    it: CAT03BDC in Italiano
+- code: CAT03BDCA
+  parentCode: CAT03BDC
+  titles:
+    en: CAT03BDCA in English
+    it: CAT03BDCA in Italiano
+- code: CAT03BDCB
+  parentCode: CAT03BDC
+  titles:
+    en: CAT03BDCB in English
+    it: CAT03BDCB in Italiano
+- code: CAT03BDCC
+  parentCode: CAT03BDC
+  titles:
+    en: CAT03BDCC in English
+    it: CAT03BDCC in Italiano
+- code: CAT03BDCD
+  parentCode: CAT03BDC
+  titles:
+    en: CAT03BDCD in English
+    it: CAT03BDCD in Italiano
+- code: CAT03BDD
+  parentCode: CAT03BD
+  titles:
+    en: CAT03BDD in English
+    it: CAT03BDD in Italiano
+- code: CAT03BDDA
+  parentCode: CAT03BDD
+  titles:
+    en: CAT03BDDA in English
+    it: CAT03BDDA in Italiano
+- code: CAT03BDDB
+  parentCode: CAT03BDD
+  titles:
+    en: CAT03BDDB in English
+    it: CAT03BDDB in Italiano
+- code: CAT03BDDC
+  parentCode: CAT03BDD
+  titles:
+    en: CAT03BDDC in English
+    it: CAT03BDDC in Italiano
+- code: CAT03BDDD
+  parentCode: CAT03BDD
+  titles:
+    en: CAT03BDDD in English
+    it: CAT03BDDD in Italiano
+- code: CAT03C
+  parentCode: home
+  titles:
+    en: CAT03C in English
+    it: CAT03C in Italiano
+- code: CAT03CA
+  parentCode: CAT03C
+  titles:
+    en: CAT03CA in English
+    it: CAT03CA in Italiano
+- code: CAT03CAA
+  parentCode: CAT03CA
+  titles:
+    en: CAT03CAA in English
+    it: CAT03CAA in Italiano
+- code: CAT03CAAA
+  parentCode: CAT03CAA
+  titles:
+    en: CAT03CAAA in English
+    it: CAT03CAAA in Italiano
+- code: CAT03CAAB
+  parentCode: CAT03CAA
+  titles:
+    en: CAT03CAAB in English
+    it: CAT03CAAB in Italiano
+- code: CAT03CAAC
+  parentCode: CAT03CAA
+  titles:
+    en: CAT03CAAC in English
+    it: CAT03CAAC in Italiano
+- code: CAT03CAAD
+  parentCode: CAT03CAA
+  titles:
+    en: CAT03CAAD in English
+    it: CAT03CAAD in Italiano
+- code: CAT03CAB
+  parentCode: CAT03CA
+  titles:
+    en: CAT03CAB in English
+    it: CAT03CAB in Italiano
+- code: CAT03CABA
+  parentCode: CAT03CAB
+  titles:
+    en: CAT03CABA in English
+    it: CAT03CABA in Italiano
+- code: CAT03CABB
+  parentCode: CAT03CAB
+  titles:
+    en: CAT03CABB in English
+    it: CAT03CABB in Italiano
+- code: CAT03CABC
+  parentCode: CAT03CAB
+  titles:
+    en: CAT03CABC in English
+    it: CAT03CABC in Italiano
+- code: CAT03CABD
+  parentCode: CAT03CAB
+  titles:
+    en: CAT03CABD in English
+    it: CAT03CABD in Italiano
+- code: CAT03CAC
+  parentCode: CAT03CA
+  titles:
+    en: CAT03CAC in English
+    it: CAT03CAC in Italiano
+- code: CAT03CACA
+  parentCode: CAT03CAC
+  titles:
+    en: CAT03CACA in English
+    it: CAT03CACA in Italiano
+- code: CAT03CACB
+  parentCode: CAT03CAC
+  titles:
+    en: CAT03CACB in English
+    it: CAT03CACB in Italiano
+- code: CAT03CACC
+  parentCode: CAT03CAC
+  titles:
+    en: CAT03CACC in English
+    it: CAT03CACC in Italiano
+- code: CAT03CACD
+  parentCode: CAT03CAC
+  titles:
+    en: CAT03CACD in English
+    it: CAT03CACD in Italiano
+- code: CAT03CAD
+  parentCode: CAT03CA
+  titles:
+    en: CAT03CAD in English
+    it: CAT03CAD in Italiano
+- code: CAT03CADA
+  parentCode: CAT03CAD
+  titles:
+    en: CAT03CADA in English
+    it: CAT03CADA in Italiano
+- code: CAT03CADB
+  parentCode: CAT03CAD
+  titles:
+    en: CAT03CADB in English
+    it: CAT03CADB in Italiano
+- code: CAT03CADC
+  parentCode: CAT03CAD
+  titles:
+    en: CAT03CADC in English
+    it: CAT03CADC in Italiano
+- code: CAT03CADD
+  parentCode: CAT03CAD
+  titles:
+    en: CAT03CADD in English
+    it: CAT03CADD in Italiano
+- code: CAT03CB
+  parentCode: CAT03C
+  titles:
+    en: CAT03CB in English
+    it: CAT03CB in Italiano
+- code: CAT03CBA
+  parentCode: CAT03CB
+  titles:
+    en: CAT03CBA in English
+    it: CAT03CBA in Italiano
+- code: CAT03CBAA
+  parentCode: CAT03CBA
+  titles:
+    en: CAT03CBAA in English
+    it: CAT03CBAA in Italiano
+- code: CAT03CBAB
+  parentCode: CAT03CBA
+  titles:
+    en: CAT03CBAB in English
+    it: CAT03CBAB in Italiano
+- code: CAT03CBAC
+  parentCode: CAT03CBA
+  titles:
+    en: CAT03CBAC in English
+    it: CAT03CBAC in Italiano
+- code: CAT03CBAD
+  parentCode: CAT03CBA
+  titles:
+    en: CAT03CBAD in English
+    it: CAT03CBAD in Italiano
+- code: CAT03CBB
+  parentCode: CAT03CB
+  titles:
+    en: CAT03CBB in English
+    it: CAT03CBB in Italiano
+- code: CAT03CBBA
+  parentCode: CAT03CBB
+  titles:
+    en: CAT03CBBA in English
+    it: CAT03CBBA in Italiano
+- code: CAT03CBBB
+  parentCode: CAT03CBB
+  titles:
+    en: CAT03CBBB in English
+    it: CAT03CBBB in Italiano
+- code: CAT03CBBC
+  parentCode: CAT03CBB
+  titles:
+    en: CAT03CBBC in English
+    it: CAT03CBBC in Italiano
+- code: CAT03CBBD
+  parentCode: CAT03CBB
+  titles:
+    en: CAT03CBBD in English
+    it: CAT03CBBD in Italiano
+- code: CAT03CBC
+  parentCode: CAT03CB
+  titles:
+    en: CAT03CBC in English
+    it: CAT03CBC in Italiano
+- code: CAT03CBCA
+  parentCode: CAT03CBC
+  titles:
+    en: CAT03CBCA in English
+    it: CAT03CBCA in Italiano
+- code: CAT03CBCB
+  parentCode: CAT03CBC
+  titles:
+    en: CAT03CBCB in English
+    it: CAT03CBCB in Italiano
+- code: CAT03CBCC
+  parentCode: CAT03CBC
+  titles:
+    en: CAT03CBCC in English
+    it: CAT03CBCC in Italiano
+- code: CAT03CBCD
+  parentCode: CAT03CBC
+  titles:
+    en: CAT03CBCD in English
+    it: CAT03CBCD in Italiano
+- code: CAT03CBD
+  parentCode: CAT03CB
+  titles:
+    en: CAT03CBD in English
+    it: CAT03CBD in Italiano
+- code: CAT03CBDA
+  parentCode: CAT03CBD
+  titles:
+    en: CAT03CBDA in English
+    it: CAT03CBDA in Italiano
+- code: CAT03CBDB
+  parentCode: CAT03CBD
+  titles:
+    en: CAT03CBDB in English
+    it: CAT03CBDB in Italiano
+- code: CAT03CBDC
+  parentCode: CAT03CBD
+  titles:
+    en: CAT03CBDC in English
+    it: CAT03CBDC in Italiano
+- code: CAT03CBDD
+  parentCode: CAT03CBD
+  titles:
+    en: CAT03CBDD in English
+    it: CAT03CBDD in Italiano
+- code: CAT03CC
+  parentCode: CAT03C
+  titles:
+    en: CAT03CC in English
+    it: CAT03CC in Italiano
+- code: CAT03CCA
+  parentCode: CAT03CC
+  titles:
+    en: CAT03CCA in English
+    it: CAT03CCA in Italiano
+- code: CAT03CCAA
+  parentCode: CAT03CCA
+  titles:
+    en: CAT03CCAA in English
+    it: CAT03CCAA in Italiano
+- code: CAT03CCAB
+  parentCode: CAT03CCA
+  titles:
+    en: CAT03CCAB in English
+    it: CAT03CCAB in Italiano
+- code: CAT03CCAC
+  parentCode: CAT03CCA
+  titles:
+    en: CAT03CCAC in English
+    it: CAT03CCAC in Italiano
+- code: CAT03CCAD
+  parentCode: CAT03CCA
+  titles:
+    en: CAT03CCAD in English
+    it: CAT03CCAD in Italiano
+- code: CAT03CCB
+  parentCode: CAT03CC
+  titles:
+    en: CAT03CCB in English
+    it: CAT03CCB in Italiano
+- code: CAT03CCBA
+  parentCode: CAT03CCB
+  titles:
+    en: CAT03CCBA in English
+    it: CAT03CCBA in Italiano
+- code: CAT03CCBB
+  parentCode: CAT03CCB
+  titles:
+    en: CAT03CCBB in English
+    it: CAT03CCBB in Italiano
+- code: CAT03CCBC
+  parentCode: CAT03CCB
+  titles:
+    en: CAT03CCBC in English
+    it: CAT03CCBC in Italiano
+- code: CAT03CCBD
+  parentCode: CAT03CCB
+  titles:
+    en: CAT03CCBD in English
+    it: CAT03CCBD in Italiano
+- code: CAT03CCC
+  parentCode: CAT03CC
+  titles:
+    en: CAT03CCC in English
+    it: CAT03CCC in Italiano
+- code: CAT03CCCA
+  parentCode: CAT03CCC
+  titles:
+    en: CAT03CCCA in English
+    it: CAT03CCCA in Italiano
+- code: CAT03CCCB
+  parentCode: CAT03CCC
+  titles:
+    en: CAT03CCCB in English
+    it: CAT03CCCB in Italiano
+- code: CAT03CCCC
+  parentCode: CAT03CCC
+  titles:
+    en: CAT03CCCC in English
+    it: CAT03CCCC in Italiano
+- code: CAT03CCCD
+  parentCode: CAT03CCC
+  titles:
+    en: CAT03CCCD in English
+    it: CAT03CCCD in Italiano
+- code: CAT03CCD
+  parentCode: CAT03CC
+  titles:
+    en: CAT03CCD in English
+    it: CAT03CCD in Italiano
+- code: CAT03CCDA
+  parentCode: CAT03CCD
+  titles:
+    en: CAT03CCDA in English
+    it: CAT03CCDA in Italiano
+- code: CAT03CCDB
+  parentCode: CAT03CCD
+  titles:
+    en: CAT03CCDB in English
+    it: CAT03CCDB in Italiano
+- code: CAT03CCDC
+  parentCode: CAT03CCD
+  titles:
+    en: CAT03CCDC in English
+    it: CAT03CCDC in Italiano
+- code: CAT03CCDD
+  parentCode: CAT03CCD
+  titles:
+    en: CAT03CCDD in English
+    it: CAT03CCDD in Italiano
+- code: CAT03CD
+  parentCode: CAT03C
+  titles:
+    en: CAT03CD in English
+    it: CAT03CD in Italiano
+- code: CAT03CDA
+  parentCode: CAT03CD
+  titles:
+    en: CAT03CDA in English
+    it: CAT03CDA in Italiano
+- code: CAT03CDAA
+  parentCode: CAT03CDA
+  titles:
+    en: CAT03CDAA in English
+    it: CAT03CDAA in Italiano
+- code: CAT03CDAB
+  parentCode: CAT03CDA
+  titles:
+    en: CAT03CDAB in English
+    it: CAT03CDAB in Italiano
+- code: CAT03CDAC
+  parentCode: CAT03CDA
+  titles:
+    en: CAT03CDAC in English
+    it: CAT03CDAC in Italiano
+- code: CAT03CDAD
+  parentCode: CAT03CDA
+  titles:
+    en: CAT03CDAD in English
+    it: CAT03CDAD in Italiano
+- code: CAT03CDB
+  parentCode: CAT03CD
+  titles:
+    en: CAT03CDB in English
+    it: CAT03CDB in Italiano
+- code: CAT03CDBA
+  parentCode: CAT03CDB
+  titles:
+    en: CAT03CDBA in English
+    it: CAT03CDBA in Italiano
+- code: CAT03CDBB
+  parentCode: CAT03CDB
+  titles:
+    en: CAT03CDBB in English
+    it: CAT03CDBB in Italiano
+- code: CAT03CDBC
+  parentCode: CAT03CDB
+  titles:
+    en: CAT03CDBC in English
+    it: CAT03CDBC in Italiano
+- code: CAT03CDBD
+  parentCode: CAT03CDB
+  titles:
+    en: CAT03CDBD in English
+    it: CAT03CDBD in Italiano
+- code: CAT03CDC
+  parentCode: CAT03CD
+  titles:
+    en: CAT03CDC in English
+    it: CAT03CDC in Italiano
+- code: CAT03CDCA
+  parentCode: CAT03CDC
+  titles:
+    en: CAT03CDCA in English
+    it: CAT03CDCA in Italiano
+- code: CAT03CDCB
+  parentCode: CAT03CDC
+  titles:
+    en: CAT03CDCB in English
+    it: CAT03CDCB in Italiano
+- code: CAT03CDCC
+  parentCode: CAT03CDC
+  titles:
+    en: CAT03CDCC in English
+    it: CAT03CDCC in Italiano
+- code: CAT03CDCD
+  parentCode: CAT03CDC
+  titles:
+    en: CAT03CDCD in English
+    it: CAT03CDCD in Italiano
+- code: CAT03CDD
+  parentCode: CAT03CD
+  titles:
+    en: CAT03CDD in English
+    it: CAT03CDD in Italiano
+- code: CAT03CDDA
+  parentCode: CAT03CDD
+  titles:
+    en: CAT03CDDA in English
+    it: CAT03CDDA in Italiano
+- code: CAT03CDDB
+  parentCode: CAT03CDD
+  titles:
+    en: CAT03CDDB in English
+    it: CAT03CDDB in Italiano
+- code: CAT03CDDC
+  parentCode: CAT03CDD
+  titles:
+    en: CAT03CDDC in English
+    it: CAT03CDDC in Italiano
+- code: CAT03CDDD
+  parentCode: CAT03CDD
+  titles:
+    en: CAT03CDDD in English
+    it: CAT03CDDD in Italiano
+- code: CAT03D
+  parentCode: home
+  titles:
+    en: CAT03D in English
+    it: CAT03D in Italiano
+- code: CAT03DA
+  parentCode: CAT03D
+  titles:
+    en: CAT03DA in English
+    it: CAT03DA in Italiano
+- code: CAT03DAA
+  parentCode: CAT03DA
+  titles:
+    en: CAT03DAA in English
+    it: CAT03DAA in Italiano
+- code: CAT03DAAA
+  parentCode: CAT03DAA
+  titles:
+    en: CAT03DAAA in English
+    it: CAT03DAAA in Italiano
+- code: CAT03DAAB
+  parentCode: CAT03DAA
+  titles:
+    en: CAT03DAAB in English
+    it: CAT03DAAB in Italiano
+- code: CAT03DAAC
+  parentCode: CAT03DAA
+  titles:
+    en: CAT03DAAC in English
+    it: CAT03DAAC in Italiano
+- code: CAT03DAAD
+  parentCode: CAT03DAA
+  titles:
+    en: CAT03DAAD in English
+    it: CAT03DAAD in Italiano
+- code: CAT03DAB
+  parentCode: CAT03DA
+  titles:
+    en: CAT03DAB in English
+    it: CAT03DAB in Italiano
+- code: CAT03DABA
+  parentCode: CAT03DAB
+  titles:
+    en: CAT03DABA in English
+    it: CAT03DABA in Italiano
+- code: CAT03DABB
+  parentCode: CAT03DAB
+  titles:
+    en: CAT03DABB in English
+    it: CAT03DABB in Italiano
+- code: CAT03DABC
+  parentCode: CAT03DAB
+  titles:
+    en: CAT03DABC in English
+    it: CAT03DABC in Italiano
+- code: CAT03DABD
+  parentCode: CAT03DAB
+  titles:
+    en: CAT03DABD in English
+    it: CAT03DABD in Italiano
+- code: CAT03DAC
+  parentCode: CAT03DA
+  titles:
+    en: CAT03DAC in English
+    it: CAT03DAC in Italiano
+- code: CAT03DACA
+  parentCode: CAT03DAC
+  titles:
+    en: CAT03DACA in English
+    it: CAT03DACA in Italiano
+- code: CAT03DACB
+  parentCode: CAT03DAC
+  titles:
+    en: CAT03DACB in English
+    it: CAT03DACB in Italiano
+- code: CAT03DACC
+  parentCode: CAT03DAC
+  titles:
+    en: CAT03DACC in English
+    it: CAT03DACC in Italiano
+- code: CAT03DACD
+  parentCode: CAT03DAC
+  titles:
+    en: CAT03DACD in English
+    it: CAT03DACD in Italiano
+- code: CAT03DAD
+  parentCode: CAT03DA
+  titles:
+    en: CAT03DAD in English
+    it: CAT03DAD in Italiano
+- code: CAT03DADA
+  parentCode: CAT03DAD
+  titles:
+    en: CAT03DADA in English
+    it: CAT03DADA in Italiano
+- code: CAT03DADB
+  parentCode: CAT03DAD
+  titles:
+    en: CAT03DADB in English
+    it: CAT03DADB in Italiano
+- code: CAT03DADC
+  parentCode: CAT03DAD
+  titles:
+    en: CAT03DADC in English
+    it: CAT03DADC in Italiano
+- code: CAT03DADD
+  parentCode: CAT03DAD
+  titles:
+    en: CAT03DADD in English
+    it: CAT03DADD in Italiano
+- code: CAT03DB
+  parentCode: CAT03D
+  titles:
+    en: CAT03DB in English
+    it: CAT03DB in Italiano
+- code: CAT03DBA
+  parentCode: CAT03DB
+  titles:
+    en: CAT03DBA in English
+    it: CAT03DBA in Italiano
+- code: CAT03DBAA
+  parentCode: CAT03DBA
+  titles:
+    en: CAT03DBAA in English
+    it: CAT03DBAA in Italiano
+- code: CAT03DBAB
+  parentCode: CAT03DBA
+  titles:
+    en: CAT03DBAB in English
+    it: CAT03DBAB in Italiano
+- code: CAT03DBAC
+  parentCode: CAT03DBA
+  titles:
+    en: CAT03DBAC in English
+    it: CAT03DBAC in Italiano
+- code: CAT03DBAD
+  parentCode: CAT03DBA
+  titles:
+    en: CAT03DBAD in English
+    it: CAT03DBAD in Italiano
+- code: CAT03DBB
+  parentCode: CAT03DB
+  titles:
+    en: CAT03DBB in English
+    it: CAT03DBB in Italiano
+- code: CAT03DBBA
+  parentCode: CAT03DBB
+  titles:
+    en: CAT03DBBA in English
+    it: CAT03DBBA in Italiano
+- code: CAT03DBBB
+  parentCode: CAT03DBB
+  titles:
+    en: CAT03DBBB in English
+    it: CAT03DBBB in Italiano
+- code: CAT03DBBC
+  parentCode: CAT03DBB
+  titles:
+    en: CAT03DBBC in English
+    it: CAT03DBBC in Italiano
+- code: CAT03DBBD
+  parentCode: CAT03DBB
+  titles:
+    en: CAT03DBBD in English
+    it: CAT03DBBD in Italiano
+- code: CAT03DBC
+  parentCode: CAT03DB
+  titles:
+    en: CAT03DBC in English
+    it: CAT03DBC in Italiano
+- code: CAT03DBCA
+  parentCode: CAT03DBC
+  titles:
+    en: CAT03DBCA in English
+    it: CAT03DBCA in Italiano
+- code: CAT03DBCB
+  parentCode: CAT03DBC
+  titles:
+    en: CAT03DBCB in English
+    it: CAT03DBCB in Italiano
+- code: CAT03DBCC
+  parentCode: CAT03DBC
+  titles:
+    en: CAT03DBCC in English
+    it: CAT03DBCC in Italiano
+- code: CAT03DBCD
+  parentCode: CAT03DBC
+  titles:
+    en: CAT03DBCD in English
+    it: CAT03DBCD in Italiano
+- code: CAT03DBD
+  parentCode: CAT03DB
+  titles:
+    en: CAT03DBD in English
+    it: CAT03DBD in Italiano
+- code: CAT03DBDA
+  parentCode: CAT03DBD
+  titles:
+    en: CAT03DBDA in English
+    it: CAT03DBDA in Italiano
+- code: CAT03DBDB
+  parentCode: CAT03DBD
+  titles:
+    en: CAT03DBDB in English
+    it: CAT03DBDB in Italiano
+- code: CAT03DBDC
+  parentCode: CAT03DBD
+  titles:
+    en: CAT03DBDC in English
+    it: CAT03DBDC in Italiano
+- code: CAT03DBDD
+  parentCode: CAT03DBD
+  titles:
+    en: CAT03DBDD in English
+    it: CAT03DBDD in Italiano
+- code: CAT03DC
+  parentCode: CAT03D
+  titles:
+    en: CAT03DC in English
+    it: CAT03DC in Italiano
+- code: CAT03DCA
+  parentCode: CAT03DC
+  titles:
+    en: CAT03DCA in English
+    it: CAT03DCA in Italiano
+- code: CAT03DCAA
+  parentCode: CAT03DCA
+  titles:
+    en: CAT03DCAA in English
+    it: CAT03DCAA in Italiano
+- code: CAT03DCAB
+  parentCode: CAT03DCA
+  titles:
+    en: CAT03DCAB in English
+    it: CAT03DCAB in Italiano
+- code: CAT03DCAC
+  parentCode: CAT03DCA
+  titles:
+    en: CAT03DCAC in English
+    it: CAT03DCAC in Italiano
+- code: CAT03DCAD
+  parentCode: CAT03DCA
+  titles:
+    en: CAT03DCAD in English
+    it: CAT03DCAD in Italiano
+- code: CAT03DCB
+  parentCode: CAT03DC
+  titles:
+    en: CAT03DCB in English
+    it: CAT03DCB in Italiano
+- code: CAT03DCBA
+  parentCode: CAT03DCB
+  titles:
+    en: CAT03DCBA in English
+    it: CAT03DCBA in Italiano
+- code: CAT03DCBB
+  parentCode: CAT03DCB
+  titles:
+    en: CAT03DCBB in English
+    it: CAT03DCBB in Italiano
+- code: CAT03DCBC
+  parentCode: CAT03DCB
+  titles:
+    en: CAT03DCBC in English
+    it: CAT03DCBC in Italiano
+- code: CAT03DCBD
+  parentCode: CAT03DCB
+  titles:
+    en: CAT03DCBD in English
+    it: CAT03DCBD in Italiano
+- code: CAT03DCC
+  parentCode: CAT03DC
+  titles:
+    en: CAT03DCC in English
+    it: CAT03DCC in Italiano
+- code: CAT03DCCA
+  parentCode: CAT03DCC
+  titles:
+    en: CAT03DCCA in English
+    it: CAT03DCCA in Italiano
+- code: CAT03DCCB
+  parentCode: CAT03DCC
+  titles:
+    en: CAT03DCCB in English
+    it: CAT03DCCB in Italiano
+- code: CAT03DCCC
+  parentCode: CAT03DCC
+  titles:
+    en: CAT03DCCC in English
+    it: CAT03DCCC in Italiano
+- code: CAT03DCCD
+  parentCode: CAT03DCC
+  titles:
+    en: CAT03DCCD in English
+    it: CAT03DCCD in Italiano
+- code: CAT03DCD
+  parentCode: CAT03DC
+  titles:
+    en: CAT03DCD in English
+    it: CAT03DCD in Italiano
+- code: CAT03DCDA
+  parentCode: CAT03DCD
+  titles:
+    en: CAT03DCDA in English
+    it: CAT03DCDA in Italiano
+- code: CAT03DCDB
+  parentCode: CAT03DCD
+  titles:
+    en: CAT03DCDB in English
+    it: CAT03DCDB in Italiano
+- code: CAT03DCDC
+  parentCode: CAT03DCD
+  titles:
+    en: CAT03DCDC in English
+    it: CAT03DCDC in Italiano
+- code: CAT03DCDD
+  parentCode: CAT03DCD
+  titles:
+    en: CAT03DCDD in English
+    it: CAT03DCDD in Italiano
+- code: CAT03DD
+  parentCode: CAT03D
+  titles:
+    en: CAT03DD in English
+    it: CAT03DD in Italiano
+- code: CAT03DDA
+  parentCode: CAT03DD
+  titles:
+    en: CAT03DDA in English
+    it: CAT03DDA in Italiano
+- code: CAT03DDAA
+  parentCode: CAT03DDA
+  titles:
+    en: CAT03DDAA in English
+    it: CAT03DDAA in Italiano
+- code: CAT03DDAB
+  parentCode: CAT03DDA
+  titles:
+    en: CAT03DDAB in English
+    it: CAT03DDAB in Italiano
+- code: CAT03DDAC
+  parentCode: CAT03DDA
+  titles:
+    en: CAT03DDAC in English
+    it: CAT03DDAC in Italiano
+- code: CAT03DDAD
+  parentCode: CAT03DDA
+  titles:
+    en: CAT03DDAD in English
+    it: CAT03DDAD in Italiano
+- code: CAT03DDB
+  parentCode: CAT03DD
+  titles:
+    en: CAT03DDB in English
+    it: CAT03DDB in Italiano
+- code: CAT03DDBA
+  parentCode: CAT03DDB
+  titles:
+    en: CAT03DDBA in English
+    it: CAT03DDBA in Italiano
+- code: CAT03DDBB
+  parentCode: CAT03DDB
+  titles:
+    en: CAT03DDBB in English
+    it: CAT03DDBB in Italiano
+- code: CAT03DDBC
+  parentCode: CAT03DDB
+  titles:
+    en: CAT03DDBC in English
+    it: CAT03DDBC in Italiano
+- code: CAT03DDBD
+  parentCode: CAT03DDB
+  titles:
+    en: CAT03DDBD in English
+    it: CAT03DDBD in Italiano
+- code: CAT03DDC
+  parentCode: CAT03DD
+  titles:
+    en: CAT03DDC in English
+    it: CAT03DDC in Italiano
+- code: CAT03DDCA
+  parentCode: CAT03DDC
+  titles:
+    en: CAT03DDCA in English
+    it: CAT03DDCA in Italiano
+- code: CAT03DDCB
+  parentCode: CAT03DDC
+  titles:
+    en: CAT03DDCB in English
+    it: CAT03DDCB in Italiano
+- code: CAT03DDCC
+  parentCode: CAT03DDC
+  titles:
+    en: CAT03DDCC in English
+    it: CAT03DDCC in Italiano
+- code: CAT03DDCD
+  parentCode: CAT03DDC
+  titles:
+    en: CAT03DDCD in English
+    it: CAT03DDCD in Italiano
+- code: CAT03DDD
+  parentCode: CAT03DD
+  titles:
+    en: CAT03DDD in English
+    it: CAT03DDD in Italiano
+- code: CAT03DDDA
+  parentCode: CAT03DDD
+  titles:
+    en: CAT03DDDA in English
+    it: CAT03DDDA in Italiano
+- code: CAT03DDDB
+  parentCode: CAT03DDD
+  titles:
+    en: CAT03DDDB in English
+    it: CAT03DDDB in Italiano
+- code: CAT03DDDC
+  parentCode: CAT03DDD
+  titles:
+    en: CAT03DDDC in English
+    it: CAT03DDDC in Italiano
+- code: CAT03DDDD
+  parentCode: CAT03DDD
+  titles:
+    en: CAT03DDDD in English
+    it: CAT03DDDD in Italiano
